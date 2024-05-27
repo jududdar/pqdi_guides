@@ -2,66 +2,66 @@
 
 - [ ] [Shadow Knight Epic - Innoruuk's Curse](#shadow-knight-epic---innoruuks-curse)
     - [ ] [Pre-Farmable Items](#pre-farmable-items)
-                - [ ] [Darkforge Armor](#darkforge-armor)
-                - [ ] [Money - 900pp](#money-900pp)
-                - [ ] [Money - 1000pp](#money-1000pp)
-                - [ ] [Dusty Tome](#dusty-tome)
-                - [ ] [Blade of Abrogation](#blade-of-abrogation)
-                - [ ] [Ghoulbane](#ghoulbane)
-                - [ ] [Soul Leech, Dark Sword of Blood](#soul-leech-dark-sword-of-blood)
-                - [ ] [Drake Spine](#drake-spine)
-                - [ ] [Decrepit Hide](#decrepit-hide)
+                - [ ] [Darkforge Armor](#darkforge-armor): Get Darkforge Helm, Darkforge Greaves, and Darkforge Breastplate
+                - [ ] [Money - 900pp](#money-900pp): Acquire Currency
+                - [ ] [Money - 1000pp](#money-1000pp): Acquire Currency
+                - [ ] [Dusty Tome](#dusty-tome): Loot Dusty Tome in The Hole
+                - [ ] [Blade of Abrogation](#blade-of-abrogation): Loot Blade of Abrogation in Plane of Sky
+                - [ ] [Ghoulbane](#ghoulbane): Get/Loot Ghoulbane
+                - [ ] [Soul Leech, Dark Sword of Blood]: (#soul-leech-dark-sword-of-blood): Loot in Plane of Fear
+                - [ ] [Drake Spine](#drake-spine): Loot in Rathe Mountains
+                - [ ] [Decrepit Hide](#decrepit-hide):  Loot in Plane of Hate
     - [ ] [The Quest](#the-quest)
-        - [ ] [Step 1](#step-1)
-        - [ ] [Step 2](#step-2)
-        - [ ] [Step 3](#step-3)
-        - [ ] [Step 4](#step-4)
-        - [ ] [Step 5](#step-5)
-        - [ ] [Step 6](#step-6)
-        - [ ] [Step 7](#step-7)
-        - [ ] [Step 8](#step-8)
-        - [ ] [Step 9](#step-9)
-        - [ ] [Step 10](#step-10)
-        - [ ] [Step 11](#step-11)
-        - [ ] [Step 12](#step-12)
-        - [ ] [Step 13](#step-13)
-        - [ ] [Step 14](#step-14)
-        - [ ] [Step 15](#step-15)
-        - [ ] [Step 16](#step-16)
-        - [ ] [Step 17](#step-17)
-        - [ ] [Step 18](#step-18)
-        - [ ] [Step 19](#step-19)
-        - [ ] [Step 20](#step-20)
+        - [ ] [Step 1](#step-1): Get Darkforge Helm, Darkforge Greaves, and Darkforge Breastplate
+        - [ ] [Step 2](#step-2): Loot Letter to Duriek in The Overthere
+        - [ ] [Step 3](#step-3): Get faction in Paineel
+        - [ ] [Step 4](#step-4): Get Cough Elixir in Neriak Foreign Quarter
+        - [ ] [Step 5](#step-5): Get faction in Paineel
+        - [ ] [Step 6](#step-6): Loot Dusty Tome (and maybe Cell Key) in The Hole
+        - [ ] [Step 7](#step-7): Loot Blade of Abrogation in Plane of Sky
+        - [ ] [Step 8](#step-8): Obtain Ghoulbane
+        - [ ] [Step 9](#step-9): Loot Soul Leech, Dark Sword of Blood in Plane of Fear
+        - [ ] [Step 10](#step-10): Quest for Decrepit Sheath
+        - [ ] [Step 11](#step-11): Get Corrupted Ghoulbane
+        - [ ] [Step 12](#step-12): Get Soulcase and Seal of Kastane
+        - [ ] [Step 13](#step-13): Get Note to Marl
+        - [ ] [Step 14](#step-14): Loot Cell Key in The Hole
+        - [ ] [Step 15](#step-15): Loot Blood and Heart of Kyrenna
+        - [ ] [Step 16](#step-16): Get Heart of the Innocent
+        - [ ] [Step 17](#step-17): Loot Head of Glohnor and Glohnor Wrappings
+        - [ ] [Step 18](#step-18): Get Head of the Valiant
+        - [ ] [Step 19](#step-19): Get Will of Innoruuk
+        - [ ] [Step 20](#step-20): Get Innoruuk's Curse
 
 
 ## Pre-Farmable Items
 
 ##### Darkforge Armor
-All items in Step 1
+All items in [Step 1](#step-1)
 
 ##### Money - 900pp
-For Step 2
+For [Step 2](#step-2)
 
 ##### Money - 1000pp
-For Step 4
+For [Step 4](#step-4)
 
 ##### Dusty Tome 
-Loot from a ratman guard
+Kill [a ratman guard](/npc/39011) in [The Hole](/zone/39) and loot [Dusty Tome](/item/14382)
 
 ##### Blade of Abrogation
-Loot from trash mobs in Plane of Sky
+Kill trash mobs in [Plane of Sky](/zone/71) and loot [Blade of Abrogation](/item/5430)
 
 ##### Ghoulbane 
-Lootfrom froglok shin lord in Upper Guk or Joren Nobleheart in Felwithe B.
+Kill the [froglok shin lord](/npc/65128) in [Upper Guk](/zone/65) or [Joren Nobleheart](/npc/62000) in [Southern Felwithe](/zone/62) and loot [Ghoulbane](/item/5403)
 
 ##### Soul Leech, Dark Sword of Blood
-Loot from Dread, Fight, Terror, or Cazic-Thule in PoFear
+Kill [Dread](/npc/72000), [Fright](/npc/72004), [Terror](/npc/72002), or [Cazic Thule](/npc/72500) in [Plane of Fear](/zone/72) and loot [Soul Leech, Dark Sword of Blood](/item/11609)
 
 ##### Drake Spine
-Loot from Rharzar in Rathe Mountains
+Kill [Rharzar](/npc/50019) in [Rathe Mountains](/zone/50) and loot [Drake Spine](/item/14372)
 
 ##### Decrepit Hide
-Loot from an ashenbone drake in PoHate
+Kill [an ashenbone drake](/npc/76002) in [Plane of Hate](/zone/76) and loot [Decrepit Hide](/item/14371)
 
 ## The Quest
 
@@ -69,41 +69,40 @@ Loot from an ashenbone drake in PoHate
 
 Step 1 can take a long time as the drops are rare.
 
-You'll first need to quest for 3 pieces of Darkforge Armor: Darkforge Helm, Darkforge Greaves, and Darkforge Breastplate. Each item requires multiple drops. Once you have the necessary drops, you'll turn them into an undead knight NPC in Temple of Solusek Ro to receive the Armor. There are 2 an undead knight NPC's in the same room, so make sure to hand in your items to the correct one (outlined below).
+You'll first need to quest for 3 pieces of Darkforge Armor: [Darkforge Helm](/item/3140), [Darkforge Greaves](/item/3145), and [Darkforge Breastplate](/item/3141). Each item requires multiple drops. Once you have the necessary drops, you'll turn them into [an undead knight](/npc/80001) NPC in [Temple of Solusek Ro](/zone/80) to receive the Armor. There are 2 an undead knight NPC's in the same room, so make sure to hand in your items to the correct one (outlined below).
 
-The resulting Darkforge Armor items are tradable so you can potentially buy them from someone else. The drops are pretty rare though, so expect that you'll have to do it yourself in most cases.
+The resulting Darkforge Armor items are tradable so you can potentially buy them from someone else.
 
-1. Darkforge Helm
+1. [Darkforge Helm](/item/3140) - [Script Page](/script-entities/soltemple/an_undead_knight_)
 
-1x Decayed Helm - a Tae Ew crusader and a Tae Ew Spiritualist in Feerrott, Rare Spawn and Drop
-1x Decayed Visor - a Tae Ew crusader and a Tae Ew Spiritualist in Feerrott, Rare Spawn and Drop
-2x Damaged Militia Helm - Drops from Guards in Freeport, Common Drop
+    - 1x [Decayed Helm](/item/12283)
+    - 1x [Decayed Visor](/item/12284)
+    - 2x [Damaged Militia Helm](/item/13921)
 
 Turn into an undead knight in Temple of Solusek Ro (North skeleton)
 
-2. Darkforge Greaves
+2. [Darkforge Greaves](/item/3145) - [Script Page](/script-entities/soltemple/an_undead_knight)
 
-1x Decayed Left Legplate - a Tae Ew crusader and a Tae Ew Spiritualist in Feerrott, Rare Spawn and Drop
-1x Decayed Right Legplate - a Tae Ew crusader and a Tae Ew Spiritualist in Feerrott, Rare Spawn and Drop
-2x Melatite - Drops from "CWG" gnomes in SolA, Uncommon Drop
+    - 1x [Decayed Left Legplate](/item/12294)
+    - 1x [Decayed Right Legplate](/item/12293)
+    - 2x [Melatite](/item/12297)
 
 Turn into an undead knight in Temple of Solusek Ro (South skeleton)
 
-3. Darkforge Breastplate
+3. [Darkforge Breastplate](/item/3141) - [Script Page](/script-entities/soltemple/an_undead_knight_)
 
-1x Decayed Breastplate - a Tae Ew crusader and a Tae Ew Spiritualist in Feerrott, Rare Spawn and Drop
-1x Decayed Chainmail - a Tae Ew crusader and a Tae Ew Spiritualist in Feerrott, Rare Spawn and Drop
-2x Enchanted Platinum Bar - Created by Enchanters
+    - 1x [Decayed Breastplate](/item/12285)
+    - 1x [Decayed Chainmail](/item/12286)
+    - 2x [Enchanted Platinum Bar](/item/16507)
 
 Turn into an undead knight in Temple of Solusek Ro (North skeleton)
 
 
 
 ### Step 2
+[Script Page](/script-entities/overthere/Kurron_Ni)
 
-Head to The Overthere and find Kurron Ni. He is in town and has a respawn of approx. 4 hours. Give him Darkforge Helm, Darkforge Greaves, Darkforge Breastplate, and 900pp. He will respawn.  Kill him and loot Letter to Duriek.
-
-You may need to say `what mission` to be able to attack him (unconfirmed). He will likely require a group in era, and is highly resistant to spells.
+Head to [The Overthere](/zone/93) and find [Kurron Ni](/npc/93083) (3248.0, 2203.0). He is in town and has a respawn of approx. 4 hours. Give him [Darkforge Helm](/item/3140), [Darkforge Greaves](/item/3145), [Darkforge Breastplate](/item/3141), and 900pp. He will respawn as [Kurron Ni](/npc/93006).  Kill him and loot [Letter to Duriek](/item/18099).  Bring some friends.
 
 ### Step 3
 
