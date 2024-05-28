@@ -105,133 +105,151 @@ Turn into an undead knight in Temple of Solusek Ro (North skeleton)
 Head to [The Overthere](/zone/93) and find [Kurron Ni](/npc/93083) (3248.0, 2203.0). He is in town and has a respawn of approx. 4 hours. Give him [Darkforge Helm](/item/3140), [Darkforge Greaves](/item/3145), [Darkforge Breastplate](/item/3141), and 900pp. He will respawn as [Kurron Ni](/npc/93006).  Kill him and loot [Letter to Duriek](/item/18099).  Bring some friends.
 
 ### Step 3
+[Script Page](/script-entities/paineel/Duriek_Bloodpool)
 
-Find Duriek Bloodpool in Paineel. He is located in a small room overlooking the noob area. Give him Letter to Duriek. You'll get some faction in return (+3 Truespirit). 
+Find [Duriek Bloodpool](/npc/75003) in [Paineel](/zone/75). He is located in a small room overlooking the noob area (906.0, -98.0). Give him [Letter to Duriek](/item/18099). You'll get some faction in return (+3 [Truespirit](/faction/404)). 
 
 ### Step 4
+[Script Page](/script-entities/neriaka/Smaka)
 
-Go to Neriak A (Foreign Quarter). Give 1000pp to Smaka to receive Cough Elixir.
-
-Note: For additional faction, you may be able do Step 4 and Step 5 twice to skip Step 6, but I have not personally tested this.
+Go to [Neriak Foreign Quarter](/zone/40). Give 1000pp to [Smaka](/npc/40034) (-334.0, -106.0) to receive [Cough Elixir](/item/14365).
 
 ### Step 5
+[Script Page](/script-entities/paineel/Duriek_Bloodpool)
 
-Go back to Paineel and give the  Cough Elixir to Duriek Bloodpool (+3 Truespirit).
+Go back to [Paineel](/zone/75) and give the [Cough Elixir](/item/14365) to [Duriek Bloodpool](/npc/75003) (+3 [Truespirit](/faction/404)).
 
 ### Step 6
 
-Head to The Hole and kill a ratman guard. Loot Dusty Tome. Always Drops.
+Head to [The Hole](/zone/39) and kill [a ratman guard](/npc/39011). Loot [Dusty Tome](/item/14382). 100% drop chance.
 
-The PH is a ratman warrior. Spawns in the jail area (+365, -90). You may need a group to kill a ratman guard in early eras. There may be additional spawns as well but not confirmed. A tracker can help.
+The PH is a ratman warrior. Spawns in the jail area (372.0, -87.0). You may need a group.  There are two spawn points on top of each other here - one with an 8 minute timer, the other with an 8 hour timer.
 
-Note: While here you can also do Step 14 (Loot Cell Key from a chest)
+Note: While here you can also do [Step 14](#step-14) (Loot Cell Key from a mimic)
 
-Once you have Dusty Tome give it to Duriek Bloodpool back in Paineel for some faction (+3 Truespirit).
+Once you have [Dusty Tome](/item/14382) give it to [Duriek Bloodpool](/npc/75003) back in [Paineel](/zone/75) for some faction (+3 [Truespirit](/faction/404)). ([Script Page](/script-entities/paineel/Duriek_Bloodpool))
 
 ### Step 7
 
-Go to Plane of Sky. Kill mobs (any island) until you get a Blade of Abrogation. Rare drop.
+Go to [Plane of Sky](/zone/71). Kill mobs (any island) until you get a [Blade of Abrogation](/item/5430). Rare drop.
 
 ### Step 8
 
-Obtain a Ghoulbane. You can get one from either:
+Obtain a [Ghoulbane](/item/5403). You can get one from either:
 
-1. the froglok shin lord in Upper Guk (rare spawn and drop). Roughly level 30.
+1. [froglok shin lord](/npc/65128) in [Upper Guk](/zone/65) (15% spawn chance, 25% drop chance). Level 30.
 
-2. Joren Nobleheart in Felwithe B. He is located in through center teleport pad in the back room. Joren Nobleheart is level 60 and is a harder fight of the two (Hits 200+, estimated 30K HP), but he drops the sword every time. I recommend going this route if you have a some friends who can help kill him.
+2. [Joren Nobleheart](/npc/62000) in [Southern Felwithe](/zone/62). He is located in through center teleport pad in the back room (736.0, -657.0). Joren Nobleheart is level 60 and is a harder fight of the two (Hits 266+, over 26k HP), but he drops the sword every time. If you've got some help, this is the faster route.
 
 ### Step 9
 
-Go to Plane of Fear. Kill either Dread, Fright, Terror, or Cazic-Thule. Loot Soul Leech, Dark Sword of Blood. Uncommon drop.
-
-Note: It may only drop off Cazic-Thule prior to the Velious revamp of Plane of Fear.
+Go to [Plane of Fear](/zone/72). Kill either [Dread](/npc/72000), [Fright](/npc/72004), [Terror](/npc/72002), or [Cazic Thule](/npc/72500). Loot [Soul Leech, Dark Sword of Blood](/item/11609). Uncommon drop.
 
 ### Step 10
+[Script Page](/script-entities/qcat/Teydar)
 
-Quest for Decrepit Sheath. 
+Quest for [Decrepit Sheath](/item/14366). 
 
-1. Kill Rharzar in Rathe Mountains. Loot Drake Spine. Always Drops. His PH are drakes in the area. Level 55. Casts some 500ish DD's.
+1. Kill [Rharzar](/npc/50019) in [Rathe Mountains](/zone/50). Loot [Drake Spine](/item/14372). Always Drops. His PH are drakes in the area. Level 55. Casts some 500ish DD's.
 
 
-2. Kill an ashenbone drake in Plane of Hate. Loot Decrepit Hide. Uncommon Drop. These spawn all over the zone as trash mobs. Bring a tracker.
+2. Kill [an ashenbone drake](/item/76002) in [Plane of Hate](/zone/76). Loot [Decrepit Hide](/item/14371). 3% drop chance. These spawn all over the zone as trash mobs.
 
-3. Get an Enchanted Platinum Bar. Created by Enchanters.
+3. Get an [Enchanted Platinum Bar](/item/16507). Created by Enchanters.
 
-Head to the Qeynos Catacombs (Aqueduct System) and find Teydar. The easiest way to get to him is to enter the Catacombs from the Warrior Guildmaster area in  South Qeynos.
+Head to the [Qeynos Aqueduct System](/zone/45) and find [Teydar](/npc/45044) (338.0, -408.0). The easiest way to get to him is to enter the Catacombs from the Warrior Guildmaster area in [South Qeynos](/zone/1).
 
-Give Teydar:
+Give [Teydar](/npc/45044):
 
-* Drake Spine
-* Decrepit Hide
-* Enchanted Platinum Bar
+* [Drake Spine](/item/14372)
+* [Decrepit Hide](/item/14371)
+* [Enchanted Platinum Bar](/item/16507)
 
-to receive Decrepit Sheath.
+to receive [Decrepit Sheath](/item/14366).
 
 ### Step 11
+[Script Page](/script-entities/paineel/Duriek_Bloodpool)
 
-Go back to Duriek Bloodpool in Paineel. Give him:
+Go back to [Duriek Bloodpool](/npc/75003) in [Paineel](/zone/75). Give him:
 
-* Blade of Abrogation
-* Ghoulbane
-* Soul Leech, Dark Sword of Blood
-* Decrepit Sheath
+* [Blade of Abrogation](/item/5430)
+* [Ghoulbane](/item/5403)
+* [Soul Leech, Dark Sword of Blood](/item/11609)
+* [Decrepit Sheath](/item/14366)
 
-to receive Corrupted Ghoulbane.
+to receive [Corrupted Ghoulbane](/item/14367).
 
 ### Step 12
+[Script Page](/script-entities/tox/Knarthenne_Skurl)
 
-1. Go to Toxxulia Forest. First, find Knarthenne Skurl and say `what heart of an innocent` to receive Soulcase (2 slot container).
+1. Go to [Toxxulia Forest](/zone/38). First, find [Knarthenne Skurl](/npc/38058) and say `what heart of an innocent` to receive [Soulcase](/item/17051) (2 slot container).
 
-2. Next, go to Marl Kastane on Kerra Island (still in Toxxulia Forest) and say "what prophecy" to receive Seal of Kastane.
+[Script Page](/script-entities/kerraridge/Marl_Kastane)
+
+2. Next, go to [Marl Kastane](/npc/74001) on [Kerra Isle](/zone/74) and say `what prophecy` to receive [Seal of Kastane](/item/14375).
 
 
 ### Step 13
+[Script Page](/script-entities/paineel/Gerot_Kastane)
 
-Go back to Paineel. You'll need to get to the City area, which means you'll need a key. You can either farm Kobald faction in The Warrens then get one from a guard, or have a friend/box make an level 1 Erudite to let you in. Pick Lock also works. Once in the city, find Gerot Kastane and give him Seal of Kastane to receive Note to Marl. Once obtained, head back to Marl Kastane in Toxxulia Forest and give him Note to Marl.
+Go back to [Paineel](/zone/75). You'll need to get to the City area, which means you'll need a key. Get some faction for a key, or bribe a newbie Erudite to open the elevator. Once in the city, find [Gerot Kastane](/npc/75004) (799.0, 671.0) and give him [Seal of Kastane](/item/14375) to receive [Note to Marl](/item/14376). Once obtained, head back to [Marl Kastane](/npc/74001) in [Toxxulia Forest](/zone/38) and give him [Note to Marl](/item/14376). You won't receive an item for this turn in, but you will get faction and a flag to progress the quest. ([Script Page](/script-entities/kerraridge/Marl_Kastane))
 
 ### Step 14
 
-Go to The Hole and kill a chest until Cell Key drops. Loot it. Rare Drop.
+Go to [The Hole](/zone/39) and kill [a mimic](/npc/39022) until [Cell Key](/item/14373) drops. Loot it. 25% drop chance.
 
 ### Step 15
+[Script Page](/script-entities/hole/Caradon)
 
-Once you have Cell Key you'll need to find Caradon ( +420, -190)  in The Hole. He is located in a jail cell that he shares with an elemental spawn. He has a long respawn timer so if he isn't up check him every few hours. Give him Cell Key. He will attack. Additionally another NPC, Kyrenna, will also spawn and attack. Kill them both. Loot Blood of Kyrenna and Heart of Kyrenna from the corpse of Kyrenna. Level 55, take a few players to a group to be safe in era.
+Once you have [Cell Key](/item/14373) you'll need to find [Caradon](/npc/39069) (421.0, -188.0)  in [The Hole](/zone/39). He is located in a jail cell that he shares with an elemental spawn. He has a long respawn timer so if he isn't up check him every few hours. Give him [Cell Key](/item/14373). He will attack. Additionally another NPC, [Kyrenna](/npc/39155), will also spawn and attack. Kill them both. Loot [Blood of Kyrenna](/item/14381) and [Heart of Kyrenna](/item/14380) from the corpse of Kyrenna. Level 55, bring some friends.
 
 1. Zone in from the "keyed rock" side of Paineel (as opposed to the "dropdown" side)
 2. Run through until you see a ramp leading down to a pit filled with a massive construct.
 3. At the bottom of the ramp is a doorway with a lamp on each side of it, run through and take an immediate left into the next hallway, then take the first door on the right (next to the red banner on the wall).
-4. Run down the two flights of stairs until you get to the next room with 2 doors in it. Take the door straight ahead. The first cubby on the right is the room that Caradon spawns in ( +420, -190). an elemental type mob also spawns in the same cubby.
+4. Run down the two flights of stairs until you get to the next room with 2 doors in it. Take the door straight ahead. The first cubby on the right is the room that Caradon spawns in (421.0, -188.0). an elemental type mob also spawns in the same cubby.
 
 ### Step 16
+[Script Page](/script-entities/kerraridge/Marl_Kastane)
 
-Go back to Toxxulia Forest again. Give Blood of Kyrenna to Marl Kastane to receive Dark Shroud. Then combine Heart of Kyrenna by itself in the Soulcase (2 slot container) to create  Heart of the Innocent.
+Go back to [Toxxulia Forest](/zone/38) again. Give [Blood of Kyrenna](/item/14381) to [Marl Kastane](/npc/74001) to receive [Dark Shroud](/item/14377). Then [combine](/recipe/9825) [Heart of Kyrenna](/item/14380) by itself in the [Soulcase](/item/17051) (2 slot container) to create [Heart of the Innocent](/item/14368).
 
 ### Step 17
+[Script Page](/script-entities/hole/Ghost_of_Glohnor)
 
-Find Ghost of Glohnor at the revenant tower in The Hole. His PH's are a fallen heretic who spawn in the tombs. Give him Dark Shroud. Mummy of Glohnor will spawn and attack. Kill it and loot  Head of Glohnor and Glohnor Wrappings. Level 56, take a few players to a group to be safe in era.
+Find [Ghost of Glohnor](/npc/39054) at the revenant tower in [The Hole](/zone/39). His PH's are [a fallen erudite](/npc/39164) who spawn in the tombs. Give him [Dark Shroud](/item/14377). [Mummy of Glohnor](/npc/39165) will spawn and attack. Kill it and loot [Head of Glohnor](/item/14378) and [Glohnor Wrappings](/item/14379). Level 56, bring some friends.
 
 ### Step 18
+[Script Page](/script-entities/paineel/Gerot_Kastane)
 
-Go back to Gerot Kastane in Paineel (in town). Give him  Head of Glohnor to receive Head of the Valiant.
+Go back to [Gerot Kastane](/npc/75004) in [Paineel](/zone/75) (in town). Give him [Head of Glohnor](/item/14378) to receive [Head of the Valiant](/item/14369).
 
 
 ### Step 19
+[Script Page](/script-entities/kerraridge/Marl_Kastane)
 
-Go to Toxxulia Forest and give  Glohnor Wrappings to Marl Kastane to receive Will of Innoruuk.
+Go to [Kerra Isle](/zone/74) and give [Glohnor Wrappings](/item/14379) to [Marl Kastane](/npc/74001) to receive [Will of Innoruuk](/item/14370).
 
 ### Step 20
-
+[Script Page](/script-entities/citymist/Lhranc)
 Final Fight and Epic!
 
-Head to City of Mist. Find Lhranc (0, +90). Give him:
+Head to [City of Mist](/zone/90). Find [Lhranc](/npc/90002) (1.0, 85.0). Give him:
 
-* Corrupted Ghoulbane
-* Heart of the Innocent
-* Head of the Valiant
-* Will of Innoruuk
+* [Corrupted Ghoulbane](/item/14367)
+* [Heart of the Innocent](/item/14368)
+* [Head of the Valiant](/item/14369)
+* [Will of Innoruuk](/item/14370)
 
-You will receive   Lhranc's Token and a human form of Lhranc will spawn. Hail the human form and he attacks. Kill him.
+You will receive [Lhranc's Token](/item/14384) and a human form of [Lhranc](/npc/90015) will spawn. Hail the human form and he attacks. Kill him.
  
-This guy doesn't mess around, so bring a raid in era. He hits Hard. He is still relatively hard even in PoP era so bring a few friends to help. He procs a 500 point lifetap but doesn't have a ton of HP (32K?). He also runs at low HP. Consider this a raid boss. Once dead, Marl Kastane will spawn just outside Lhranc's room. 
+This guy doesn't mess around, so bring **a lot** of friends. Once dead, [Marl Kastane](/npc/90016) will spawn just outside Lhranc's room (1.4, 28.1). 
 
-Give Marl Kastane  Lhranc's Token to receive Innoruuk's Curse! 
+[Script Page](/script-entities/citymist/%23Marl_Kastane)
+
+>Alas, I cannot be the one to carry the sword back to my people as proof in fear they will kill me to possess it for their own. I think a simple trade is in order. Perhaps you have a symbol or token of Lhanrc's that I could take back to the others to ease their worries?
+
+Give [Marl Kastane](/npc/90016) [Lhranc's Token](/item/14384) 
+
+>Very good, I will go deliver this right away.
+
+to receive [Innoruuk's Curse](/item/14383)! 
