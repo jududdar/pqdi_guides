@@ -1,4 +1,4 @@
-# Shadow Knight Epic - [Innoruuk](/npc/76326)'s Curse
+# Shadow Knight Epic - [Innoruuk's Curse](/item/14383)
 
 - [ ] [Shadow Knight Epic - Innoruuk's Curse](#shadow-knight-epic---innoruuks-curse)
     - [ ] [Pre-Farmable Items](#pre-farmable-items)
@@ -65,7 +65,7 @@ Kill [an ashenbone drake](/npc/76002) in [Plane of Hate](/zone/76) and loot [Dec
 
 ## The Quest
 
-![sk-epic-faction.png](/static/guide_images/epics/shadow_knight/sk-epic-faction.png)
+![sk-epic-faction.png](/static/guides/images/epic/shadow_knight/sk-epic-faction.png)
 
 ### Step 1
 
@@ -101,48 +101,48 @@ Turn into [an undead knight](/npc/80001) in [Temple of Solusek Ro](/zone/80) (So
 
 Turn into [an undead knight](/npc/80001) in [Temple of Solusek Ro](/zone/80) (North skeleton)
 
-![Ferrott-Map.jpg](/static/guide_images/epics/shadow_knight/Ferrott-Map.jpg)
-![a-Tae-Ew-crusader.jpg](/static/guide_images/epics/shadow_knight/a-Tae-Ew-crusader.jpg)
-![a-Tae-Ew-Spiritualist.jpg](/static/guide_images/epics/shadow_knight/a-Tae-Ew-Spiritualist.jpg)
+![Ferrott-Map.jpg](/static/guides/images/epic/shadow_knight/Ferrott-Map.jpg)
+![a-Tae-Ew-crusader.jpg](/static/guides/images/epic/shadow_knight/a-Tae-Ew-crusader.jpg)
+![a-Tae-Ew-Spiritualist.jpg](/static/guides/images/epic/shadow_knight/a-Tae-Ew-Spiritualist.jpg)
 
-![CWG-Model-Gnome-1.jpg](/static/guide_images/epics/shadow_knight/CWG-Model-Gnome-1.jpg)
-![Freeport-Guard.jpg](/static/guide_images/epics/shadow_knight/Freeport-Guard.jpg)
+![CWG-Model-Gnome-1.jpg](/static/guides/images/epic/shadow_knight/CWG-Model-Gnome-1.jpg)
+![Freeport-Guard.jpg](/static/guides/images/epic/shadow_knight/Freeport-Guard.jpg)
 
-![an-undead-knight-map-greaves.jpg](/static/guide_images/epics/shadow_knight/an-undead-knight-map-greaves.jpg)
-![an-undead-knight-red.jpg](/static/guide_images/epics/shadow_knight/an-undead-knight-red.jpg)
-![an-undead-knight-yellow.jpg](/static/guide_images/epics/shadow_knight/an-undead-knight-yellow.jpg)
+![an-undead-knight-map-greaves.jpg](/static/guides/images/epic/shadow_knight/an-undead-knight-map-greaves.jpg)
+![an-undead-knight-red.jpg](/static/guides/images/epic/shadow_knight/an-undead-knight-red.jpg)
+![an-undead-knight-yellow.jpg](/static/guides/images/epic/shadow_knight/an-undead-knight-yellow.jpg)
 
 ### Step 2
 [Script Page](/script-entities/overthere/Kurron_Ni)
 
 Head to [The Overthere](/zone/93) and find [Kurron Ni](/npc/93083) (3248.0, 2203.0). He is in town and has a respawn of approx. 4 hours. Give him [Darkforge Helm](/item/3140), [Darkforge Greaves](/item/3145), [Darkforge Breastplate](/item/3141), and 900pp. He will respawn as [Kurron Ni](/npc/93006).  Kill him and loot [Letter to Duriek](/item/18099).  Bring some friends.
 
-![Kurron-Ni-Map.jpg](/static/guide_images/epics/shadow_knight/Kurron-Ni-Map.jpg)
-![Kurron-Ni.jpg](/static/guide_images/epics/shadow_knight/Kurron-Ni.jpg)
+![Kurron-Ni-Map.jpg](/static/guides/images/epic/shadow_knight/Kurron-Ni-Map.jpg)
+![Kurron-Ni.jpg](/static/guides/images/epic/shadow_knight/Kurron-Ni.jpg)
 
 ### Step 3
 [Script Page](/script-entities/paineel/Duriek_Bloodpool)
 
 Find [Duriek Bloodpool](/npc/75003) in [Paineel](/zone/75). He is located in a small room overlooking the noob area (906.0, -98.0). Give him [Letter to Duriek](/item/18099). You'll get some faction in return (+3 [Truespirit](/faction/404)). 
 
-![Duriek-Bloodpool-Map.png](/static/guide_images/epics/shadow_knight/an-undead-knight-red.jpg)
-![Duriek-Bloodpool.jpg](/static/guide_images/epics/shadow_knight/an-undead-knight-red.jpg)
+![Duriek-Bloodpool-Map.png](/static/guides/images/epic/shadow_knight/an-undead-knight-red.jpg)
+![Duriek-Bloodpool.jpg](/static/guides/images/epic/shadow_knight/an-undead-knight-red.jpg)
 
 ### Step 4
 [Script Page](/script-entities/neriaka/[Smaka](/npc/40034))
 
 Go to [Neriak Foreign Quarter](/zone/40). Give 1000pp to [Smaka](/npc/40034) (-334.0, -106.0) to receive [Cough Elixir](/item/14365).
 
-![Smaka-Map.jpg](/static/guide_images/epics/shadow_knight/Smaka-Map.jpg)
-![Smaka.jpg](/static/guide_images/epics/shadow_knight/Smaka.jpg)
+![Smaka-Map.jpg](/static/guides/images/epic/shadow_knight/Smaka-Map.jpg)
+![Smaka.jpg](/static/guides/images/epic/shadow_knight/Smaka.jpg)
 
 ### Step 5
 [Script Page](/script-entities/paineel/Duriek_Bloodpool)
 
 Go back to [Paineel](/zone/75) and give the [Cough Elixir](/item/14365) to [Duriek Bloodpool](/npc/75003) (+3 [Truespirit](/faction/404)).
 
-![Duriek-Bloodpool-Map.png](/static/guide_images/epics/shadow_knight/Duriek-Bloodpool-Map.png)
-![Duriek-Bloodpool.jpg](/static/guide_images/epics/shadow_knight/Duriek-Bloodpool.jpg)
+![Duriek-Bloodpool-Map.png](/static/guides/images/epic/shadow_knight/Duriek-Bloodpool-Map.png)
+![Duriek-Bloodpool.jpg](/static/guides/images/epic/shadow_knight/Duriek-Bloodpool.jpg)
 
 ### Step 6
 
@@ -152,19 +152,19 @@ The PH is a ratman warrior. Spawns in the jail area (372.0, -87.0). You may need
 
 Note: While here you can also do [Step 14](#step-14) (Loot [Cell Key](/item/14373) from [a mimic](/npc/39022))
 
-![hole-rat-1.png](/static/guide_images/epics/shadow_knight/hole-rat-1.png)
-![a-ratman-guard.jpg](/static/guide_images/epics/shadow_knight/a-ratman-guard.jpg)
+![hole-rat-1.png](/static/guides/images/epic/shadow_knight/hole-rat-1.png)
+![a-ratman-guard.jpg](/static/guides/images/epic/shadow_knight/a-ratman-guard.jpg)
 
 Once you have [Dusty Tome](/item/14382) give it to [Duriek Bloodpool](/npc/75003) back in [Paineel](/zone/75) for some faction (+3 [Truespirit](/faction/404)). ([Script Page](/script-entities/paineel/Duriek_Bloodpool))
 
-![Duriek-Bloodpool-Map.png](/static/guide_images/epics/shadow_knight/Duriek-Bloodpool-Map.png)
-![Duriek-Bloodpool.jpg](/static/guide_images/epics/shadow_knight/Duriek-Bloodpool.jpg)
+![Duriek-Bloodpool-Map.png](/static/guides/images/epic/shadow_knight/Duriek-Bloodpool-Map.png)
+![Duriek-Bloodpool.jpg](/static/guides/images/epic/shadow_knight/Duriek-Bloodpool.jpg)
 
 ### Step 7
 
 Go to [Plane of Sky](/zone/71). Kill mobs (any island) until you get a [Blade of Abrogation](/item/5430). Rare drop.
 
-![Plane-of-Sky-General.jpg](/static/guide_images/epics/shadow_knight/Plane-of-Sky-General.jpg)
+![Plane-of-Sky-General.jpg](/static/guides/images/epic/shadow_knight/Plane-of-Sky-General.jpg)
 
 ### Step 8
 
@@ -174,17 +174,17 @@ Obtain a [Ghoulbane](/item/5403). You can get one from either:
 
 2. [Joren Nobleheart](/npc/62000) in [Southern Felwithe](/zone/62). He is located in through center teleport pad in the back room (736.0, -657.0). [Joren Nobleheart](/npc/62000) is level 60 and is a harder fight of the two (Hits 266+, over 26k HP), but he drops the sword every time. If you've got some help, this is the faster route.
 
-![Shin-Lord-Map.jpg](/static/guide_images/epics/shadow_knight/Shin-Lord-Map.jpg)
-![the-froglok-shin-lord.jpg](/static/guide_images/epics/shadow_knight/the-froglok-shin-lord.jpg)
+![Shin-Lord-Map.jpg](/static/guides/images/epic/shadow_knight/Shin-Lord-Map.jpg)
+![the-froglok-shin-lord.jpg](/static/guides/images/epic/shadow_knight/the-froglok-shin-lord.jpg)
 
-![Joren-Nobleheart-Map.jpg](/static/guide_images/epics/shadow_knight/Joren-Nobleheart-Map.jpg)
-![Joren-Nobleheart.jpg](/static/guide_images/epics/shadow_knight/Joren-Nobleheart.jpg)
+![Joren-Nobleheart-Map.jpg](/static/guides/images/epic/shadow_knight/Joren-Nobleheart-Map.jpg)
+![Joren-Nobleheart.jpg](/static/guides/images/epic/shadow_knight/Joren-Nobleheart.jpg)
 
 ### Step 9
 
 Go to [Plane of Fear](/zone/72). Kill either [Dread](/npc/72000), [Fright](/npc/72004), [Terror](/npc/72002), or [Cazic Thule](/npc/72500). Loot [Soul Leech, Dark Sword of Blood](/item/11609). Uncommon drop.
 
-![Terror.jpg](/static/guide_images/epics/shadow_knight/Terror.jpg)
+![Terror.jpg](/static/guides/images/epic/shadow_knight/Terror.jpg)
 
 ### Step 10
 [Script Page](/script-entities/qcat/[Teydar](/npc/45044))
@@ -193,12 +193,12 @@ Quest for [Decrepit Sheath](/item/14366).
 
 1. Kill [Rharzar](/npc/50019) in [Rathe Mountains](/zone/50). Loot [Drake Spine](/item/14372). Always Drops. His PH are drakes in the area. Level 55. Casts some 500ish DD's.
 
-![Rharzar-Map.jpg](/static/guide_images/epics/shadow_knight/Rharzar-Map.jpg)
-![Rharzar.jpg](/static/guide_images/epics/shadow_knight/Rharzar.jpg)
+![Rharzar-Map.jpg](/static/guides/images/epic/shadow_knight/Rharzar-Map.jpg)
+![Rharzar.jpg](/static/guides/images/epic/shadow_knight/Rharzar.jpg)
 
 2. Kill [an ashenbone drake](/item/76002) in [Plane of Hate](/zone/76). Loot [Decrepit Hide](/item/14371). 3% drop chance. These spawn all over the zone as trash mobs.
 
-![an-ashenbone-drake.jpg](/static/guide_images/epics/shadow_knight/an-ashenbone-drake.jpg)
+![an-ashenbone-drake.jpg](/static/guides/images/epic/shadow_knight/an-ashenbone-drake.jpg)
 
 4. Get an [Enchanted Platinum Bar](/item/16507). Created by Enchanters.
 
@@ -212,8 +212,8 @@ Give [Teydar](/npc/45044):
 
 to receive [Decrepit Sheath](/item/14366).
 
-![Teydar-Map-1.jpg](/static/guide_images/epics/shadow_knight/Teydar-Map-1.jpg)
-![Teydar.jpg](/static/guide_images/epics/shadow_knight/Teydar.jpg)
+![Teydar-Map-1.jpg](/static/guides/images/epic/shadow_knight/Teydar-Map-1.jpg)
+![Teydar.jpg](/static/guides/images/epic/shadow_knight/Teydar.jpg)
 
 ### Step 11
 [Script Page](/script-entities/paineel/Duriek_Bloodpool)
@@ -227,8 +227,8 @@ Go back to [Duriek Bloodpool](/npc/75003) in [Paineel](/zone/75). Give him:
 
 to receive [Corrupted Ghoulbane](/item/14367).
 
-![Duriek-Bloodpool-Map.png](/static/guide_images/epics/shadow_knight/Duriek-Bloodpool-Map.png)
-![Duriek-Bloodpool.jpg](/static/guide_images/epics/shadow_knight/Duriek-Bloodpool.jpg)
+![Duriek-Bloodpool-Map.png](/static/guides/images/epic/shadow_knight/Duriek-Bloodpool-Map.png)
+![Duriek-Bloodpool.jpg](/static/guides/images/epic/shadow_knight/Duriek-Bloodpool.jpg)
 
 ### Step 12
 [Script Page](/script-entities/tox/Knarthenne_Skurl)
@@ -239,27 +239,27 @@ to receive [Corrupted Ghoulbane](/item/14367).
 
 2. Next, go to [Marl Kastane](/npc/74001) on [Kerra Isle](/zone/74) and say `what prophecy` to receive [Seal of Kastane](/item/14375).
 
-![Marl-and-Knarthenne-Skurl-Map.jpg](/static/guide_images/epics/shadow_knight/Marl-and-Knarthenne-Skurl-Map.jpg)
-![Marl-Kastane-1.jpg](/static/guide_images/epics/shadow_knight/Marl-Kastane-1.jpg)
-![Knarthenne-Skurl.jpg](/static/guide_images/epics/shadow_knight/Knarthenne-Skurl.jpg)
+![Marl-and-Knarthenne-Skurl-Map.jpg](/static/guides/images/epic/shadow_knight/Marl-and-Knarthenne-Skurl-Map.jpg)
+![Marl-Kastane-1.jpg](/static/guides/images/epic/shadow_knight/Marl-Kastane-1.jpg)
+![Knarthenne-Skurl.jpg](/static/guides/images/epic/shadow_knight/Knarthenne-Skurl.jpg)
 
 ### Step 13
 [Script Page](/script-entities/paineel/Gerot_Kastane)
 
 Go back to [Paineel](/zone/75). You'll need to get to the City area, which means you'll need a key. Get some faction for a key, or bribe a newbie Erudite to open the elevator. Once in the city, find [Gerot Kastane](/npc/75004) (799.0, 671.0) and give him [Seal of Kastane](/item/14375) to receive [Note to Marl](/item/14376). Once obtained, head back to [Marl Kastane](/npc/74001) in [Toxxulia Forest](/zone/38) and give him [Note to Marl](/item/14376). You won't receive an item for this turn in, but you will get faction and a flag to progress the quest. ([Script Page](/script-entities/kerraridge/Marl_Kastane))
 
-![Gerot-Kastane-Map-2.jpg](/static/guide_images/epics/shadow_knight/Gerot-Kastane-Map-2.jpg)
-![Gerot-Kastane.jpg](/static/guide_images/epics/shadow_knight/Gerot-Kastane.jpg)
+![Gerot-Kastane-Map-2.jpg](/static/guides/images/epic/shadow_knight/Gerot-Kastane-Map-2.jpg)
+![Gerot-Kastane.jpg](/static/guides/images/epic/shadow_knight/Gerot-Kastane.jpg)
 
-![Marl-Map2.jpg](/static/guide_images/epics/shadow_knight/Marl-Map2.jpg)
-![Marl-Kastane-COM.jpg](/static/guide_images/epics/shadow_knight/Marl-Kastane-COM.jpg)
+![Marl-Map2.jpg](/static/guides/images/epic/shadow_knight/Marl-Map2.jpg)
+![Marl-Kastane-COM.jpg](/static/guides/images/epic/shadow_knight/Marl-Kastane-COM.jpg)
 
 ### Step 14
 
 Go to [The Hole](/zone/39) and kill [a mimic](/npc/39022) until [Cell Key](/item/14373) drops. Loot it. 25% drop chance.
 
-![a-chest-map.jpg](/static/guide_images/epics/shadow_knight/a-chest-map.jpg)
-![a-chest.jpg](/static/guide_images/epics/shadow_knight/a-chest.jpg)
+![a-chest-map.jpg](/static/guides/images/epic/shadow_knight/a-chest-map.jpg)
+![a-chest.jpg](/static/guides/images/epic/shadow_knight/a-chest.jpg)
 
 ### Step 15
 [Script Page](/script-entities/hole/[Caradon](/npc/39069))
@@ -271,41 +271,41 @@ Once you have [Cell Key](/item/14373) you'll need to find [Caradon](/npc/39069) 
 3. At the bottom of the ramp is a doorway with a lamp on each side of it, run through and take an immediate left into the next hallway, then take the first door on the right (next to the red banner on the wall).
 4. Run down the two flights of stairs until you get to the next room with 2 doors in it. Take the door straight ahead. The first cubby on the right is the room that [Caradon](/npc/39069) spawns in (421.0, -188.0). an elemental type mob also spawns in the same cubby.
 
-![Caradon.jpg](/static/guide_images/epics/shadow_knight/Caradon.jpg)
-![Caradon-Corpse.jpg](/static/guide_images/epics/shadow_knight/Caradon-Corpse.jpg)
+![Caradon.jpg](/static/guides/images/epic/shadow_knight/Caradon.jpg)
+![Caradon-Corpse.jpg](/static/guides/images/epic/shadow_knight/Caradon-Corpse.jpg)
 
 ### Step 16
 [Script Page](/script-entities/kerraridge/Marl_Kastane)
 
 Go back to [Toxxulia Forest](/zone/38) again. Give [Blood of Kyrenna](/item/14381) to [Marl Kastane](/npc/74001) to receive [Dark Shroud](/item/14377). Then [combine](/recipe/9825) [Heart of Kyrenna](/item/14380) by itself in the [Soulcase](/item/17051) (2 slot container) to create [Heart of the Innocent](/item/14368).
 
-![Marl-Map2.jpg](/static/guide_images/epics/shadow_knight/Marl-Map2.jpg)
-![Marl-Kastane-COM.jpg](/static/guide_images/epics/shadow_knight/Marl-Kastane-COM.jpg)
+![Marl-Map2.jpg](/static/guides/images/epic/shadow_knight/Marl-Map2.jpg)
+![Marl-Kastane-COM.jpg](/static/guides/images/epic/shadow_knight/Marl-Kastane-COM.jpg)
 
 ### Step 17
 [Script Page](/script-entities/hole/Ghost_of_Glohnor)
 
 Find [Ghost of Glohnor](/npc/39054) at the revenant tower in [The Hole](/zone/39). His PH's are [a fallen erudite](/npc/39164) who spawn in the tombs. Give him [Dark Shroud](/item/14377). [Mummy of Glohnor](/npc/39165) will spawn and attack. Kill it and loot [Head of Glohnor](/item/14378) and [Glohnor Wrappings](/item/14379). Level 56, bring some friends.
 
-![Ghost-of-G-Map-1.jpg](/static/guide_images/epics/shadow_knight/Ghost-of-G-Map-1.jpg)
-![Ghost-of-G.jpg](/static/guide_images/epics/shadow_knight/Ghost-of-G.jpg)
-![Mummy-of-Glohnor.jpg](/static/guide_images/epics/shadow_knight/Mummy-of-Glohnor.jpg)
+![Ghost-of-G-Map-1.jpg](/static/guides/images/epic/shadow_knight/Ghost-of-G-Map-1.jpg)
+![Ghost-of-G.jpg](/static/guides/images/epic/shadow_knight/Ghost-of-G.jpg)
+![Mummy-of-Glohnor.jpg](/static/guides/images/epic/shadow_knight/Mummy-of-Glohnor.jpg)
 
 ### Step 18
 [Script Page](/script-entities/paineel/Gerot_Kastane)
 
 Go back to [Gerot Kastane](/npc/75004) in [Paineel](/zone/75) (in town). Give him [Head of Glohnor](/item/14378) to receive [Head of the Valiant](/item/14369).
 
-![Gerot-Kastane-Map-2.jpg](/static/guide_images/epics/shadow_knight/Gerot-Kastane-Map-2.jpg)
-![Gerot-Kastane.jpg](/static/guide_images/epics/shadow_knight/Gerot-Kastane.jpg)
+![Gerot-Kastane-Map-2.jpg](/static/guides/images/epic/shadow_knight/Gerot-Kastane-Map-2.jpg)
+![Gerot-Kastane.jpg](/static/guides/images/epic/shadow_knight/Gerot-Kastane.jpg)
 
 ### Step 19
 [Script Page](/script-entities/kerraridge/Marl_Kastane)
 
 Go to [Kerra Isle](/zone/74) and give [Glohnor Wrappings](/item/14379) to [Marl Kastane](/npc/74001) to receive [Will of Innoruuk](/item/14370).
 
-![Marl-Map2.jpg](/static/guide_images/epics/shadow_knight/Gerot-Kastane.jpg)
-![Marl-Kastane-1.jpg](/static/guide_images/epics/shadow_knight/Gerot-Kastane.jpg)
+![Marl-Map2.jpg](/static/guides/images/epic/shadow_knight/Gerot-Kastane.jpg)
+![Marl-Kastane-1.jpg](/static/guides/images/epic/shadow_knight/Gerot-Kastane.jpg)
 
 ### Step 20
 [Script Page](/script-entities/citymist/[Lhranc](/npc/90002))
@@ -332,9 +332,9 @@ Give [Marl Kastane](/npc/90016) [Lhranc's Token](/item/14384)
 
 to receive [Innoruuk's Curse](/item/14383)! 
 
-![Lhranc-Map.png](/static/guide_images/epics/shadow_knight/Lhranc-Map.png)
-![Lhranc.jpg](/static/guide_images/epics/shadow_knight/Lhranc.jpg)
-![Lhranc-2.jpg](/static/guide_images/epics/shadow_knight/Lhranc-2.jpg)
+![Lhranc-Map.png](/static/guides/images/epic/shadow_knight/Lhranc-Map.png)
+![Lhranc.jpg](/static/guides/images/epic/shadow_knight/Lhranc.jpg)
+![Lhranc-2.jpg](/static/guides/images/epic/shadow_knight/Lhranc-2.jpg)
 
-![Innoruuks-Curse-Stats.jpg](/static/guide_images/epics/shadow_knight/Innoruuks-Curse-Stats.jpg)
+![Innoruuks-Curse-Stats.jpg](/static/guides/images/epic/shadow_knight/Innoruuks-Curse-Stats.jpg)
 

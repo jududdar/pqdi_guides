@@ -45,8 +45,8 @@ Head to [North Kaladim](/zone/67) and pickpocket the dwarven Rogue Guildmaster [
 
 If he aggros on you, just zone over into [South Kaladim](/zone/60). He despawns around 7PM and respawns around 9PM in-game time.  Also, if you are an evil race, it's helpful to have an illusion mask for a good race so you aren't KoS. 25% chance of having the item.
 
-![North-Kaladim-Map.jpg](/static/guide_images/epics/rogue/North-Kaladim-Map.jpg)
-![Founy-Jestands.jpg](/static/guide_images/epics/rogue/Founy-Jestands.jpg)
+![North-Kaladim-Map.jpg](/static/guides/images/epic/rogue/North-Kaladim-Map.jpg)
+![Founy-Jestands.jpg](/static/guides/images/epic/rogue/Founy-Jestands.jpg)
 
 ### [Stained Parchment Bottom](/item/28011)
 You will need some pick pocketing skill. 190 confirmed working.
@@ -55,14 +55,14 @@ The same strategy applies here. Pickpocket [Tani N'Mar](/npc/42000) in [Neriak T
 
 If he aggros be ready for a long run back to the zone in. It is recommended to stand on the steps behind him while pick pocketing. He despawns around 7PM and respawns around 9PM in-game time. Having a Dark Elf illusion mask is beneficial here as well if you are KoS to Dark Elves. 35% chance of having the item. 
 
-![Neriak-Third-Gate.jpg](/static/guide_images/epics/rogue/Neriak-Third-Gate.jpg)
-![Tani-NMar.jpg](/static/guide_images/epics/rogue/Tani-NMar.jpg)
+![Neriak-Third-Gate.jpg](/static/guides/images/epic/rogue/Neriak-Third-Gate.jpg)
+![Tani-NMar.jpg](/static/guides/images/epic/rogue/Tani-NMar.jpg)
 
 ### [Book of Souls](/item/28016)
 [Book of Souls](/item/28016) can be found in [Plane of Hate](/zone/76). It is a ground spawn at (-58.0, 325.0) on top of a dresser. Roughly 5 minute re-spawn. You can sneak/hide to it. It is in the upstairs area of the Maestro castle - entrance to castle is at (101.0, 57.0).  Walk in, turn right, and take the ramp up to the second level.
 
-![Plane-of-Hate-Map.jpg](/static/guide_images/epics/rogue/Plane-of-Hate-Map.jpg)
-![Plane-of-Hate-Book-of-Souls.jpg](/static/guide_images/epics/rogue/Plane-of-Hate-Book-of-Souls.jpg)
+![Plane-of-Hate-Map.jpg](/static/guides/images/epic/rogue/Plane-of-Hate-Map.jpg)
+![Plane-of-Hate-Book-of-Souls.jpg](/static/guides/images/epic/rogue/Plane-of-Hate-Book-of-Souls.jpg)
 
 ### 2 x [Bottle](/item/16598) of Milk
 Buy 2 x [Bottle of Milk](/item/13087) from a Baking Vendor.  Don't drink them!
@@ -76,17 +76,17 @@ Now we can begin the quest. Head to [Highpass Hold](/zone/5) and speak to [Anson
 
 Say `I need to see Stanos` to  [Anson McBale](/npc/5037) (must have Amiable or better faction with [Highpass Guards](/faction/332)) to spawn [Stanos Herkanor](/npc/5088). Give [Stanos Herkanor](/npc/5088) [Stained Parchment Top](/item/28010) and [Stained Parchment Bottom](/item/28011) to receive [Combined Parchment](/item/28012).
 
-![Anson-McBale-Loc.jpg](/static/guide_images/epics/rogue/Anson-McBale-Loc.jpg)
-![Stanos.jpg](/static/guide_images/epics/rogue/Stanos.jpg)
-![Anson-McBale.jpg](/static/guide_images/epics/rogue/Anson-McBale.jpg)
+![Anson-McBale-Loc.jpg](/static/guides/images/epic/rogue/Anson-McBale-Loc.jpg)
+![Stanos.jpg](/static/guides/images/epic/rogue/Stanos.jpg)
+![Anson-McBale.jpg](/static/guides/images/epic/rogue/Anson-McBale.jpg)
 
 ### Step 2
 [Script Page](/script-entities/lakerathe/[Eldreth](/npc/51025))
 
 Head to [Lake Rathetear](/zone/51) and find [Eldreth](/npc/51025) (2623.0, -550.0). Give him [Combined Parchment](/item/28012), 2x [Bottle of Milk](/item/13087), and 100pp to receive [Scribbled Parchment](/item/28053). 
 
-![Lake-Rathetear-Map-Rogue-1.0.jpg](/static/guide_images/epics/rogue/Lake-Rathetear-Map-Rogue-1.0.jpg)
-![Eldreth.jpg](/static/guide_images/epics/rogue/Eldreth.jpg)
+![Lake-Rathetear-Map-Rogue-1.0.jpg](/static/guides/images/epic/rogue/Lake-Rathetear-Map-Rogue-1.0.jpg)
+![Eldreth.jpg](/static/guides/images/epic/rogue/Eldreth.jpg)
 
 ### Step 3
 [Script Page](/script-entities/steamfont/Yendar_Starpyre)
@@ -99,16 +99,16 @@ Head to [Lake Rathetear](/zone/51) and find [Eldreth](/npc/51025) (2623.0, -550.
 
 **Renux has a 100% chance to drop the [Jagged Diamond Dagger](/item/7506) used in [Step 8](#step-8).**
 
-![Yendar-Starpyre.jpg](/static/guide_images/epics/rogue/Yendar-Starpyre.jpg)
-![Renux-Herkanor.jpg](/static/guide_images/epics/rogue/Renux-Herkanor.jpg)
+![Yendar-Starpyre.jpg](/static/guides/images/epic/rogue/Yendar-Starpyre.jpg)
+![Renux-Herkanor.jpg](/static/guides/images/epic/rogue/Renux-Herkanor.jpg)
 
 ### Step 4
 [Script Page](/script-entities/highpass/Stanos_Herkanor)
 
 Head back to [Highpass Hold](/zone/5) and give [Translated Parchment](/item/18961) to [Stanos Herkanor](/npc/5088) to receive [Sealed Box](/item/28057).  
 
-![Anson-McBale-Loc.jpg](/static/guide_images/epics/rogue/Anson-McBale-Loc.jpg)
-![Stanos.jpg](/static/guide_images/epics/rogue/Stanos.jpg)
+![Anson-McBale-Loc.jpg](/static/guides/images/epic/rogue/Anson-McBale-Loc.jpg)
+![Stanos.jpg](/static/guides/images/epic/rogue/Stanos.jpg)
 
 ### Step 5
 [Script Page](/script-entities/kithicor/%23Adjutant_D-kan)
@@ -119,10 +119,10 @@ Once he's dead, loot [Generals Pouch](/item/28013).
 
 **General has a 25% chance to drop the [Cazic Quill](/item/7505) used in [Step 7](#step-7).**
 
-![Kithikor-Map-Rogue-1.0.jpg](/static/guide_images/epics/rogue/Kithikor-Map-Rogue-1.0.jpg)
-![Kithikor-Dark-Elf-Area.jpg](/static/guide_images/epics/rogue/Kithikor-Dark-Elf-Area.jpg)
-![General.jpg](/static/guide_images/epics/rogue/General.jpg)
-![Generals-Pouch.jpg](/static/guide_images/epics/rogue/Generals-Pouch.jpg)
+![Kithikor-Map-Rogue-1.0.jpg](/static/guides/images/epic/rogue/Kithikor-Map-Rogue-1.0.jpg)
+![Kithikor-Dark-Elf-Area.jpg](/static/guides/images/epic/rogue/Kithikor-Dark-Elf-Area.jpg)
+![General.jpg](/static/guides/images/epic/rogue/General.jpg)
+![Generals-Pouch.jpg](/static/guides/images/epic/rogue/Generals-Pouch.jpg)
 
 ### Step 6
 Collect these 4 robes (unless you have a [Cazic Quill](/item/7505) already):
@@ -141,8 +141,8 @@ Head to [West Karana](/zone/12) and find [Vilnius the Small](/npc/12019). He is 
 
 Give [Vilnius the Small](/npc/12019) [Robe of the Kedge](/item/1253), [Robe of the Ishva](/item/1357), [Shining Metallic Robes](/item/1360), and [Robe of the Oracle](/item/1354) to receive [Cazic Quill](/item/7505).
 
-![West-Karana-Map-Rogue-1.0.jpg](/static/guide_images/epics/rogue/West-Karana-Map-Rogue-1.0.jpg)
-![Vilnius-the-Small.jpg](/static/guide_images/epics/rogue/Vilnius-the-Small.jpg)
+![West-Karana-Map-Rogue-1.0.jpg](/static/guides/images/epic/rogue/West-Karana-Map-Rogue-1.0.jpg)
+![Vilnius-the-Small.jpg](/static/guides/images/epic/rogue/Vilnius-the-Small.jpg)
 
 ### Step 8
 [Script Page](/script-entities/qey2hh1/Vilnius_the_Small)
@@ -158,8 +158,8 @@ Collect these 4 items:
 
 Give all 4 items to [Vilnius the Small](/npc/12019) in [West Karana](/zone/12) to receive [Jagged Diamond Dagger](/item/7506). See [Step 7](#step-7) for how to spawn him.
 
-![West-Karana-Map-Rogue-1.0.jpg](/static/guide_images/epics/rogue/West-Karana-Map-Rogue-1.0.jpg)
-![Vilnius-the-Small.jpg](/static/guide_images/epics/rogue/Vilnius-the-Small.jpg)
+![West-Karana-Map-Rogue-1.0.jpg](/static/guides/images/epic/rogue/West-Karana-Map-Rogue-1.0.jpg)
+![Vilnius-the-Small.jpg](/static/guides/images/epic/rogue/Vilnius-the-Small.jpg)
 
 ### Step 9
 [Script Page](/script-entities/highpass/Stanos_Herkanor)
@@ -176,8 +176,8 @@ Give him:
 
 Receive [Ragebringer](/item/11057)!
 
-![Anson-McBale-Loc.jpg](/static/guide_images/epics/rogue/Anson-McBale-Loc.jpg)
-![Stanos.jpg](/static/guide_images/epics/rogue/Stanos.jpg)
+![Anson-McBale-Loc.jpg](/static/guides/images/epic/rogue/Anson-McBale-Loc.jpg)
+![Stanos.jpg](/static/guides/images/epic/rogue/Stanos.jpg)
 
-![Ragebringer-Stats.jpg](/static/guide_images/epics/rogue/Ragebringer-Stats.jpg)
+![Ragebringer-Stats.jpg](/static/guides/images/epic/rogue/Ragebringer-Stats.jpg)
 

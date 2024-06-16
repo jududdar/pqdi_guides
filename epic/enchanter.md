@@ -95,33 +95,33 @@ Ground spawn in [Plane of Sky](/zone/71)
 Go to the [Qeynos Catacombs](/zone/45) and find [Reania Jukle](/npc/45082) (Enchnater Guildmaster) at +390, -390. The easiest way to get to her is to enter the [Qeynos Catacombs](/zone/45) from the warrior arena area in [South Qeynos](/zone/1).
 Say "find your own supply" to receive [Empty Ink Vial](/item/10626).
 
-![Reania-Jukle-Map.jpg](/static/guide_images/epics/enchanter/Reania-Jukle-Map.jpg)
-![Reania-Jukle.jpg](/static/guide_images/epics/enchanter/Reania-Jukle.jpg)
+![Reania-Jukle-Map.jpg](/static/guides/images/epic/enchanter/Reania-Jukle-Map.jpg)
+![Reania-Jukle.jpg](/static/guides/images/epic/enchanter/Reania-Jukle.jpg)
 
 ### Step 1B
 [Script Page](/script-entities/gukbottom/a_ghoul_scribe)
 
 Go to [Lower Guk](/zone/66) and charm [a ghoul scribe](/npc/66170). Give him [Empty Ink Vial](/item/10626) to receive [Ink of the Dark](/item/10601). To avoid the other frogs killing him while he's charmed you can mez him first, kill the adds, then charm him afterwards.
 
-![a-ghoul-scribe-Map.jpg](/static/guide_images/epics/enchanter/a-ghoul-scribe-Map.jpg)
-![a-ghoul-scribe-PH.jpg](/static/guide_images/epics/enchanter/a-ghoul-scribe-PH.jpg)
+![a-ghoul-scribe-Map.jpg](/static/guides/images/epic/enchanter/a-ghoul-scribe-Map.jpg)
+![a-ghoul-scribe-PH.jpg](/static/guides/images/epic/enchanter/a-ghoul-scribe-PH.jpg)
 
 ### Step 1C
 Loot [Shining Metallic Robes](/item/1360) (tradable) from either the [ghoul arch magus](/npc/66156) or from [Yendar Starpyre](/npc/56012). the [ghoul arch magus](/npc/66156) is a rare spawn in [Lower Guk](/zone/66), his PH is a kor ghoul wizard. The Robe is his rare drop. [Yendar Starpyre](/npc/56012)  is a roaming level 65 gnome in [Steamfont Mountains](/zone/56). He always drops the robe. If you have a few friends to help, it's easier to kill [Yendar Starpyre](/npc/56012). The robe is tradable as well, so check the Bazaar.
 
-![the-ghoul-arch-magus-map.jpg](/static/guide_images/epics/enchanter/the-ghoul-arch-magus-map.jpg)
-![the-ghoul-arch-magus.jpg](/static/guide_images/epics/enchanter/the-ghoul-arch-magus.jpg)
+![the-ghoul-arch-magus-map.jpg](/static/guides/images/epic/enchanter/the-ghoul-arch-magus-map.jpg)
+![the-ghoul-arch-magus.jpg](/static/guides/images/epic/enchanter/the-ghoul-arch-magus.jpg)
 
-![Steamfont-Mountians-Map-Rogue-1.0.jpg](/static/guide_images/epics/enchanter/Steamfont-Mountians-Map-Rogue-1.0.jpg)
-![Yendar-Starpyre.jpg](/static/guide_images/epics/enchanter/Yendar-Starpyre.jpg)
+![Steamfont-Mountians-Map-Rogue-1.0.jpg](/static/guides/images/epic/enchanter/Steamfont-Mountians-Map-Rogue-1.0.jpg)
+![Yendar-Starpyre.jpg](/static/guides/images/epic/enchanter/Yendar-Starpyre.jpg)
 
 ### Step 1D
 [Script Page](/script-entities/akanon/Rilgor_Plegnog)
 
 Give [Shining Metallic Robes](/item/1360) to [Rilgor Plegnog](/npc/55121) (Enchanter Guildmaster) in the north area of [Ak'Anon](/zone/55) to receive [Mechanical Pen](/item/10600). You can use "Find" to locate him.
 
-![Rilgor-Plegnog-Map.jpg](/static/guide_images/epics/enchanter/Rilgor-Plegnog-Map.jpg)
-![Rilgor-Plegnog.jpg](/static/guide_images/epics/enchanter/Rilgor-Plegnog.jpg)
+![Rilgor-Plegnog-Map.jpg](/static/guides/images/epic/enchanter/Rilgor-Plegnog-Map.jpg)
+![Rilgor-Plegnog.jpg](/static/guides/images/epic/enchanter/Rilgor-Plegnog.jpg)
 
 ### Step 1E
 Purchase [Quill](/item/13051) and [Piece of Parchment](/item/13063) from a vendor. The vendor I used was [Hanlore Escaval](/npc/1052) (+300, -570) in [South Qeynos](/zone/1).
@@ -132,41 +132,41 @@ Give both [Quill](/item/13051) and [Piece of Parchment](/item/13063) to [Chrisli
 
 [Thrackin Griften](/npc/12001) is level 55, 20K HP, Hits 150+, and somewhat resistant to spells.
 
-![Chrislin-Baker-Map.jpg](/static/guide_images/epics/enchanter/Chrislin-Baker-Map.jpg)
-![Chrislin-Baker.jpg](/static/guide_images/epics/enchanter/Chrislin-Baker.jpg)
+![Chrislin-Baker-Map.jpg](/static/guides/images/epic/enchanter/Chrislin-Baker-Map.jpg)
+![Chrislin-Baker.jpg](/static/guides/images/epic/enchanter/Chrislin-Baker.jpg)
 
-![Thrackin-Griften-Map.jpg](/static/guide_images/epics/enchanter/Thrackin-Griften-Map.jpg)
-![Thrackin-Griften.jpg](/static/guide_images/epics/enchanter/Thrackin-Griften.jpg)
+![Thrackin-Griften-Map.jpg](/static/guides/images/epic/enchanter/Thrackin-Griften-Map.jpg)
+![Thrackin-Griften.jpg](/static/guides/images/epic/enchanter/Thrackin-Griften.jpg)
 
 ### Step 1F
 [Script Page](/script-entities/erudnext/Stofo_Olan)
 
 Go to [Erudin](/zone/24) and find [Stofo Olan](/npc/24013). He is inside the Vastly Deep Inn on the 2nd floor, last door on the right. Give him [Ink of the Dark](/item/10601), [Mechanical Pen](/item/10600), [White Paper](/item/10602) to receive [Copy of Notes](/item/10603).
 
-![Stofo-Olan-Map.jpg](/static/guide_images/epics/enchanter/Stofo-Olan-Map.jpg)
-![Stofo-Olan.jpg](/static/guide_images/epics/enchanter/Stofo-Olan.jpg)
+![Stofo-Olan-Map.jpg](/static/guides/images/epic/enchanter/Stofo-Olan-Map.jpg)
+![Stofo-Olan.jpg](/static/guides/images/epic/enchanter/Stofo-Olan.jpg)
 
 ### Step 1G
 [Script Page](/script-entities/burningwood/a_sarnak_imitator)
 
 Go to [Burning Woods](/zone/87) and find [a sarnak imitator](/npc/87001) (-1200, -4000). Give him  [Copy of Notes](/item/10603) to receive [Jeb's Seal](/item/10604).
 
-![a-sarnak-imitator-map.jpg](/static/guide_images/epics/enchanter/a-sarnak-imitator-map.jpg)
-![a-sarnak-imitator.jpg](/static/guide_images/epics/enchanter/a-sarnak-imitator.jpg)
+![a-sarnak-imitator-map.jpg](/static/guides/images/epic/enchanter/a-sarnak-imitator-map.jpg)
+![a-sarnak-imitator.jpg](/static/guides/images/epic/enchanter/a-sarnak-imitator.jpg)
 
 ## First Piece of Staff
 
 ### Step 2A
 Go to [East Cabilis](/zone/106) and kill [Vessel Drozlin](/npc/106007). Loot [Xolion Rod](/item/10606). He is located in the sewers. In order to access the sewers you need to run through the red glowing wall in the Shaman Guild Master area, then go down a series of ladders. Make sure you have levitate as well. When you get to the 4 way cross-road, take the right path and levitate across the pit. He can run at low hp so the best strat is to pull him into the nearby water so that he does not path back through the 1-way hidden walls when he runs.
 
-![Vessel-Drozlin-Map.jpg](/static/guide_images/epics/enchanter/Vessel-Drozlin-Map.jpg)
-![Vessel-Drozlin.jpg](/static/guide_images/epics/enchanter/Vessel-Drozlin.jpg)
+![Vessel-Drozlin-Map.jpg](/static/guides/images/epic/enchanter/Vessel-Drozlin-Map.jpg)
+![Vessel-Drozlin.jpg](/static/guides/images/epic/enchanter/Vessel-Drozlin.jpg)
 
 ### Step 2B
 Go to [Neriak Third Gate](/zone/42) and kill [Verina Tomb](/npc/42112). Loot [Innoruuk's Word](/item/10607). She spawns in the Cleric Guild Master area in the first section of the zone.
 
-![Verina-Tomb-Map.jpg](/static/guide_images/epics/enchanter/Verina-Tomb-Map.jpg)
-![Verina-Tomb.jpg](/static/guide_images/epics/enchanter/Verina-Tomb.jpg)
+![Verina-Tomb-Map.jpg](/static/guides/images/epic/enchanter/Verina-Tomb-Map.jpg)
+![Verina-Tomb.jpg](/static/guides/images/epic/enchanter/Verina-Tomb.jpg)
 
 ### Step 2C
 Go to [Chardok](/zone/103) and kill [Prince Selrach Di'Zok](/npc/103080). Loot [Head of a Prince](/item/10627). Respawn time 2 hours. Level 61. A group of PoP geared players should be able to kill him with ease. You'll need a picklock to open his door.
@@ -175,11 +175,11 @@ Go to [Chardok](/zone/103) and kill [Prince Selrach Di'Zok](/npc/103080). Loot [
 
 Find [Joren Nobleheart](/npc/62000) in [Southern Felwithe](/zone/62). In the teleport pad room, take the one straight ahead. Give him [Head of a Prince](/item/10627) to receive [Chalice of Kings](/item/10608).
 
-![Prince-Selrach-DiZok-Map.jpg](/static/guide_images/epics/enchanter/Prince-Selrach-DiZok-Map.jpg)
-![Prince-Selrach-DiZok.jpg](/static/guide_images/epics/enchanter/Prince-Selrach-DiZok.jpg)
+![Prince-Selrach-DiZok-Map.jpg](/static/guides/images/epic/enchanter/Prince-Selrach-DiZok-Map.jpg)
+![Prince-Selrach-DiZok.jpg](/static/guides/images/epic/enchanter/Prince-Selrach-DiZok.jpg)
 
-![Joren-Nobleheart-Map.jpg](/static/guide_images/epics/enchanter/Joren-Nobleheart-Map.jpg)
-![Joren-Nobleheart.jpg](/static/guide_images/epics/enchanter/Joren-Nobleheart.jpg)
+![Joren-Nobleheart-Map.jpg](/static/guides/images/epic/enchanter/Joren-Nobleheart-Map.jpg)
+![Joren-Nobleheart.jpg](/static/guides/images/epic/enchanter/Joren-Nobleheart.jpg)
 
 ### Step 2D
 [Script Page](/script-entities/oggok/Bozlum_Blossom)
@@ -191,9 +191,9 @@ Go to [Oggok](/zone/49). Look for the ground spawn [Large Muddy Sandals](/item/1
 Find [Brokk Boxtripper](/npc/49061), who is right next to where you just picked up the ground spawn. Give him
 [Scribbled Parchment](/item/10629) to receive [Gift to Bozlum](/item/10630). Go back to [Bozlum Blossom](/npc/49023) and give her [Gift to Bozlum](/item/10630) to receive [Snow Blossoms](/item/10609).
 
-![Oggok-Map-Enchanter-1.0.jpg](/static/guide_images/epics/enchanter/Oggok-Map-Enchanter-1.0.jpg)
-![Large-Muddy-Sandals.jpg](/static/guide_images/epics/enchanter/Large-Muddy-Sandals.jpg)
-![Bozlum-Blossom.jpg](/static/guide_images/epics/enchanter/Bozlum-Blossom.jpg)
+![Oggok-Map-Enchanter-1.0.jpg](/static/guides/images/epic/enchanter/Oggok-Map-Enchanter-1.0.jpg)
+![Large-Muddy-Sandals.jpg](/static/guides/images/epic/enchanter/Large-Muddy-Sandals.jpg)
+![Bozlum-Blossom.jpg](/static/guides/images/epic/enchanter/Bozlum-Blossom.jpg)
 
 ### Step 2E
 [Script Page](/script-entities/overthere/Modani_Qu-Loni)
@@ -202,32 +202,32 @@ Go to [The Overthere](/zone/93) and find [Modani Qu'Loni](/npc/93001). He is loc
 
 Combine [Xolion Rod](/item/10606), [Innoruuk](/npc/76326)'s Word, [Chalice of Kings](/item/10608), [Snow Blossoms](/item/10609) in [Enchanters Sack](/item/17861) to receive [Sack for Modani](/item/10635). Give [Modani Qu'Loni](/npc/93001) [Sack for Modani](/item/10635) to receive [1st Piece of Staff](/item/10610).
 
-![Modani-QuLoni-Map.jpg](/static/guide_images/epics/enchanter/Modani-QuLoni-Map.jpg)
-![Modani-QuLoni.jpg](/static/guide_images/epics/enchanter/Modani-QuLoni.jpg)
+![Modani-QuLoni-Map.jpg](/static/guides/images/epic/enchanter/Modani-QuLoni-Map.jpg)
+![Modani-QuLoni.jpg](/static/guides/images/epic/enchanter/Modani-QuLoni.jpg)
 
 ## Second Piece of Staff
 
 ### Step 3A
 Go to [Oasis of Marr](/zone/37) and Kill [Cazel](/npc/37157). Loot [Spoon](/item/10614). Always Drops. He roams all around the desert area of the zone. He has a high regeneration rate, but is an easy kill with a few people in era. Hits for 200's.
 
-![Cazel.jpg](/static/guide_images/epics/enchanter/Cazel.jpg)
+![Cazel.jpg](/static/guides/images/epic/enchanter/Cazel.jpg)
 
 ### Step 3B
 Go to [The Overthere](/zone/93) and pick up the ground spawn [The One Key](/item/10615). You'll need levitate as it's located on a small plateau coming out of the canyon.
 
-![The-One-Key.jpg](/static/guide_images/epics/enchanter/The-One-Key.jpg)
+![The-One-Key.jpg](/static/guides/images/epic/enchanter/The-One-Key.jpg)
 
 ### Step 3C
 Go to [Dalnir](/zone/104) and find the ground spawn [Lost Scroll](/item/10616). Getting there is a bit tricky if you are not familiar with the zone, you'll need to drop down a tomb and go through a fake wall.
 
-![Dalnir-Tomb-Map.jpg](/static/guide_images/epics/enchanter/Dalnir-Tomb-Map.jpg)
-![Dalnir-Tomb2.jpg](/static/guide_images/epics/enchanter/Dalnir-Tomb2.jpg)
+![Dalnir-Tomb-Map.jpg](/static/guides/images/epic/enchanter/Dalnir-Tomb-Map.jpg)
+![Dalnir-Tomb2.jpg](/static/guides/images/epic/enchanter/Dalnir-Tomb2.jpg)
 
 ### Step 3D
 Head to Quest Island in [Plane of Sky](/zone/71). In the corner of the room on a table you'll find the ground spawn [Charm and Sacrifice](/item/10617).
 
-![Charm-and-Sacrifice-Map.jpg](/static/guide_images/epics/enchanter/Charm-and-Sacrifice-Map.jpg)
-![Charm-and-Sacrifice.jpg](/static/guide_images/epics/enchanter/Charm-and-Sacrifice.jpg)
+![Charm-and-Sacrifice-Map.jpg](/static/guides/images/epic/enchanter/Charm-and-Sacrifice-Map.jpg)
+![Charm-and-Sacrifice.jpg](/static/guides/images/epic/enchanter/Charm-and-Sacrifice.jpg)
 
 ### Step 3E
 [Script Page](/script-entities/akanon/Clockwork_VIIX)
@@ -238,9 +238,9 @@ Combine [Spoon](/item/10614), [The One Key](/item/10615), [Lost Scroll](/item/10
 
 Give [Clockwork VIIX](/npc/55017) [Sack for Mizzle](/item/10636) to receive [2nd Piece of Staff](/item/10611).
 
-![Clockwork-VIIX-Map.jpg](/static/guide_images/epics/enchanter/Clockwork-VIIX-Map.jpg)
-![Clockwork-VIIX-Map-2.jpg](/static/guide_images/epics/enchanter/Clockwork-VIIX-Map-2.jpg)
-![Clockwork-VIIX.jpg](/static/guide_images/epics/enchanter/Clockwork-VIIX.jpg)
+![Clockwork-VIIX-Map.jpg](/static/guides/images/epic/enchanter/Clockwork-VIIX-Map.jpg)
+![Clockwork-VIIX-Map-2.jpg](/static/guides/images/epic/enchanter/Clockwork-VIIX-Map-2.jpg)
+![Clockwork-VIIX.jpg](/static/guides/images/epic/enchanter/Clockwork-VIIX.jpg)
 
 ## Third Piece of Staff
 
@@ -256,8 +256,8 @@ Find [Nadia Starfeast](/npc/84116) in [Firiona Vie](/zone/84). Give her [Jeb's S
 
 You'll receive [Dull Diamond](/item/10631), [Dull Sapphire](/item/10632), [Dull Emerald](/item/10634), [Dull Ruby](/item/10633). You'll need to charm various mobs and turn them in to receive the "Enchanted" versions.
 
-![kunarkgatesnadia.png](/static/guide_images/epics/enchanter/kunarkgatesnadia.png)
-![Nadia-Starfeast.png](/static/guide_images/epics/enchanter/Nadia-Starfeast.png)
+![kunarkgatesnadia.png](/static/guides/images/epic/enchanter/kunarkgatesnadia.png)
+![Nadia-Starfeast.png](/static/guides/images/epic/enchanter/Nadia-Starfeast.png)
 
 ### Step 4B
 [Script Page](/script-entities/kaesora/spectral_librarian)
@@ -266,8 +266,8 @@ Head to [Kaesora](/zone/88) and find [spectral librarian](/npc/88000). Charm him
 
 Kill mobs on the ground floor of the library until he spawns. I have also personally seen mobs despawn on their own and [spectral librarian](/npc/88000) spawn in their place, so he seems to have more than one method of spawning. PH's can be [minion of Xalgoz](/npc/88120) and [tortured librarian](/npc/88001).
 
-![spectral-librarian-map.jpg](/static/guide_images/epics/enchanter/spectral-librarian-map.jpg)
-![spectral-librarian.jpg](/static/guide_images/epics/enchanter/spectral-librarian.jpg)
+![spectral-librarian-map.jpg](/static/guides/images/epic/enchanter/spectral-librarian-map.jpg)
+![spectral-librarian.jpg](/static/guides/images/epic/enchanter/spectral-librarian.jpg)
 
 ### Step 4C
 [Script Page](/script-entities/skyfire/Felia_Goldenwing)
@@ -284,15 +284,15 @@ PH's:
 * [Faerie of Dismay](/npc/91012)
 * [Guardian of Felia](/npc/91002)
 
-![Felia-Goldwing.jpg](/static/guide_images/epics/enchanter/Felia-Goldwing.jpg)
+![Felia-Goldwing.jpg](/static/guides/images/epic/enchanter/Felia-Goldwing.jpg)
 
 ### Step 4D
 [Script Page](/script-entities/overthere/Impaler_Tzilug)
 
 Go to [The Overthere](/zone/93) and find [Impaler Tzilug](/npc/93149). He is in the canyon tunnels. Charm him and give him [Dull Emerald](/item/10634) to receive [Enchanted Emerald](/item/10621).
 
-![Impaler-Tzilug-Map.jpg](/static/guide_images/epics/enchanter/Impaler-Tzilug-Map.jpg)
-![Impaler-Tzilug.jpg](/static/guide_images/epics/enchanter/Impaler-Tzilug.jpg)
+![Impaler-Tzilug-Map.jpg](/static/guides/images/epic/enchanter/Impaler-Tzilug-Map.jpg)
+![Impaler-Tzilug.jpg](/static/guides/images/epic/enchanter/Impaler-Tzilug.jpg)
 
 ### Step 4E
 
@@ -300,8 +300,8 @@ Go to [The Overthere](/zone/93) and find [Impaler Tzilug](/npc/93149). He is in 
 
 Go to [City of Mist](/zone/90) and find [Wraith of Jaxion](/npc/90004). He spawns at the very end of the floating islands. You'll need a pick lock to get through some of the locked doors. His PH circles around the building. Respawn 16 minutes. Charm him and give him [Dull Ruby](/item/10633) to receive [Enchanted Ruby](/item/10620).
 
-![Wraith-of-Jaxion-Map.jpg](/static/guide_images/epics/enchanter/Wraith-of-Jaxion-Map.jpg)
-![Wraith-of-Jaxion.jpg](/static/guide_images/epics/enchanter/Wraith-of-Jaxion.jpg)
+![Wraith-of-Jaxion-Map.jpg](/static/guides/images/epic/enchanter/Wraith-of-Jaxion-Map.jpg)
+![Wraith-of-Jaxion.jpg](/static/guides/images/epic/enchanter/Wraith-of-Jaxion.jpg)
 
 ### Step 4F
 [Script Page](/script-entities/firiona/Nadia_Starfeast)
@@ -312,34 +312,34 @@ Combine [Enchanted Emerald](/item/10621), [Enchanted Ruby](/item/10620), [Enchan
 
 Give [Nadia Starfeast](/npc/84116) [Sack for Nadia](/item/10637) to receive [3rd Piece of Staff](/item/10612).
 
-![kunarkgatesnadia 1.png](/static/guide_images/epics/enchanter/kunarkgatesnadia 1.png)
-![Nadia-Starfeast 1.png](/static/guide_images/epics/enchanter/Nadia-Starfeast 1.png)
+![kunarkgatesnadia 1.png](/static/guides/images/epic/enchanter/kunarkgatesnadia 1.png)
+![Nadia-Starfeast 1.png](/static/guides/images/epic/enchanter/Nadia-Starfeast 1.png)
 
 ## Fourth Piece of Staff
 
 ### Step 5A
 Go to [Plane of Fear](/zone/72) and kill [Wraith of a Shissar](/npc/72107). It is located at the top of the large temple inside the fire ring. As of 2/17/21 patch she will spawn 9 hours after being killed, and 5-14 after a zone or server reset. No PH. Loot [Head of the Serpent](/item/10622).
 
-![PoFear-Map-Enchanter-1.0.jpg](/static/guide_images/epics/enchanter/PoFear-Map-Enchanter-1.0.jpg)
-![Wraith-of-a-Shissar.jpg](/static/guide_images/epics/enchanter/Wraith-of-a-Shissar.jpg)
+![PoFear-Map-Enchanter-1.0.jpg](/static/guides/images/epic/enchanter/PoFear-Map-Enchanter-1.0.jpg)
+![Wraith-of-a-Shissar.jpg](/static/guides/images/epic/enchanter/Wraith-of-a-Shissar.jpg)
 
 ### Step 5B
 Go to [Plane of Hate](/zone/76) and kill [a forsaken revenant](/npc/76005). Loot [Essence of a Vampire](/item/10624). Rare drop. These mobs are spread all over the zone. Both male and females are known to drop it.
 
-![a-forsaken-revenant.jpg](/static/guide_images/epics/enchanter/a-forsaken-revenant.jpg)
-![a-forsaken-revenant2.jpg](/static/guide_images/epics/enchanter/a-forsaken-revenant2.jpg)
+![a-forsaken-revenant.jpg](/static/guides/images/epic/enchanter/a-forsaken-revenant.jpg)
+![a-forsaken-revenant2.jpg](/static/guides/images/epic/enchanter/a-forsaken-revenant2.jpg)
 
 ### Step 5C
 Go to [Field of Bone](/zone/78) and kill [The Tangrin](/npc/78070). Loot [Sands of the Mystics](/item/10625). It is located on an island at the north side of the zone.  Level 54.  Hits 230. Estimated 32K HP. Respawn estimated 12 hours.
 
-![Field-of-Bone-Map-Enchanter-1.0.jpg](/static/guide_images/epics/enchanter/Field-of-Bone-Map-Enchanter-1.0.jpg)
-![The-Tangrin.jpg](/static/guide_images/epics/enchanter/The-Tangrin.jpg)
+![Field-of-Bone-Map-Enchanter-1.0.jpg](/static/guides/images/epic/enchanter/Field-of-Bone-Map-Enchanter-1.0.jpg)
+![The-Tangrin.jpg](/static/guides/images/epic/enchanter/The-Tangrin.jpg)
 
 ### Step 5D
 Go to [The Hole](/zone/39) and kill [the Ghost of Kindle](/npc/39080). Loot [Essence of a Ghost](/item/10623). Level 50.
 
-![the-hole-1.png](/static/guide_images/epics/enchanter/the-hole-1.png)
-![the-ghost-of-kindle4.jpg](/static/guide_images/epics/enchanter/the-ghost-of-kindle4.jpg)
+![the-hole-1.png](/static/guides/images/epic/enchanter/the-hole-1.png)
+![the-ghost-of-kindle4.jpg](/static/guides/images/epic/enchanter/the-ghost-of-kindle4.jpg)
 
 ### Step 5E
 [Script Page](/script-entities/hole/Polzin_Mrid)
@@ -354,15 +354,15 @@ In [The Hole](/zone/39) you'll find [Polzin Mrid](/npc/39063).
 
 4. Before you leave, get an extra [Enchanters Sack](/item/17861) from [Polzin Mrid](/npc/39063) and use it to combine [1st Piece of Staff](/item/10610), [2nd Piece of Staff](/item/10611), [3rd Piece of Staff](/item/10612), [4th Piece of Staff](/item/10613) to create [Bundle of Staves](/item/10639).
 
-![Polzin-Mrid-Map.jpg](/static/guide_images/epics/enchanter/Polzin-Mrid-Map.jpg)
-![Polzin-Mrid.jpg](/static/guide_images/epics/enchanter/Polzin-Mrid.jpg)
+![Polzin-Mrid-Map.jpg](/static/guides/images/epic/enchanter/Polzin-Mrid-Map.jpg)
+![Polzin-Mrid.jpg](/static/guides/images/epic/enchanter/Polzin-Mrid.jpg)
 
 ## Final Turn In
 [Script Page](/script-entities/burningwood/a_sarnak_imitator)
 
 Go back to [Burning Woods](/zone/87) and find [a sarnak imitator](/npc/87001) (-1200, -4000). Give him [Bundle of Staves](/item/10639) to receive [Staff of the Serpent](/item/10650)!
 
-![a-sarnak-imitator-map 1.jpg](/static/guide_images/epics/enchanter/a-sarnak-imitator-map 1.jpg)
-![a-sarnak-imitator 1.jpg](/static/guide_images/epics/enchanter/a-sarnak-imitator 1.jpg)
+![a-sarnak-imitator-map 1.jpg](/static/guides/images/epic/enchanter/a-sarnak-imitator-map 1.jpg)
+![a-sarnak-imitator 1.jpg](/static/guides/images/epic/enchanter/a-sarnak-imitator 1.jpg)
 
-![Staff-of-the-Serpent-Stats1.jpg](/static/guide_images/epics/enchanter/Staff-of-the-Serpent-Stats1.jpg)
+![Staff-of-the-Serpent-Stats1.jpg](/static/guides/images/epic/enchanter/Staff-of-the-Serpent-Stats1.jpg)

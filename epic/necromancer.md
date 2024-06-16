@@ -42,55 +42,55 @@ Looted from mini-bosses in [Plane of Hate](/zone/76)
 
 Go to [Mountains of Rathe](/zone/50) and kill [Sir Edwin Motte](/npc/50300). He spawns as part of a NPC spawn cycle inside an Inn in the Hill Giant area of the zone. His PH's will spawn and despawn on their own every minute or so. Some of them stay up longer, some of them shorter.  You don't need to kill any of them. Eventually [Sir Edwin Motte](/npc/50300) will spawn. I had him spawn him twice in 45 minutes. Kill him and Loot [Head of Sir Edwin Motte](/item/20641).
 
-![Sir-Edwin-Motte-Map-Rathe-Mountains.jpg](/static/guide_images/epics/necromancer/Sir-Edwin-Motte-Map-Rathe-Mountains.jpg)
-![Sir-Edwin-Motte-2.jpg](/static/guide_images/epics/necromancer/Sir-Edwin-Motte-2.jpg)
-![Sir-Edwin-Motte-Map-2-Rathe-Mountains.jpg](/static/guide_images/epics/necromancer/Sir-Edwin-Motte-Map-2-Rathe-Mountains.jpg)
+![Sir-Edwin-Motte-Map-Rathe-Mountains.jpg](/static/guides/images/epic/necromancer/Sir-Edwin-Motte-Map-Rathe-Mountains.jpg)
+![Sir-Edwin-Motte-2.jpg](/static/guides/images/epic/necromancer/Sir-Edwin-Motte-2.jpg)
+![Sir-Edwin-Motte-Map-2-Rathe-Mountains.jpg](/static/guides/images/epic/necromancer/Sir-Edwin-Motte-Map-2-Rathe-Mountains.jpg)
 
 ### Step 2
 [Script Page](/script-entities/lakerathe/Kazen_Fecae)
 
 Go to [Lake Rathetear](/zone/51) and find [Kazen Fecae](/npc/51048) (+350, -1600). Give him [Head of Sir Edwin Motte](/item/20641) to receive [Symbol of the Apprentice](/item/20642).
 
-![Kazen-Fecae-Map.jpg](/static/guide_images/epics/necromancer/Kazen-Fecae-Map.jpg)
-![Kazen-Fecae.jpg](/static/guide_images/epics/necromancer/Kazen-Fecae.jpg)
+![Kazen-Fecae-Map.jpg](/static/guides/images/epic/necromancer/Kazen-Fecae-Map.jpg)
+![Kazen-Fecae.jpg](/static/guides/images/epic/necromancer/Kazen-Fecae.jpg)
 
 ### Step 3
 Obtain a [Flowing Black Robe](/item/1320). You can get one from [Najena](/npc/44100) in [Najena](/zone/44), which is an easy, but potentially long camp. A quicker option is to get one from [Utandar Rizndown](/npc/93112) (Lv. 40), [Vaean the Night](/npc/93113) (Lv. 49), or [Siladdarae N'Riese](/npc/93109) (Lv. 49) in [The Overthere](/zone/93). They drop the robe every time when killed. Guards and other NPC's will assist upon aggro. As a Warrior in Plane of Time Gear, I was able to zerg one down and zone out. If you are lower level you might want to bring some friends. The robe is also tradable, so check the Bazaar.
 
-![Overthere-Vendors-Map.jpg](/static/guide_images/epics/necromancer/Overthere-Vendors-Map.jpg)
-![Utandar-Rizndown.jpg](/static/guide_images/epics/necromancer/Utandar-Rizndown.jpg)
-![Vaean-the-Night.jpg](/static/guide_images/epics/necromancer/Vaean-the-Night.jpg)
-![Siladdarae-NRiese.jpg](/static/guide_images/epics/necromancer/Siladdarae-NRiese.jpg)
+![Overthere-Vendors-Map.jpg](/static/guides/images/epic/necromancer/Overthere-Vendors-Map.jpg)
+![Utandar-Rizndown.jpg](/static/guides/images/epic/necromancer/Utandar-Rizndown.jpg)
+![Vaean-the-Night.jpg](/static/guides/images/epic/necromancer/Vaean-the-Night.jpg)
+![Siladdarae-NRiese.jpg](/static/guides/images/epic/necromancer/Siladdarae-NRiese.jpg)
 
 ### Step 4
 [Script Page](/script-entities/nektulos/Venenzi_Oberzendi)
 
 Go to [Nektulos Forest](/zone/25) and find [Venenzi Oberzendi](/npc/25113) (-1150, -260). First, give her [Symbol of the Apprentice](/item/20642) to receive [Twisted Symbol of the Apprentice](/item/20643). Next, give her [Flowing Black Robe](/item/1320) to receive [Rolling Stone Moss](/item/20649).
 
-![Venenzi-Oberzendi-Map.jpg](/static/guide_images/epics/necromancer/Venenzi-Oberzendi-Map.jpg)
-![Venenzi-Oberzendi.jpg](/static/guide_images/epics/necromancer/Venenzi-Oberzendi.jpg)
+![Venenzi-Oberzendi-Map.jpg](/static/guides/images/epic/necromancer/Venenzi-Oberzendi-Map.jpg)
+![Venenzi-Oberzendi.jpg](/static/guides/images/epic/necromancer/Venenzi-Oberzendi.jpg)
 
 ### Step 5
 [Script Page](/script-entities/lakerathe/Emkel_Kabae)
 
 Go back to [Lake Rathetear](/zone/51) and find [Emkel Kabae](/npc/51047). He is on the Southeast Island. Give him [Twisted Symbol of the Apprentice](/item/20643) and [Rolling Stone Moss](/item/20649) to receive [Symbol of the Serpent](/item/20644).
 
-![Kazen-Fecae-Map.jpg](/static/guide_images/epics/necromancer/Kazen-Fecae-Map.jpg)
-![Emkel-Kabae.jpg](/static/guide_images/epics/necromancer/Emkel-Kabae.jpg)
+![Kazen-Fecae-Map.jpg](/static/guides/images/epic/necromancer/Kazen-Fecae-Map.jpg)
+![Emkel-Kabae.jpg](/static/guides/images/epic/necromancer/Emkel-Kabae.jpg)
 
 ### Step 6
 Go to [Chardok](/zone/103) and kill [Grand Herbalist Mak'ha](/npc/103051) (+160, +30). He spawns in the "herbalist" room within the tunnels. Loot [Manisi Herb](/item/20654). Rare spawn. Rare Drop. Expect to spend some time here.
 
-![Chardok-Map-Necro-1.0.jpg](/static/guide_images/epics/necromancer/Chardok-Map-Necro-1.0.jpg)
-![Grand-Herbalist-Makha-2.jpg](/static/guide_images/epics/necromancer/Grand-Herbalist-Makha-2.jpg)
+![Chardok-Map-Necro-1.0.jpg](/static/guides/images/epic/necromancer/Chardok-Map-Necro-1.0.jpg)
+![Grand-Herbalist-Makha-2.jpg](/static/guides/images/epic/necromancer/Grand-Herbalist-Makha-2.jpg)
 
 ### Step 7
 [Script Page](/script-entities/swampofnohope/Ssessthrass)
 
 Find [Ssessthrass](/npc/83074) (+3800, +1600) in [Swamp of No Hope](/zone/83). First, give him  [Symbol of the Serpent](/item/20644) to receive [Scaled Symbol of the Serpent](/item/20645). Next, give him the [Scaled Symbol of the Serpent](/item/20645) you just got along with [Manisi Herb](/item/20654) to receive [Refined Manisi Herb](/item/20650).
 
-![Ssessthrass-Map.jpg](/static/guide_images/epics/necromancer/Ssessthrass-Map.jpg)
-![Ssessthrass.jpg](/static/guide_images/epics/necromancer/Ssessthrass.jpg)
+![Ssessthrass-Map.jpg](/static/guides/images/epic/necromancer/Ssessthrass-Map.jpg)
+![Ssessthrass.jpg](/static/guides/images/epic/necromancer/Ssessthrass.jpg)
 
 ### Step 8
 Go back to [Lake Rathetear](/zone/51). Bring a few people if you are only in your 50s.
@@ -99,12 +99,12 @@ Go back to [Lake Rathetear](/zone/51). Bring a few people if you are only in you
 2. Give [Symbol of Testing](/item/20647) to [Kazen Fecae](/npc/51048) to spawn 3 named mobs: [a bone golem](/npc/51153), [a failed apprentice](/npc/51152), and [a tortured soul](/npc/51144). They spawn 1 at a time and [a bone golem](/npc/51153) drops [Twisted Bone Earring](/item/20658) (excellent tradable  earring in era).
 3. Loot [Symbol of Insanity](/item/20648) from [a tortured soul](/npc/51144). 
 
-![Kazen-Fecae-Map.jpg](/static/guide_images/epics/necromancer/Kazen-Fecae-Map.jpg)
-![a-bone-golem.jpg](/static/guide_images/epics/necromancer/a-bone-golem.jpg)
-![a-failed-apprentice.jpg](/static/guide_images/epics/necromancer/a-failed-apprentice.jpg)
-![a-tortued-soul2.jpg](/static/guide_images/epics/necromancer/a-tortued-soul2.jpg)
-![Emkel-Kabae.jpg](/static/guide_images/epics/necromancer/Emkel-Kabae.jpg)
-![Kazen-Fecae.jpg](/static/guide_images/epics/necromancer/Kazen-Fecae.jpg)
+![Kazen-Fecae-Map.jpg](/static/guides/images/epic/necromancer/Kazen-Fecae-Map.jpg)
+![a-bone-golem.jpg](/static/guides/images/epic/necromancer/a-bone-golem.jpg)
+![a-failed-apprentice.jpg](/static/guides/images/epic/necromancer/a-failed-apprentice.jpg)
+![a-tortued-soul2.jpg](/static/guides/images/epic/necromancer/a-tortued-soul2.jpg)
+![Emkel-Kabae.jpg](/static/guides/images/epic/necromancer/Emkel-Kabae.jpg)
+![Kazen-Fecae.jpg](/static/guides/images/epic/necromancer/Kazen-Fecae.jpg)
 
 ### Step 9
 Go to [Plane of Sky](/zone/71) and complete the quest for [Cloak of Spiroc Feathers](/item/1278). You will need three items:
@@ -113,9 +113,9 @@ Go to [Plane of Sky](/zone/71) and complete the quest for [Cloak of Spiroc Feath
 * [Silver Disc](/item/20938) - Drops from [azaracks](/npc/71031) on Island 2 - tradable
 * [Spiroc Feathers](/item/20782) - Drops from various mobs on Island 3 - tradable
 
-![a-gorgalask.jpg](/static/guide_images/epics/necromancer/a-gorgalask.jpg)
-![an-azarack.jpg](/static/guide_images/epics/necromancer/an-azarack.jpg)
-![Keeper-of-Souls.jpg](/static/guide_images/epics/necromancer/Keeper-of-Souls.jpg)
+![a-gorgalask.jpg](/static/guides/images/epic/necromancer/a-gorgalask.jpg)
+![an-azarack.jpg](/static/guides/images/epic/necromancer/an-azarack.jpg)
+![Keeper-of-Souls.jpg](/static/guides/images/epic/necromancer/Keeper-of-Souls.jpg)
 
 [Script Page](/script-entities/airplane/Drakis_Bloodcaster)
 
@@ -125,21 +125,21 @@ Once all three items are obtained, head to the Quest Room. Say, "i wish to be te
 
 Give [Jzil G'Six](/npc/71074) [Black Silk Cape](/item/20783), [Silver Disc](/item/20938), and [Spiroc Feathers](/item/20782) to receive [Cloak of Spiroc Feathers](/item/1278).
 
-![Drakis-Bloodcaster.jpg](/static/guide_images/epics/necromancer/Drakis-Bloodcaster.jpg)
-![Jzil-GSix.jpg](/static/guide_images/epics/necromancer/Jzil-GSix.jpg)
+![Drakis-Bloodcaster.jpg](/static/guides/images/epic/necromancer/Drakis-Bloodcaster.jpg)
+![Jzil-GSix.jpg](/static/guides/images/epic/necromancer/Jzil-GSix.jpg)
 
 ### Step 10
 Go to [Plane of Fear](/zone/72) and loot [Slime Blood of Cazic-Thule](/item/20655).
 
 Drops off [Cazic-Thule](/npc/72003). Tradable.
 
-![Terror.jpg](/static/guide_images/epics/necromancer/Terror.jpg)
+![Terror.jpg](/static/guides/images/epic/necromancer/Terror.jpg)
 
 ### Step 11
 Go to [Plane of Hate](/zone/76) and loot [Eye of Innoruuk](/item/20656). Seems to drop off of most mini-named.
 
-![Vicar-Map.jpg](/static/guide_images/epics/necromancer/Vicar-Map.jpg)
-![Vicar-MKari.jpg](/static/guide_images/epics/necromancer/Vicar-MKari.jpg)
+![Vicar-Map.jpg](/static/guides/images/epic/necromancer/Vicar-Map.jpg)
+![Vicar-MKari.jpg](/static/guides/images/epic/necromancer/Vicar-MKari.jpg)
 
 ### Step 12
 [Script Page](/script-entities/timorous/Drendico_Metalbones)
@@ -148,29 +148,29 @@ Head over to [Timorous Deep](/zone/96). Give [Symbol of Insanity](/item/20648) t
 
 Next, give him [Journal of Drendico](/item/18086), [Slime Blood of Cazic-Thule](/item/20655), [Eye of Innoruuk](/item/20656), and [Cloak of Spiroc Feathers](/item/1278) to receive [Prepared Reagent Box](/item/20653).
 
-![Drendico-Metalbones-Map.jpg](/static/guide_images/epics/necromancer/Drendico-Metalbones-Map.jpg)
-![Drendico-Metalbones.jpg](/static/guide_images/epics/necromancer/Drendico-Metalbones.jpg)
+![Drendico-Metalbones-Map.jpg](/static/guides/images/epic/necromancer/Drendico-Metalbones-Map.jpg)
+![Drendico-Metalbones.jpg](/static/guides/images/epic/necromancer/Drendico-Metalbones.jpg)
 
 ### Step 13
 Go back to [Lake Rathetear](/zone/51). Give [Prepared Reagent Box](/item/20653) to [Kazen Fecae](/npc/51048) to receive [Tome of Instruction](/item/18087).
 
-![Kazen-Fecae-Map.jpg](/static/guide_images/epics/necromancer/Kazen-Fecae-Map.jpg)
-![Kazen-Fecae.jpg](/static/guide_images/epics/necromancer/Kazen-Fecae.jpg)
+![Kazen-Fecae-Map.jpg](/static/guides/images/epic/necromancer/Kazen-Fecae-Map.jpg)
+![Kazen-Fecae.jpg](/static/guides/images/epic/necromancer/Kazen-Fecae.jpg)
 
 ### Step 14
 [Script Page](/script-entities/lakerathe/Kazen_Fecae)
 
 Go to [Plane of Sky](/zone/71) again. On the first island you will find [a thunder spirit princess](/npc/71032). Give her 1 platinum. Doing so will spawn [Gkzzallk](/npc/71073) on Island 3. Go up to him. He is inside the hut in the middle of the island. Other mobs should not aggro as long as you're inside. Give [Gkzzallk](/npc/71073) [Tome of Instruction](/item/18087) to receive [Gkzzallk in a Box](/item/20652).
 
-![Gkzzallk.jpg](/static/guide_images/epics/necromancer/Gkzzallk.jpg)
-![a-thunder-spirit-princess.jpg](/static/guide_images/epics/necromancer/a-thunder-spirit-princess.jpg)
+![Gkzzallk.jpg](/static/guides/images/epic/necromancer/Gkzzallk.jpg)
+![a-thunder-spirit-princess.jpg](/static/guides/images/epic/necromancer/a-thunder-spirit-princess.jpg)
 
 ### Final Turn In
 [Script Page](/script-entities/lakerathe/Kazen_Fecae)
 
 Give [Gkzzallk in a Box](/item/20652) to [Kazen Fecae](/npc/51048) in [Lake Rathetear](/zone/51) for your [Scythe of the Shadowed Soul](/item/20544)!
 
-![Kazen-Fecae-Map.jpg](/static/guide_images/epics/necromancer/Kazen-Fecae-Map.jpg)
-![Kazen-Fecae.jpg](/static/guide_images/epics/necromancer/Kazen-Fecae.jpg)
+![Kazen-Fecae-Map.jpg](/static/guides/images/epic/necromancer/Kazen-Fecae-Map.jpg)
+![Kazen-Fecae.jpg](/static/guides/images/epic/necromancer/Kazen-Fecae.jpg)
 
-![Scythe-of-the-Shadowed-Soul-Stats.jpg](/static/guide_images/epics/necromancer/Scythe-of-the-Shadowed-Soul-Stats.jpg)
+![Scythe-of-the-Shadowed-Soul-Stats.jpg](/static/guides/images/epic/necromancer/Scythe-of-the-Shadowed-Soul-Stats.jpg)

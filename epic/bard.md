@@ -1,6 +1,6 @@
 # Bard Epic - [Singing Short Sword](/item/20542)
 
-- [ ] [Bard Epic - Singing Short Sword(#bard-epic---singing-short-sword)
+- [ ] [Bard Epic - Singing Short Sword](#bard-epic---singing-short-sword)
     - [ ] [Pre-Farmable Items](#pre-farmable-items)
         - [ ] [Onyx Drake Gut](#onyx-drake-gut): Looted from [Blackwing](/npc/50323) in [Rathe Mountains](/zone/50)
         - [ ] [Red Wurm Gut](#red-wurm-gut): Looted from [Nezekezena](/npc/87007) in [Burning Woods](/zone/87)
@@ -89,40 +89,40 @@ Craft [Metal Bits](/item/16905) with Blacksmithing ([Recipe](/recipe/5458))
 
 Start off by going to [Konia Swiftfoot](/npc/12117) (-525.0, -2438.0) in [Western Plains of Karana](/zone/12). Say `ready` to receive [Torch of Misty](/item/20532).
 
-![Konia-Swiftfoot-Map.jpg](/static/guide_images/epics/bard/Konia-Swiftfoot-Map.jpg)
-![Konia-Swiftfoot.png](/static/guide_images/epics/bard/Konia-Swiftfoot.png)
+![Konia-Swiftfoot-Map.jpg](/static/guides/images/epic/bard/Konia-Swiftfoot-Map.jpg)
+![Konia-Swiftfoot.png](/static/guides/images/epic/bard/Konia-Swiftfoot.png)
 
 ### Step 2
 [Script Page](/script-entities/misty/Fajio_Knejo)
 
 Go to [Misty Thicket](/zone/33) and find [Fajio Knejo](/npc/33092) (-129.0, -53.0). Give him [Torch of Misty](/item/20532) to receive  [Torch of Ro](/item/20533).
 
-![Fajio-Knejo-Map.jpg](/static/guide_images/epics/bard/Fajio-Knejo-Map.jpg)
-![Fajio-Knejo.jpg](/static/guide_images/epics/bard/Fajio-Knejo.jpg)
+![Fajio-Knejo-Map.jpg](/static/guides/images/epic/bard/Fajio-Knejo-Map.jpg)
+![Fajio-Knejo.jpg](/static/guides/images/epic/bard/Fajio-Knejo.jpg)
 
 ### Step 3
 [Script Page](/script-entities/sro/Andad_Filla)
 
 Go to [Southern Desert of Ro](/zone/35) and locate [Andad Filla](/zone/35030) (-3044.0, 1211.0. Give him [Torch of Ro](/item/20533) to receive [Torch of Rathe](/item/20534).
 
-![Andad-Filla-Map.jpg](/static/guide_images/epics/bard/Andad-Filla-Map.jpg)
-![Andad-Filla.jpg](/static/guide_images/epics/bard/Andad-Filla.jpg)
+![Andad-Filla-Map.jpg](/static/guides/images/epic/bard/Andad-Filla-Map.jpg)
+![Andad-Filla.jpg](/static/guides/images/epic/bard/Andad-Filla.jpg)
 
 ### Step 4
 [Script Page](/script-entities/lakerathe/Misty_Tekcihta)
 
 Go to [Lake Rathetear](/zone/51) and find [Misty Tekcihta](/npc/51052) (2430.0, 2587.0). Give her [Torch of Rathe](/item/20534) to receive [Proof of Speed](/item/20379).
 
-![Misty-Tekcihta-Map.jpg](/static/guide_images/epics/bard/Misty-Tekcihta-Map.jpg)
-![Misty-Tekcihta.jpg](/static/guide_images/epics/bard/Misty-Tekcihta.jpg)
+![Misty-Tekcihta-Map.jpg](/static/guides/images/epic/bard/Misty-Tekcihta-Map.jpg)
+![Misty-Tekcihta.jpg](/static/guides/images/epic/bard/Misty-Tekcihta.jpg)
 
 ### Step 5
 [Script Page](/script-entities/qey2hh1/Konia_Swiftfoot)
 
 Go back to [Konia Swiftfoot](/npc/12117)  (-525.0, -2438.0) in [Western Plains of Karana](/zone/12). Give her [Proof of Speed](/item/20379) to receive [Maestro's Symphony Page 24 Top](/item/20376).
 
-![Konia-Swiftfoot-Map.jpg](/static/guide_images/epics/bard/Konia-Swiftfoot-Map.jpg)
-![Konia-Swiftfoot.png](/static/guide_images/epics/bard/Konia-Swiftfoot.png)
+![Konia-Swiftfoot-Map.jpg](/static/guides/images/epic/bard/Konia-Swiftfoot-Map.jpg)
+![Konia-Swiftfoot.png](/static/guides/images/epic/bard/Konia-Swiftfoot.png)
 
 ## [Maestro's Symphony Page 24 Bottom](/item/20383)
 
@@ -131,56 +131,56 @@ Go back to [Konia Swiftfoot](/npc/12117)  (-525.0, -2438.0) in [Western Plains o
 
 Head to [Baenar Swiftsong](/npc/14046) (-18.0, 97.0) in [Southern Plains of Karana](/zone/14). Say `doll` to receive [Solusek Mining Company Invoice](/item/20372).
 
-![Baenar-Swiftsong-Map.jpg](/static/guide_images/epics/bard/Baenar-Swiftsong-Map.jpg)
-![Baenar-Swiftsong.jpg](/static/guide_images/epics/bard/Baenar-Swiftsong.jpg)
+![Baenar-Swiftsong-Map.jpg](/static/guides/images/epic/bard/Baenar-Swiftsong-Map.jpg)
+![Baenar-Swiftsong.jpg](/static/guides/images/epic/bard/Baenar-Swiftsong.jpg)
 
 ### Step 7
 [Script Page](/script-entities/soldunga/Marfen_Binkdirple)
 
 Find [Marfen Binkdirple](/npc/31080)  (-305.0, -1071.0) in [Solusek's Eye](/zone/31). Give him  [Solusek Mining Company Invoice](/item/20372). to receive [Mechanical Doll](/item/20370). He is on the bottom Level.
 
-![Marfen-Binkdirple-Map.jpg](/static/guide_images/epics/bard/Marfen-Binkdirple-Map.jpg)
-![Marfen-Binkdirple.jpg](/static/guide_images/epics/bard/Marfen-Binkdirple.jpg)
+![Marfen-Binkdirple-Map.jpg](/static/guides/images/epic/bard/Marfen-Binkdirple-Map.jpg)
+![Marfen-Binkdirple.jpg](/static/guides/images/epic/bard/Marfen-Binkdirple.jpg)
 
 ### Step 8
 [Script Page](/script-entities/unrest/[Serra](/npc/63029))
 
 Go to [The Estate of Unrest](/zone/63) and find [Serra](/npc/63029). Give her [Mechanical Doll](/item/20370) to to receive [Note for Baenar](/item/20371). She is underwater. 
 
-![Serra-Map.jpg](/static/guide_images/epics/bard/Serra-Map.jpg)
-![Serra.jpg](/static/guide_images/epics/bard/Serra.jpg)
+![Serra-Map.jpg](/static/guides/images/epic/bard/Serra-Map.jpg)
+![Serra.jpg](/static/guides/images/epic/bard/Serra.jpg)
 
 ### Step 9
 [Script Page](/script-entities/southkarana/Baenar_Swiftsong)
 
 Go back to [Baenar Swiftsong](/npc/14046)  (-18.0, 97.0) in [Southern Plains of Karana](/zone/14). Give him [Note for Baenar](/item/20371) to receive [Note to Maligar](/item/20368).
 
-![Baenar-Swiftsong-Map.jpg](/static/guide_images/epics/bard/Baenar-Swiftsong-Map.jpg)
-![Baenar-Swiftsong.jpg](/static/guide_images/epics/bard/Baenar-Swiftsong.jpg)
+![Baenar-Swiftsong-Map.jpg](/static/guides/images/epic/bard/Baenar-Swiftsong-Map.jpg)
+![Baenar-Swiftsong.jpg](/static/guides/images/epic/bard/Baenar-Swiftsong.jpg)
 
 ### Step 10
 [Script Page](script-entities/qey2hh1/Maligar)
 Go to [Western Plains of Karana](/zone/12) and find [Maligar](/npc/12076) (1249.0, -10904.0).  He has some KoS mobs near him that you might need to kill. You will want to charm [Maligar](/npc/12076) because he is KoS. Once charmed, give him [Note to Maligar](/item/20368) to spawn [Maligar's Enraged Doppleganger](/npc/12173). Kill [Maligar's Enraged Doppleganger](/npc/12173) (Level 45). Loot [Maligar's Head](/item/20367).
 
-![Maligars-Map.jpg](/static/guide_images/epics/bard/Maligars-Map.jpg)
-![Maligar.jpg](/static/guide_images/epics/bard/Maligar.jpg)
-![Malgars-Doppleganger.jpg](/static/guide_images/epics/bard/Malgars-Doppleganger.jpg)
+![Maligars-Map.jpg](/static/guides/images/epic/bard/Maligars-Map.jpg)
+![Maligar.jpg](/static/guides/images/epic/bard/Maligar.jpg)
+![Malgars-Doppleganger.jpg](/static/guides/images/epic/bard/Malgars-Doppleganger.jpg)
 
 ### Step 11
 [Script Page](/script-entities/southkarana/Baenar_Swiftsong)
 
 Go back to [Baenar Swiftsong](/npc/14046) (-18.0, 97.0) in [Southern Plains of Karana](/zone/14). Give him [Maligar's Head](/item/20367) to receive [Mahlin's Mystical Bongos](/item/20366).
 
-![Baenar-Swiftsong-Map.jpg](/static/guide_images/epics/bard/Baenar-Swiftsong-Map.jpg)
-![Baenar-Swiftsong.jpg](/static/guide_images/epics/bard/Baenar-Swiftsong.jpg)
+![Baenar-Swiftsong-Map.jpg](/static/guides/images/epic/bard/Baenar-Swiftsong-Map.jpg)
+![Baenar-Swiftsong.jpg](/static/guides/images/epic/bard/Baenar-Swiftsong.jpg)
 
 ### Step 12
 [Script Page](/script-entities/qey2hh1/Konia_Swiftfoot)
 
 Go back [Konia Swiftfoot](/npc/12117) (-525.0, -2438.0) in [Western Plains of Karana](/zone/12). Give her [Mahlin's Mystical Bongos](/item/20366) to receive [Maestro's Symphony Page 24 Bottom](/item/20383).
 
-![Konia-Swiftfoot-Map.jpg](/static/guide_images/epics/bard/Konia-Swiftfoot-Map.jpg)
-![Konia-Swiftfoot.png](/static/guide_images/epics/bard/Konia-Swiftfoot.png)
+![Konia-Swiftfoot-Map.jpg](/static/guides/images/epic/bard/Konia-Swiftfoot-Map.jpg)
+![Konia-Swiftfoot.png](/static/guides/images/epic/bard/Konia-Swiftfoot.png)
 
 ## [Maestros Symphony Page 25](/item/20377)
 
@@ -188,31 +188,31 @@ Go back [Konia Swiftfoot](/npc/12117) (-525.0, -2438.0) in [Western Plains of Ka
 
 Go to to [Rathe Mountains](/zone/50). Kill [Blackwing](/npc/50323) (level 35). Loot [Onyx Drake Gut](/item/20529). Not a common spawn, but has many spawn groups - check the NPC page to see spawn points/groups.  Gut is 100% drop chance.
 
-![Blackwing-Map.jpg](/static/guide_images/epics/bard/Blackwing-Map.jpg)
-![Blackwing.jpg](/static/guide_images/epics/bard/Blackwing.jpg)
+![Blackwing-Map.jpg](/static/guides/images/epic/bard/Blackwing-Map.jpg)
+![Blackwing.jpg](/static/guides/images/epic/bard/Blackwing.jpg)
 
 ### Step 14
 
 Kill [Nezekezena](/npc/87007) in [The Burning Wood](/zone/87). Loot [Red Wurm Gut](/item/20528). [Nezekezena](/npc/87007) spawns at (-469.0, -2546.0) but roams all over the Eastern side of the zone.  Only 1 spawn group, many PHs in group, but respawn rate is only 1 minute 20 seconds.  Gut is 100% drop chance.
 
-![Burning-Woods-Map.jpg](/static/guide_images/epics/bard/Burning-Woods-Map.jpg)
-![Nezekezena.jpg](/static/guide_images/epics/bard/Nezekezena.jpg)
-![Phurzikon.png](/static/guide_images/epics/bard/Phurzikon.png)
+![Burning-Woods-Map.jpg](/static/guides/images/epic/bard/Burning-Woods-Map.jpg)
+![Nezekezena.jpg](/static/guides/images/epic/bard/Nezekezena.jpg)
+![Phurzikon.png](/static/guides/images/epic/bard/Phurzikon.png)
 
 ### Step 15
 
 Go to [Skyfire Mountains](/zone/91) and kill [Eldrig the Old](/npc/91009). He has two potential spawn points - (1768.0, -3849.0) and (500.0, -4000.0) His PH's can roam all over the zone, so you'll want a character to stand at each of his spawn points while a Bard uses Song of Highsun to send mobs back to their spawn point. Once you have the correct PH's, kill them until Eldrig spawns. Loot [Chromodrac Gut](/item/20527). Gut is 100% drop chance.
 
-![Eldrig-the-Old-Map.jpg](/static/guide_images/epics/bard/Eldrig-the-Old-Map.jpg)
-![Eldrig-the-Old-2.png](/static/guide_images/epics/bard/Eldrig-the-Old-2.png)
+![Eldrig-the-Old-Map.jpg](/static/guides/images/epic/bard/Eldrig-the-Old-Map.jpg)
+![Eldrig-the-Old-2.png](/static/guides/images/epic/bard/Eldrig-the-Old-2.png)
 
 ### Step 16
 [Script Page](/script-entities/southkarana/Kelkim_Menkia)
 
 Go to [Southern Plains of Karana](/zone/14). and locate [Kelkim Menkia](/npc/14082) (-245.0, -3670.0 ). Give her [Onyx Drake Gut](/item/20529), [Red Wurm Gut](/item/20528), and [Chromodrac Gut](/item/20527) to receive [Maestros Symphony Page 25](/item/20377).
 
-![Kelkim-Menkia-Map.jpg](/static/guide_images/epics/bard/Kelkim-Menkia-Map.jpg)
-![Kelkim-Menkia.jpg](/static/guide_images/epics/bard/Kelkim-Menkia.jpg)
+![Kelkim-Menkia-Map.jpg](/static/guides/images/epic/bard/Kelkim-Menkia-Map.jpg)
+![Kelkim-Menkia.jpg](/static/guides/images/epic/bard/Kelkim-Menkia.jpg)
 
 ## [Mystical Lute](/item/20538)
 
@@ -220,52 +220,52 @@ Go to [Southern Plains of Karana](/zone/14). and locate [Kelkim Menkia](/npc/140
 
 Go to [Ocean of Tears](/zone/69) and kill [Quag Maelstrom](/npc/69093) on seafury island. Loot [Alluring Horn](/item/20530). PH's are most [cyclops](/npc/69128) on the island.
 
-![Quag-Maelstrom-Map.jpg](/static/guide_images/epics/bard/Quag-Maelstrom-Map.jpg)
-![Quag-Maelstrom.jpg](/static/guide_images/epics/bard/Quag-Maelstrom.jpg)
+![Quag-Maelstrom-Map.jpg](/static/guides/images/epic/bard/Quag-Maelstrom-Map.jpg)
+![Quag-Maelstrom.jpg](/static/guides/images/epic/bard/Quag-Maelstrom.jpg)
 
 ### Step 18
 [Script Page](/script-entities/butcher/Vedico_Windwisper)
 
 Go to [Butcherblock Mountains](/zone/68) and find [Vedico Windwisper](/npc/68115) (1009.0, 3008.0) on the docks in a hut. Give [Alluring Horn](/item/20530) to [Vedico Windwisper](/npc/68115) to receive [Note to Forpar Fizfla](/item/20378).
 
-![Vedico-Windwisper-Map.jpg](/static/guide_images/epics/bard/Vedico-Windwisper-Map.jpg)
-![Vedico-Windwisper.jpg](/static/guide_images/epics/bard/Vedico-Windwisper.jpg)
+![Vedico-Windwisper-Map.jpg](/static/guides/images/epic/bard/Vedico-Windwisper-Map.jpg)
+![Vedico-Windwisper.jpg](/static/guides/images/epic/bard/Vedico-Windwisper.jpg)
 
 ### Step 19
 [Script Page](/script-entities/steamfont/Forpar_Fizfla)
 
 Go to [Steamfont Mountains](/zone/56) and find [Forpar Fizfla](/npc/56130) (133.0, -605.0) inside a windmill. Give [Forpar Fizfla](/npc/56130) [Note to Forpar Fizfla](/item/20378), then say `component` to receive [Forpars Note to Himself](/item/20380).
 
-![Forpar-Fizfla-Map.jpg](/static/guide_images/epics/bard/Forpar-Fizfla-Map.jpg)
-![Forpar-Fizfla.jpg](/static/guide_images/epics/bard/Forpar-Fizfla.jpg)
+![Forpar-Fizfla-Map.jpg](/static/guides/images/epic/bard/Forpar-Fizfla-Map.jpg)
+![Forpar-Fizfla.jpg](/static/guides/images/epic/bard/Forpar-Fizfla.jpg)
 
 ### Step 20
 
 Kill [Phinigel Autropos](/npc/64001) in [Kedge Keep](/zone/64). Loot [Kedge Backbone](/item/20524). Backbone has a 20% drop chance.
 
-![Phinny-Map.jpg](/static/guide_images/epics/bard/Phinny-Map.jpg)
-![Phinigel-Autropos.png](/static/guide_images/epics/bard/Phinigel-Autropos.png)
+![Phinny-Map.jpg](/static/guides/images/epic/bard/Phinny-Map.jpg)
+![Phinigel-Autropos.png](/static/guides/images/epic/bard/Phinigel-Autropos.png)
 
 ### Step 21
 
 Kill [Amygdalan warriors](/npc/72015) and [Amygdalan knights](/npc/72029) in [Plane of Fear](/zone/72). Loot [Amygdalan Tendril](/item/5520).  
 
-![Amygdalan.jpg](/static/guide_images/epics/bard/Amygdalan.jpg)
+![Amygdalan.jpg](/static/guides/images/epic/bard/Amygdalan.jpg)
 
 ### Step 22
 
 Kill [a Drolvarg warlord](/npc/102001) in [Karnor's Castle](/zone/102). Loot [Petrified Werewolf Skull](/item/20525). 45% drop chance. PH's are the drovarg bodyguards.
 
-![Warlord-Room-Map.jpg](/static/guide_images/epics/bard/Warlord-Room-Map.jpg)
-![a-drolvarg-warlord.jpg](/static/guide_images/epics/bard/a-drolvarg-warlord.jpg)
+![Warlord-Room-Map.jpg](/static/guides/images/epic/bard/Warlord-Room-Map.jpg)
+![a-drolvarg-warlord.jpg](/static/guides/images/epic/bard/a-drolvarg-warlord.jpg)
 
 ### Step 23
 [Script Page](/script-entities/steamfont/Forpar_Fizfla)
 
 Go back to [Forpar Fizfla](/npc/56130) (133.0, -605.0) in [Steamfont Mountains](/zone/56). Give him [Forpars Noteto Himself](/item/20380), [Kedge Backbone](/item/20524), [Amygdalan Tendril](/item/5520), and [Petrified Werewolf Skull](/item/20525) to receive [Mystical Lute Head](/item/20535).
 
-![Forpar-Fizfla-Map.jpg](/static/guide_images/epics/bard/Forpar-Fizfla-Map.jpg)
-![Forpar-Fizfla.jpg](/static/guide_images/epics/bard/Forpar-Fizfla.jpg)
+![Forpar-Fizfla-Map.jpg](/static/guides/images/epic/bard/Forpar-Fizfla-Map.jpg)
+![Forpar-Fizfla.jpg](/static/guides/images/epic/bard/Forpar-Fizfla.jpg)
 
 ### Step 24
 
@@ -276,9 +276,9 @@ Kill dragons to get the each of the following:
 2. [White Dragon Scales](/item/11602) - Drops from [Lady Vox](/npc/73057) in [Permafrost Caverns](/zone/72) or [Gorenaire](/npc/86000) in [The Dreadlands](/zone/86) 
 3. [Red Dragon Scales](/item/11622) - Drops off [Lord Nagafen](/npc/32040) in [Nagafen's Lair](/zone/32), [Talendor](/npc/91093) in [Skyfire Mountains](/zone/91), or [Nortlav the Scalekeeper](/npc/39148) in [The Hole](/zone/39)
 
-![Trakanon.jpg](/static/guide_images/epics/bard/Trakanon.jpg)
-![Gorenaire.jpg](/static/guide_images/epics/bard/Gorenaire.jpg)
-![Talendor.jpg](/static/guide_images/epics/bard/Talendor.jpg)
+![Trakanon.jpg](/static/guides/images/epic/bard/Trakanon.jpg)
+![Gorenaire.jpg](/static/guides/images/epic/bard/Gorenaire.jpg)
+![Talendor.jpg](/static/guides/images/epic/bard/Talendor.jpg)
 
 ### Step 25
 
@@ -305,8 +305,8 @@ to receive [Mystical Lute Body](/item/20536).
 
 Next, give him the [Mystical Lute Head](/item/20535), [Mystical Lute Body](/item/20536), [Undead Dragongut Strings](/item/20526) to receive [Mystical Lute](/item/20538).
 
-![Forpar-Fizfla-Map 2.jpg](/static/guide_images/epics/bard/Forpar-Fizfla-Map 2.jpg)
-![Forpar-Fizfla.jpg](/static/guide_images/epics/bard/Forpar-Fizfla.jpg)
+![Forpar-Fizfla-Map 2.jpg](/static/guides/images/epic/bard/Forpar-Fizfla-Map.jpg)
+![Forpar-Fizfla.jpg](/static/guides/images/epic/bard/Forpar-Fizfla.jpg)
 
 ### Step 27
 [Script Page](/script-entities/dreadlands/Baldric_Slezaf)
@@ -324,8 +324,8 @@ Give [Baldric Slezaf](/npc/86097):
 
 to receive your [Singing Short Sword](/item/20542)!
 
-![Baldric-Slezaf-Map.jpg](/static/guide_images/epics/bard/Baldric-Slezaf-Map.jpg)
-![Baldric-Slezaf.jpg](/static/guide_images/epics/bard/Baldric-Slezaf.jpg)
+![Baldric-Slezaf-Map.jpg](/static/guides/images/epic/bard/Baldric-Slezaf-Map.jpg)
+![Baldric-Slezaf.jpg](/static/guides/images/epic/bard/Baldric-Slezaf.jpg)
 
-![Singing-Short-Sword.jpg](/static/guide_images/epics/bard/Singing-Short-Sword.jpg)
+![Singing-Short-Sword.jpg](/static/guides/images/epic/bard/Singing-Short-Sword.jpg)
 

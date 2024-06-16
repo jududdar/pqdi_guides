@@ -105,21 +105,21 @@ Looted in [Chardok](/zone/103)
 
 Head to [East Freeport](/zone/10) and find [Kargek Redblade](/npc/10117). Say `what favor` to receive [Wax Sealed Note](/item/20673).
 
-![East-Freeport-Map.png](/static/guide_images/epics/warrior/East-Freeport-Map.png)
+![East-Freeport-Map.png](/static/guides/images/epic/warrior/East-Freeport-Map.png)
 
 ### Step 2
 [Script Page](/script-entities/feerrott/Oknoggin_Stonesmacker)
 
 Head to [Feerrott](/zone/47), give [Oknoggin Stonesmacker](/npc/47126) your [Wax Sealed Note](/item/20673) to receive [Tiny Lute](/item/20674).
 
-![Ferrott-Map-Warrior.png](/static/guide_images/epics/warrior/Ferrott-Map-Warrior.png)
+![Ferrott-Map-Warrior.png](/static/guides/images/epic/warrior/Ferrott-Map-Warrior.png)
 
 ### Step 3
 [Script Page](/script-entities/freporte/Kargek_Redblade)
 
 Head back to [East Freeport](/zone/10), give [Kargek Redblade](/npc/10117) your [Tiny Lute](/item/20674) to receive [Redblade's Legacy](/item/18083). Hold onto it.
 
-![East-Freeport-Map.png](/static/guide_images/epics/warrior/East-Freeport-Map.png)
+![East-Freeport-Map.png](/static/guides/images/epic/warrior/East-Freeport-Map.png)
 
 ### Step 4
 Head to [Permafrost Keep](/zone/73), kill [a goblin wizard](/npc/73044) and/or [a goblin warlock](/npc/73221). Loot a [Heart of Frost](/item/10549). It is a fairly common drop. While you're here, you can grab a [Block of Permafrost](/item/20665) from the [ice giant](/npc/73069) area if you want. You'll need it later in the quest (See Part 2 - there are two options).
@@ -129,7 +129,7 @@ Head to [Permafrost Keep](/zone/73), kill [a goblin wizard](/npc/73044) and/or [
 
 Head to [East Karana](/zone/15), give [Tenal Redblade](/npc/15077) your [Redblade's Legacy](/item/18083) to receive [Totem of the Freezing War](/item/20680). [Tenal Redblade](/npc/15077) can be found on the far east side of the zone at the bottom of the gorge below the [Highpass Hold](/zone/5) zoneline.
 
-![tenal-redblade-map.png](/static/guide_images/epics/warrior/tenal-redblade-map.png)
+![tenal-redblade-map.png](/static/guides/images/epic/warrior/tenal-redblade-map.png)
 
 ### Step 6
 [Script Page](/script-entities/eastkarana/Tenal_Redblade)
@@ -163,14 +163,14 @@ First give him: [Green Dragon Scales](/item/11582), [Red Dragon Scales](/item/11
 
 Then give him: [Mark of the Sword](/item/20683) and [Hand of the Maestro](/item/20676) to receive [Tenal's note to Kargek](/item/20684).
 
-![tenal-redblade-map.png](/static/guide_images/epics/warrior/tenal-redblade-map.png)
+![tenal-redblade-map.png](/static/guides/images/epic/warrior/tenal-redblade-map.png)
 
 ### Step 9
 [Script Page](/script-entities/freporte/Kargek_Redblade)
 
 Now go back to [East Freeport](/zone/10) and find [Kargek Redblade](/npc/10117). Give him [Spiroc Wingblade](/item/20679) and [Tenal's note to Kargek](/item/20684) to receive [Red Scabbard](/item/17859).
 
- ![East-Freeport-Map.png](/static/guide_images/epics/warrior/East-Freeport-Map.png)
+ ![East-Freeport-Map.png](/static/guides/images/epic/warrior/East-Freeport-Map.png)
 
 ## Part 2 - [Ancient Sword Blade](/item/20667) (2 options)
 
@@ -179,7 +179,7 @@ Now go back to [East Freeport](/zone/10) and find [Kargek Redblade](/npc/10117).
 
 [Denken Strongpick](/npc/69061) in [Ocean of Tears](/zone/69) is the turn-in NPC for Part 2. You can either do all the steps in Option 2 and give him the items for the [Ancient Sword Blade](/item/20667), or simply kill him and he will drop it (I dont see the Blade in his drop table on Quarm). Approx. 30K HP and is level 55. No faction hits when killed. Respawn time somewhere between 30 and 55 minutes.
 
-![Denken-Strongpick-Map.png](/static/guide_images/epics/warrior/Denken-Strongpick-Map.png)
+![Denken-Strongpick-Map.png](/static/guides/images/epic/warrior/Denken-Strongpick-Map.png)
 
 ### Option 2
 
@@ -222,7 +222,7 @@ Evil Races (Bought - [Mariz Ixtaz](/npc/41069) - [Neriak](/zone/41) | Loc: -163,
 
 Go to [Ocean of Tears](/zone/69) and locate [Denken Strongpick](/npc/69061) (see map below) Give 2x [Rebreathers](/item/16889), [Block of Permafrost](/item/20665), and [Keg of Vox Tail Ale](/item/20664) to him to receive [Ancient Sword Blade](/item/20667).
 
-![Denken-Strongpick-Map.png](/static/guide_images/epics/warrior/Denken-Strongpick-Map.png)
+![Denken-Strongpick-Map.png](/static/guides/images/epic/warrior/Denken-Strongpick-Map.png)
 
 ## Part 3 - [Finely Crafted Dragon Head Hilt](/item/20672)
 
@@ -231,32 +231,32 @@ Collect 4 Items:
 ### Step 13
 [Severely Damaged Dragon Head Hilt](/item/20669) - Ground spawn in [Timorous Deep](/zone/96). You will see it next to the Black King at the chessboard.
 
-![Timorous-Deep-Warrior-1.0.png](/static/guide_images/epics/warrior/Timorous-Deep-Warrior-1.0.png)
-![Timorous-Deep-Chessboard.png](/static/guide_images/epics/warrior/Timorous-Deep-Chessboard.png)
+![Timorous-Deep-Warrior-1.0.png](/static/guides/images/epic/warrior/Timorous-Deep-Warrior-1.0.png)
+![Timorous-Deep-Chessboard.png](/static/guides/images/epic/warrior/Timorous-Deep-Chessboard.png)
 
 ### Step 14
 [Giant Sized Monocle](/item/20678) (tradable) - Drops from [a mountain giant patriarch](/npc/86144) in [Dreadlands](/zone/86). He is a rare spawn with any giant in the zone as a PH. It is best to camp the giant forts in the snow area of the zone. Rare Drop. It is also tradable so check the Bazaar.
 
-![Dreadlands-Map.png](/static/guide_images/epics/warrior/Dreadlands-Map.png)
+![Dreadlands-Map.png](/static/guides/images/epic/warrior/Dreadlands-Map.png)
 
 ### Step 15
 [Script Page](/script-entities/frontiermtns/Mentrax_Mountainbone)
 
 [Rejesiam Ore](/item/20666) - Give your [Giant Sized Monocle](/item/20678) to [Mentrax Mountainbone](/npc/92148) in [Frontier Mountains](/zone/92) to receive [Rejesiam Ore](/item/20666). [Mentrax Mountainbone](/npc/92148) can be found in the back of the cave within the giant fort in the middle of the zone.
 
-![Mentrax-Mountainbone.png](/static/guide_images/epics/warrior/Mentrax-Mountainbone.png)
+![Mentrax-Mountainbone.png](/static/guides/images/epic/warrior/Mentrax-Mountainbone.png)
 
 ### Step 16
 [Ball of Everliving Golem](/item/20677) - Drops from [Dread](/npc/72502), [Fright](/npc/72501), and [Terror](/npc/72504) in [Plane of Fear](/zone/72). [Dread](/npc/72000) and [Fright](/npc/72004) both death touch. [Terror](/npc/72002) does not. Respawn is approx 3 days. Uncommon Drop.
 
-![PoFear-Warrior-Map.png](/static/guide_images/epics/warrior/PoFear-Warrior-Map.png)
+![PoFear-Warrior-Map.png](/static/guides/images/epic/warrior/PoFear-Warrior-Map.png)
 
 ### Step 17
 [Script Page](/script-entities/freporte/Wenden_Blackhammer)
 
 Next, go to [Wenden Blackhammer](/npc/10116) in [East Freeport](/zone/10). and give him [Severely Damaged Dragon Head Hilt](/item/20669),  [Rejesiam Ore](/item/20666), and [Ball of Everliving Golem](/item/20677) to receive [Finely Crafted Dragon Head Hilt](/item/20672).
 
- ![East-Freeport-Map.png](/static/guide_images/epics/warrior/East-Freeport-Map.png)
+ ![East-Freeport-Map.png](/static/guides/images/epic/warrior/East-Freeport-Map.png)
 
 ## Part 4 - [Jeweled Dragon Head Hilt](/item/20671)
 
@@ -265,7 +265,7 @@ Collect 4 items:
 ### Step 18
 [Unjeweled Dragon Head Hilt](/item/20668) - Ground spawn in [Lake Rathetear](/zone/51). You will see a greenish white flame. The Hilt is almost directly below it on the lake floor. Loc: +2512, +924, -198.
 
-![rathetear-map.png](/static/guide_images/epics/warrior/rathetear-map.png)
+![rathetear-map.png](/static/guides/images/epic/warrior/rathetear-map.png)
 
 ### Step 19
 Buy or loot the following items:
@@ -279,12 +279,12 @@ Buy or loot the following items:
 
 Next, go to [Wenden Blackhammer](/npc/10116) in [East Freeport](/zone/10). Give him [Unjeweled Dragon Head Hilt](/item/20668), [Diamond](/item/10037),  [Black Sapphire](/item/10036), and [Jacinth](/item/10053) to to receive [Jeweled Dragon Head Hilt](/item/20671).
 
- ![East-Freeport-Map.png](/static/guide_images/epics/warrior/East-Freeport-Map.png)
+ ![East-Freeport-Map.png](/static/guides/images/epic/warrior/East-Freeport-Map.png)
 
 ## Part 5 - [Ancient Blade](/item/20670)
 Drops from [Queen Velazul Di'Zok](/npc/103055) in [Chardok](/zone/103) - 2 hour respawn. Easy kill for a group of people in PoP era gear. You will need someone to lock pick the door that leads to the Royals area. Guaranteed Drop.
 
-![Queen-Map.png](/static/guide_images/epics/warrior/Queen-Map.png)
+![Queen-Map.png](/static/guides/images/epic/warrior/Queen-Map.png)
 
 ## Part 6 - Final Turn-in: [Jagged Blade of War](/item/10908)
 Combine your quest rewards from section 2-5:
@@ -298,7 +298,7 @@ into your [Red Scabbard](/item/17859) to receive your [Jagged Blade of War](/ite
 
 You can turn the [Jagged Blade of War](/item/10908) into two 1-hand slashing weapons by combining it by itself in the [Red Scabbard](/item/17859). You can get your 2-hander back by combing the two 1-handers together. 
 
-![jagged-blade-of-war-stats.jpg](/static/guide_images/epics/warrior/jagged-blade-of-war-stats.jpg)
-![blade-of-strategy-stats.jpg](/static/guide_images/epics/warrior/blade-of-strategy-stats.jpg)
-![blade-of-tactics-stats.jpg](/static/guide_images/epics/warrior/blade-of-tactics-stats.jpg)
+![jagged-blade-of-war-stats.jpg](/static/guides/images/epic/warrior/jagged-blade-of-war-stats.jpg)
+![blade-of-strategy-stats.jpg](/static/guides/images/epic/warrior/blade-of-strategy-stats.jpg)
+![blade-of-tactics-stats.jpg](/static/guides/images/epic/warrior/blade-of-tactics-stats.jpg)
 

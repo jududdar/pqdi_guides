@@ -54,7 +54,7 @@ There are 4 Options. The first two are good. The last two are slow.
 
 You can get faction by questing with [Lashun Novashine](/npc/2032) in [North Qeynos](/zone/2). He roams around the zone, so a tracker might help speed things up. However, the zone is not very big so you'll run into him eventually. You can either give him 2 Gold or 2 Bone Chips to receive 1 faction. The benefit of using Bone Chips is that you can turn-in an unlimited amount at a time (stacked). With Gold you can only turn in 2 at a time. You can con him to check your faction status with [Priests of Life](/faction/341).
 
-![Lashun-Novashine.jpg](/static/guide_images/epics/paladin/Lashun-Novashine.jpg)
+![Lashun-Novashine.jpg](/static/guides/images/epic/paladin/Lashun-Novashine.jpg)
 
 #### Option B - GOOD OPTION #2
 
@@ -64,13 +64,13 @@ Go to [North Qeynos](/zone/2). Kill a [Koalindl](/npc/2005) (with an alt or a ch
 
 [Koalindl](/npc/2005) Fish is NO TRADE, so you'll still need to loot it on the character you are doing the quest with.
 
-![a-Koalindl-Map.jpg](/static/guide_images/epics/paladin/a-Koalindl-Map.jpg)
-![a-Koalindl-faction-hit.jpg](/static/guide_images/epics/paladin/a-Koalindl-faction-hit.jpg)
+![a-Koalindl-Map.jpg](/static/guides/images/epic/paladin/a-Koalindl-Map.jpg)
+![a-Koalindl-faction-hit.jpg](/static/guides/images/epic/paladin/a-Koalindl-faction-hit.jpg)
 
 Give [Koalindl Fish](/item/13383) to [Enic Ruklin](/npc/2039) nearby in the Temple of Life to receive +100 [Priests of Life](/faction/341) faction. You must be at least AMIABLE to do this turn-in.
 
-![Enic-Ruklin.png](/static/guide_images/epics/paladin/Enic-Ruklin.png)
-![pally-faction-turnin.png](/static/guide_images/epics/paladin/pally-faction-turnin.png)
+![Enic-Ruklin.png](/static/guides/images/epic/paladin/Enic-Ruklin.png)
+![pally-faction-turnin.png](/static/guides/images/epic/paladin/pally-faction-turnin.png)
 
 Option C and D are almost not worth mentioning, but are mostly as an FYI:
 
@@ -86,14 +86,14 @@ There are also various NPC's you can kill to get faction, the most notable one i
 ### Step 2
 Once you have obtained High Kindly with [Priests of Life](/faction/341) faction go to [Castle Mistmoore](/zone/59). You need to kill [Xicotl](/npc/59152) and loot [Glowing Sword Hilt](/item/12197). He spawns in the "Spa" room (-190, +95). His PH is a Mistmoore guard. You do not need to kill a Mistmoore guard. It will automatically respawn every minute or so. Eventually [Xicotl](/npc/59152) will spawn in its place.
 
-![Xicotl-Map.jpg](/static/guide_images/epics/paladin/Xicotl-Map.jpg)
-![a-Mistmoore-guard.jpg](/static/guide_images/epics/paladin/a-Mistmoore-guard.jpg)
-![Xicotl.jpg](/static/guide_images/epics/paladin/Xicotl.jpg)
+![Xicotl-Map.jpg](/static/guides/images/epic/paladin/Xicotl-Map.jpg)
+![a-Mistmoore-guard.jpg](/static/guides/images/epic/paladin/a-Mistmoore-guard.jpg)
+![Xicotl.jpg](/static/guides/images/epic/paladin/Xicotl.jpg)
 
 ### Step 3
 Go to [North Ro](/zone/34) and kill [tarantula](/npc/34060) type mobs until you get [Spider Venom Sac](/item/14018).
 
-![a-dune-turantula.jpg](/static/guide_images/epics/paladin/a-dune-turantula.jpg)
+![a-dune-turantula.jpg](/static/guides/images/epic/paladin/a-dune-turantula.jpg)
 
 ### Step 4
 [Script Page](/script-entities/ecommons/Altunic_Jartin)
@@ -102,9 +102,9 @@ Go to [Eastern Commonlands](/zone/22) and buy [Cloth Shirt](/item/1004) from [Ge
 
 Next, find [Altunic Jartin](/npc/22069) (also in [Eastern Commonlands](/zone/22)) who wanders around the zone.  Sometimes he is along the road, sometimes he is in the grassy area. A tracker can speeds things up a bit. Give [Altunic Jartin](/npc/22069) [Cloth Shirt](/item/1004) to receive [Token of Generosity](/item/13865).
 
-![Commonlands-Map-Paladin-Epic.png](/static/guide_images/epics/paladin/Commonlands-Map-Paladin-Epic.png)
-![Germe-Threadspinner.jpg](/static/guide_images/epics/paladin/Germe-Threadspinner.jpg)
-![Altunic-Jartin.jpg](/static/guide_images/epics/paladin/Altunic-Jartin.jpg)
+![Commonlands-Map-Paladin-Epic.png](/static/guides/images/epic/paladin/Commonlands-Map-Paladin-Epic.png)
+![Germe-Threadspinner.jpg](/static/guides/images/epic/paladin/Germe-Threadspinner.jpg)
+![Altunic-Jartin.jpg](/static/guides/images/epic/paladin/Altunic-Jartin.jpg)
 
 Note: To give the tunic to [Altunic Jartin](/npc/22069) you'll need to be at least Amiable faction with [Knights of Truth](/faction/281). If you are Mithaniel Marr deity you may already be Amiable. If you are a different deity then you may be a bit low. To raise your faction kill Freeport Militia Guards in either Commonlands or Freeport. 
 
@@ -124,15 +124,15 @@ Level 35-40ish Guards generally give +5-10 each.
 
 [Brother Jentry](/npc/9024): +40 - In [Sir Lucan D'Lere](/npc/9018)'s room. Approx. 4 min 50 sec respawn. Level 40.
 
-![Sir-Lucan-DLere-Map.jpg](/static/guide_images/epics/paladin/Sir-Lucan-DLere-Map.jpg)
-![Sir-Lucan-DLere.jpg](/static/guide_images/epics/paladin/Sir-Lucan-DLere.jpg)
+![Sir-Lucan-DLere-Map.jpg](/static/guides/images/epic/paladin/Sir-Lucan-DLere-Map.jpg)
+![Sir-Lucan-DLere.jpg](/static/guides/images/epic/paladin/Sir-Lucan-DLere.jpg)
 
 ### Step 5
 Next you'll need to farm 3 items: [Rat Ears](/item/13072), [Fire Beetle Eye](/item/10307), [Snake Scales](/item/13070). These items will used in 21 trivial trade skill combine, so grab more than 1 if you aren't feeling lucky. You can get these from mobs in either [Eastern Commonlands](/zone/22) or [West Freeport](/zone/9) (Rats, Fire Beetles, and Snakes).
 
-![a-fire-beetle.jpg](/static/guide_images/epics/paladin/a-fire-beetle.jpg)
-![a-large-rat.jpg](/static/guide_images/epics/paladin/a-large-rat.jpg)
-![a-large-rattlesnake.jpg](/static/guide_images/epics/paladin/a-large-rattlesnake.jpg)
+![a-fire-beetle.jpg](/static/guides/images/epic/paladin/a-fire-beetle.jpg)
+![a-large-rat.jpg](/static/guides/images/epic/paladin/a-large-rat.jpg)
+![a-large-rattlesnake.jpg](/static/guides/images/epic/paladin/a-large-rattlesnake.jpg)
 
 ### Step 6
 Get a [Water Flask](/item/13006) and a [Bottle](/item/16598) from a vendor somewhere, they are sold in every town.
@@ -156,10 +156,10 @@ Go to the Halls of Truth in [North Freeport](/zone/8). Find [Merko Quetalis](/np
 
 [Guard Willia](/npc/8110) is level 6. Kill him and loot [Token of Truth](/item/13866). Go back to [Merko Quetalis](/npc/8044) and give him [Token of Truth](/item/13866) to receive [Testimony](/item/18828).
 
-![Merko-Quetalis-Map2.jpg](/static/guide_images/epics/paladin/Merko-Quetalis-Map2.jpg)
-![Merko-Quetalis.jpg](/static/guide_images/epics/paladin/Merko-Quetalis.jpg)
-![Guard-Willia-Map.jpg](/static/guide_images/epics/paladin/Guard-Willia-Map.jpg)
-![Guard-Willia.jpg](/static/guide_images/epics/paladin/Guard-Willia.jpg)
+![Merko-Quetalis-Map2.jpg](/static/guides/images/epic/paladin/Merko-Quetalis-Map2.jpg)
+![Merko-Quetalis.jpg](/static/guides/images/epic/paladin/Merko-Quetalis.jpg)
+![Guard-Willia-Map.jpg](/static/guides/images/epic/paladin/Guard-Willia-Map.jpg)
+![Guard-Willia.jpg](/static/guides/images/epic/paladin/Guard-Willia.jpg)
 
 ### Step 9
 [Script Page](/script-entities/freporte/Tykar_Renlin)
@@ -168,9 +168,9 @@ Go to [East Freeport](/zone/10) and find [Gregor Nasin](/npc/10171). Buy 4x [Dro
 
 Once [Tykar Renlin](/npc/10157) finally does spawn, give him 1x [Drom's Champagne](/item/13829) at a time, after the 4th one he will give you [Bunker Cell #1](/item/12196).
 
-![Gregor-Nasin-Map.jpg](/static/guide_images/epics/paladin/Gregor-Nasin-Map.jpg)
-![Tykar-Renlin.jpg](/static/guide_images/epics/paladin/Tykar-Renlin.jpg)
-![Gregor-Nasin.jpg](/static/guide_images/epics/paladin/Gregor-Nasin.jpg)
+![Gregor-Nasin-Map.jpg](/static/guides/images/epic/paladin/Gregor-Nasin-Map.jpg)
+![Tykar-Renlin.jpg](/static/guides/images/epic/paladin/Tykar-Renlin.jpg)
+![Gregor-Nasin.jpg](/static/guides/images/epic/paladin/Gregor-Nasin.jpg)
 
 ### Step 10
 
@@ -178,43 +178,43 @@ Once [Tykar Renlin](/npc/10157) finally does spawn, give him 1x [Drom's Champagn
 
 Stay in [West Freeport](/zone/9). Find [a prisoner](/npc/9138) in the arena area. Give him [Bog Juice](/item/16581), [Edible Goo](/item/13498) and [Bunker Cell #1](/item/12196) to receive [H.K. 102](/item/12143).
 
-![a-prisoner-map.jpg](/static/guide_images/epics/paladin/a-prisoner-map.jpg)
-![a-prisoner.jpg](/static/guide_images/epics/paladin/a-prisoner.jpg)
+![a-prisoner-map.jpg](/static/guides/images/epic/paladin/a-prisoner-map.jpg)
+![a-prisoner.jpg](/static/guides/images/epic/paladin/a-prisoner.jpg)
 
 ### Step 11
 Still in [East Freeport](/zone/10), you must now kill [Sir Lucan D'Lere](/npc/9018). Doing so will make you instant KOS to Freeport. He is level 46-48 range. Once he dies, an undead version of him will spawn. Kill it too. Loot [Testimony of Truth](/item/18827). 
 
-![Sir-Lucan-DLere-Map.jpg](/static/guide_images/epics/paladin/Sir-Lucan-DLere-Map.jpg)
-![Sir-Lucan-DLere-Skeleton.jpg](/static/guide_images/epics/paladin/Sir-Lucan-DLere-Skeleton.jpg)
-![Sir-Lucan-DLere.jpg](/static/guide_images/epics/paladin/Sir-Lucan-DLere.jpg)
+![Sir-Lucan-DLere-Map.jpg](/static/guides/images/epic/paladin/Sir-Lucan-DLere-Map.jpg)
+![Sir-Lucan-DLere-Skeleton.jpg](/static/guides/images/epic/paladin/Sir-Lucan-DLere-Skeleton.jpg)
+![Sir-Lucan-DLere.jpg](/static/guides/images/epic/paladin/Sir-Lucan-DLere.jpg)
 
 ### Step 12
 [Script Page](/script-entities/freportn/Valeron_Dushire)
 
 Zone over to [North Freeport](/zone/8) and locate [Valeron Dushire](/npc/8077) (+1120, -500) in Hall of Truth. Give him [Testimony of Truth](/item/18827) to receive [Brilliant Sword of Faith](/item/13947).
 
-![Valeron-Dushire-Map.jpg](/static/guide_images/epics/paladin/Valeron-Dushire-Map.jpg)
-![Valeron-Dushire.jpg](/static/guide_images/epics/paladin/Valeron-Dushire.jpg)
+![Valeron-Dushire-Map.jpg](/static/guides/images/epic/paladin/Valeron-Dushire-Map.jpg)
+![Valeron-Dushire.jpg](/static/guides/images/epic/paladin/Valeron-Dushire.jpg)
 
 ### Step 13
 [Script Page](/script-entities/highkeep/Bank_Clerk_Jaylin)
 
 Go to [High Keep](/zone/6) and find [Bank Clerk Jaylin](/npc/6059) (-40, -335) near the bank. Give her [H.K. 102](/item/12143) to receive [Sealed Note](/item/18932). 
 
-![Assistant-Kiolna-Map.jpg](/static/guide_images/epics/paladin/Assistant-Kiolna-Map.jpg)
-![Assistant-Kiolna.jpg](/static/guide_images/epics/paladin/Assistant-Kiolna.jpg)
+![Assistant-Kiolna-Map.jpg](/static/guides/images/epic/paladin/Assistant-Kiolna-Map.jpg)
+![Assistant-Kiolna.jpg](/static/guides/images/epic/paladin/Assistant-Kiolna.jpg)
 
 ### Step 14 - Final Turn-in
 [Script Page](/script-entities/paw/Brother_Hayle)
 
 You're looking for [Brother Hayle](/npc/18071). Depending on the era your server is in he will be in different places:
 
-![Brother-Hayle-Map-Splitpaw.png](/static/guide_images/epics/paladin/Brother-Hayle-Map-Splitpaw.png)
+![Brother-Hayle-Map-Splitpaw.png](/static/guides/images/epic/paladin/Brother-Hayle-Map-Splitpaw.png)
 
 You can find him in [Splitpaw Lair](/zone/18) in a jail cell (+382,+327) . On your way in there are some levers on the walls to open up the cell doors.
 
-![Brother-Hayle-Map.jpg](/static/guide_images/epics/paladin/Brother-Hayle-Map.jpg)
-![Brother-Hayle.jpg](/static/guide_images/epics/paladin/Brother-Hayle.jpg)
+![Brother-Hayle-Map.jpg](/static/guides/images/epic/paladin/Brother-Hayle-Map.jpg)
+![Brother-Hayle.jpg](/static/guides/images/epic/paladin/Brother-Hayle.jpg)
 
 Make sure you are at least Kindly (I was high Kindly) faction with him.
 
@@ -222,7 +222,7 @@ Make sure you are at least Kindly (I was high Kindly) faction with him.
 
 2. Then give him [Glowing Sword Hilt](/item/12197), [Brilliant Sword of Faith](/item/13947), [Testimony](/item/18828), [Note](/item/18937) to receive [SoulFire](/item/5504)!
 3. 
-![SoulFire-Stats.jpg](/static/guide_images/epics/paladin/SoulFire-Stats.jpg)
+![SoulFire-Stats.jpg](/static/guides/images/epic/paladin/SoulFire-Stats.jpg)
 
 ## [Ghoulbane](/item/5403)
 The second sword you'll need to obtain to get your epic is [Ghoulbane](/item/5403). There are 3 options to get one. I highly recommend Option 1
@@ -232,19 +232,19 @@ The second sword you'll need to obtain to get your epic is [Ghoulbane](/item/540
 #### Option 1
 Kill [Joren Nobleheart](/npc/62000) in [South Felwithe](/zone/62). Always drops. This is by far the easiest path but requires a few people to kill him in Kunark era. He is level 60. Other NPC's do not assist. He does not have any faction hits. He melees for just under 200. You can reach him by taking the middle teleport pad.
 
-![Joren-Nobleheart-Map.jpg](/static/guide_images/epics/paladin/Joren-Nobleheart-Map.jpg)
-![Joren-Nobleheart.jpg](/static/guide_images/epics/paladin/Joren-Nobleheart.jpg)
+![Joren-Nobleheart-Map.jpg](/static/guides/images/epic/paladin/Joren-Nobleheart-Map.jpg)
+![Joren-Nobleheart.jpg](/static/guides/images/epic/paladin/Joren-Nobleheart.jpg)
 
 #### Option 2
 Kill the [froglok shin lord](/npc/65128) in [Upper Guk](/zone/65). Rare Drop. This is easily soloable but the [froglok shin lord](/npc/65128)  is a rare spawn and the [Ghoulbane](/item/5403) is a rare drop. He spawns in the most southwestern room of the zone.  It is level 30.
 
-![the-froglok-shin-lord-Map.jpg](/static/guide_images/epics/paladin/the-froglok-shin-lord-Map.jpg)
-![the-froglok-shin-lord.jpg](/static/guide_images/epics/paladin/the-froglok-shin-lord.jpg)
+![the-froglok-shin-lord-Map.jpg](/static/guides/images/epic/paladin/the-froglok-shin-lord-Map.jpg)
+![the-froglok-shin-lord.jpg](/static/guides/images/epic/paladin/the-froglok-shin-lord.jpg)
 
 #### Option 3
 You can also quest for [Ghoulbane](/item/5403). Due to the time this quest can take I will not be going over this option at all. Option 1 and 2 are much faster. The quest is given by [Ryshon Hunsti](/npc/12081) in [West Karana](/zone/12).
 
-![Ghoulbane-Stats.jpg](/static/guide_images/epics/paladin/Ghoulbane-Stats.jpg)
+![Ghoulbane-Stats.jpg](/static/guides/images/epic/paladin/Ghoulbane-Stats.jpg)
 
 ## [Fiery Avenger](/item/11050)
 You must have both [SoulFire](/item/5504) and [Ghoulbane](/item/5403) to complete this quest.
@@ -254,18 +254,18 @@ You will need to get faction (Ally recommended) with [Deepwater Knights](/factio
 
 * Method 1. Kill [Atdehim Sqonci](/npc/75019) in [Paineel](/zone/75). He gives +1000 faction and is on a roughly 5 minute respawn. Kill him a couple times to max your faction! He is level 45, fairly easy kill, and located inside the Cleric Guild. One other level 35 NPC next to him will aggro as well.
 
-![Atdehim-Sqonci-Map.jpg](/static/guide_images/epics/paladin/Atdehim-Sqonci-Map.jpg)
-![Atdehim-Sqonci.jpg](/static/guide_images/epics/paladin/Atdehim-Sqonci.jpg)
-![Atdehim-Sqonci-Faction.png](/static/guide_images/epics/paladin/Atdehim-Sqonci-Faction.png)
+![Atdehim-Sqonci-Map.jpg](/static/guides/images/epic/paladin/Atdehim-Sqonci-Map.jpg)
+![Atdehim-Sqonci.jpg](/static/guides/images/epic/paladin/Atdehim-Sqonci.jpg)
+![Atdehim-Sqonci-Faction.png](/static/guides/images/epic/paladin/Atdehim-Sqonci-Faction.png)
 
 * Method 2. Alternatively, you can kill Skeleton Guards in [Paineel](/zone/75). Each kill gives 10 faction. The two in the noob yard instantly respawn. They are level 10 but hit for 120 and have a few thousand hp. You can also go into [Paineel](/zone/75) and kill guards, whom are weaker, but don't respawn instantly.
 
-![Paineel-Guards.jpg](/static/guide_images/epics/paladin/Paineel-Guards.jpg)
+![Paineel-Guards.jpg](/static/guides/images/epic/paladin/Paineel-Guards.jpg)
 
 * Method 3. Kill Kobolds in [The Warrens](/zone/101). Loot [Kobold Molar](/item/1761). They are very common. They do not stack so you'll need a lot of bag space. Turn them into [Tiam Khonsir](/npc/24053) in [Erudin](/zone/24). You will get 5 or 6 faction  per turn-in. This method is the slowest of the three.
 
-![The-Warrens.png](/static/guide_images/epics/paladin/The-Warrens.png)
-![Tiam-Khonsir.jpg](/static/guide_images/epics/paladin/Tiam-Khonsir.jpg)
+![The-Warrens.png](/static/guides/images/epic/paladin/The-Warrens.png)
+![Tiam-Khonsir.jpg](/static/guides/images/epic/paladin/Tiam-Khonsir.jpg)
 
 ### Step 17
 Loot Torn, [Frost-Covered Book](/item/19070) from any of the following:
@@ -280,33 +280,33 @@ Loot [Torn, Burnt Book](/item/19071) from any of the following:
 * [Lord Nagafen](/npc/32040) in [Nagafen's Lair](/zone/32)
 * [Severilous](/npc/94002) in [Emerald Jungle](/zone/94)
 
-![Talendor.jpg](/static/guide_images/epics/paladin/Talendor.jpg)
-![Gorenaire.jpg](/static/guide_images/epics/paladin/Gorenaire.jpg)
+![Talendor.jpg](/static/guides/images/epic/paladin/Talendor.jpg)
+![Gorenaire.jpg](/static/guides/images/epic/paladin/Gorenaire.jpg)
 
 ### Step 18
 [Script Page](/script-entities/qeynos2/Rineval_Talyas)
 
 Once you have both books, go to [North Qeynos](/zone/2) and find [Rineval Talyas](/npc/2041) (-160, -345). Give her Torn, [Frost-Covered Book](/item/19070), [Torn, Burnt Book](/item/19071), and 1000pp to receive [Book of Scale](/item/18302) (tradable).
 
-![Rineval-Talyas-Map.jpg](/static/guide_images/epics/paladin/Rineval-Talyas-Map.jpg)
-![Rineval-Talyas.jpg](/static/guide_images/epics/paladin/Rineval-Talyas.jpg)
+![Rineval-Talyas-Map.jpg](/static/guides/images/epic/paladin/Rineval-Talyas-Map.jpg)
+![Rineval-Talyas.jpg](/static/guides/images/epic/paladin/Rineval-Talyas.jpg)
 
 ### Step 19
 [Script Page](/script-entities/oot/Oracle_of_K-Arnon)
 
 Go to [Ocean of Tears](/zone/69) and give [Book of Scale](/item/18302) to [Oracle of K'Arnon](/npc/69044) to receive [Miragul's Phylactery](/item/19072).
 
-![Ocean-of-Tears-Map-Rogue-1.0.jpg](/static/guide_images/epics/paladin/Ocean-of-Tears-Map-Rogue-1.0.jpg)
-![Oracle-of-KArnon.jpg](/static/guide_images/epics/paladin/Oracle-of-KArnon.jpg)
+![Ocean-of-Tears-Map-Rogue-1.0.jpg](/static/guides/images/epic/paladin/Ocean-of-Tears-Map-Rogue-1.0.jpg)
+![Oracle-of-KArnon.jpg](/static/guides/images/epic/paladin/Oracle-of-KArnon.jpg)
 
 ### Step 20
 [Script Page](/script-entities/everfrost/Lich_of_Miragul)
 
 Head to [Everfrost](/zone/30). You will need to find an opening in the frozen lake and swim to the underwater tunnels. You are looking for [Lich of Miragul](/npc/30093). He roams around in the caves. He will con as "KOS", however he doesn't attack and you shouldn't need to charm him to do the turn-in. I was able to hand it in with no problems. Give him [Miragul](/npc/30094)'s Phylactery to spawn [Miragul](/npc/30094). Kill [Miragul](/npc/30094) and loot [Miragul's Head](/item/19073) and [Miragul's Robe](https://www.pqdi.cc/item/1254). 
 
-![Everfrost-Map-Paladin-1.0.jpg](/static/guide_images/epics/paladin/Everfrost-Map-Paladin-1.0.jpg)
-![Lich-of-Miragul.jpg](/static/guide_images/epics/paladin/Lich-of-Miragul.jpg)
-![Miragul.jpg](/static/guide_images/epics/paladin/Miragul.jpg)
+![Everfrost-Map-Paladin-1.0.jpg](/static/guides/images/epic/paladin/Everfrost-Map-Paladin-1.0.jpg)
+![Lich-of-Miragul.jpg](/static/guides/images/epic/paladin/Lich-of-Miragul.jpg)
+![Miragul.jpg](/static/guides/images/epic/paladin/Miragul.jpg)
 
 ### Step 21
 
@@ -332,14 +332,14 @@ Head to [Everfrost](/zone/30). You will need to find an opening in the frozen la
     - Next, give [Inte Akera](/npc/71091) [Ghoulbane](/item/5403) to receive [Inte's Second Blessing](/item/18034).
     - Finally, give [Inte Akera](/npc/71091) [Inte's First Blessing](/item/18033), [Inte's Second Blessing](/item/18034), [Miragul](/npc/30094)'s Robe, [Miragul's Head](/item/19073) to receive [Fiery Avenger](/item/11050)!
 
-![Plane-of-Sky-General.jpg](/static/guide_images/epics/paladin/Plane-of-Sky-General.jpg)
-![Dason-Goldblade.jpg](/static/guide_images/epics/paladin/Dason-Goldblade.jpg)
-![Dirkog-Steelhand.jpg](/static/guide_images/epics/paladin/Dirkog-Steelhand.jpg)
-![Inte-Akera.jpg](/static/guide_images/epics/paladin/Inte-Akera.jpg)
+![Plane-of-Sky-General.jpg](/static/guides/images/epic/paladin/Plane-of-Sky-General.jpg)
+![Dason-Goldblade.jpg](/static/guides/images/epic/paladin/Dason-Goldblade.jpg)
+![Dirkog-Steelhand.jpg](/static/guides/images/epic/paladin/Dirkog-Steelhand.jpg)
+![Inte-Akera.jpg](/static/guides/images/epic/paladin/Inte-Akera.jpg)
 
 [Fiery Defender](/item/10099) is the final reward in the Paladin Epic. It requires that you already have [Fiery Avenger](/item/11050).
 
-![Fiery-Avenger-Stats.jpg](/static/guide_images/epics/paladin/Fiery-Avenger-Stats.jpg)
+![Fiery-Avenger-Stats.jpg](/static/guides/images/epic/paladin/Fiery-Avenger-Stats.jpg)
 
 ## [Fiery Defender](/item/10099)
 ### Step 21
@@ -347,21 +347,21 @@ Head to [Everfrost](/zone/30). You will need to find an opening in the frozen la
 
 Head to [Nektulos Forest](/zone/25) with a group. Find [Kirak Vil](/npc/25301), Say "i am a paladin". He will attack. Kill him and loot [Tainted Darksteel Shield](/item/29002).
 
-![Kirak-Vil-Map.jpg](/static/guide_images/epics/paladin/Kirak-Vil-Map.jpg)
-![Kirak-Vil.jpg](/static/guide_images/epics/paladin/Kirak-Vil.jpg)
+![Kirak-Vil-Map.jpg](/static/guides/images/epic/paladin/Kirak-Vil-Map.jpg)
+![Kirak-Vil.jpg](/static/guides/images/epic/paladin/Kirak-Vil.jpg)
 
 ### Step 22
 Go to [The Hole](/zone/39). You will need to kill [Keeper of The Tombs](/npc/39116) and loot [Tainted Darksteel Sword](/item/29000). Supposedly on a 3 day respawn (not confirmed). Take a group or two in Kunark era. Level 55.
 
-![Graveyard-Map.png](/static/guide_images/epics/paladin/Graveyard-Map.png)
-![Keeper-of-the-Tombs.jpg](/static/guide_images/epics/paladin/Keeper-of-the-Tombs.jpg)
-![Keeper-of-the-Tombs-Map.jpg](/static/guide_images/epics/paladin/Keeper-of-the-Tombs-Map.jpg)
+![Graveyard-Map.png](/static/guides/images/epic/paladin/Graveyard-Map.png)
+![Keeper-of-the-Tombs.jpg](/static/guides/images/epic/paladin/Keeper-of-the-Tombs.jpg)
+![Keeper-of-the-Tombs-Map.jpg](/static/guides/images/epic/paladin/Keeper-of-the-Tombs-Map.jpg)
 
 ### Step 23
 Go to [Plane of Hate](/zone/76). Kill [thought destroyer](/npc/76387) (-210, -590) and loot [Tainted Darksteel Breastplate](/item/29001). Respawn timer unconfirmed. Level 55. No PH. A couple of groups might be needed during Kunark?
 
-![thought-destroyer-map-1.jpg](/static/guide_images/epics/paladin/thought-destroyer-map-1.jpg)
-![thought-destroyer-1.jpg](/static/guide_images/epics/paladin/thought-destroyer-1.jpg)
+![thought-destroyer-map-1.jpg](/static/guides/images/epic/paladin/thought-destroyer-map-1.jpg)
+![thought-destroyer-1.jpg](/static/guides/images/epic/paladin/thought-destroyer-1.jpg)
 
 ### Step 24
 [Script Page](/script-entities/kaladimb/Jark)
@@ -376,17 +376,17 @@ Go to [Plane of Hate](/zone/76). Kill [thought destroyer](/npc/76387) (-210, -59
 
 3. Go back to [Jark](/npc/67056) and give him [Cold Plate of Beef and Bread](/item/29007) to receive [Pure Crystal](/item/29006).
 
-![Jark-Map.jpg](/static/guide_images/epics/paladin/Jark-Map.jpg)
-![Jark.jpg](/static/guide_images/epics/paladin/Jark.jpg)
-![Nella-Stonebraids.jpg](/static/guide_images/epics/paladin/Nella-Stonebraids.jpg)
+![Jark-Map.jpg](/static/guides/images/epic/paladin/Jark-Map.jpg)
+![Jark.jpg](/static/guides/images/epic/paladin/Jark.jpg)
+![Nella-Stonebraids.jpg](/static/guides/images/epic/paladin/Nella-Stonebraids.jpg)
 
 ### Step 25
 [Script Page](/script-entities/felwithea/Elia_the_Pure)
 
 Go to [Northern Felwithe](/zone/61). Give [Elia the Pure](/npc/61013) the [Tainted Darksteel Shield](/item/29002) to receive [Gleaming Crested Shield](/item/29005).
 
-![Elia-the-Pure-Map.jpg](/static/guide_images/epics/paladin/Elia-the-Pure-Map.jpg)
-![Elia-the-Pure.jpg](/static/guide_images/epics/paladin/Elia-the-Pure.jpg)
+![Elia-the-Pure-Map.jpg](/static/guides/images/epic/paladin/Elia-the-Pure-Map.jpg)
+![Elia-the-Pure.jpg](/static/guides/images/epic/paladin/Elia-the-Pure.jpg)
 
 ### Step 26
 
@@ -394,9 +394,9 @@ Go to [Northern Felwithe](/zone/61). Give [Elia the Pure](/npc/61013) the [Taint
 
 Go to [West Freeport](/zone/9) and find [peasant woman](/npc/9122) (140, -550). Say "I will take it to him" to receive [Bucket of Water](/item/29008). Give the [Bucket of Water](/item/29008) to [Joshua](/npc/9121) (also in [East Freeport](/zone/10) (30, -470)) to receive [Bucket of Pure Water](/item/29009).
 
-![peasent-woman-map.jpg](/static/guide_images/epics/paladin/peasent-woman-map.jpg)
-![peasent-woman.jpg](/static/guide_images/epics/paladin/peasent-woman.jpg)
-![Joshua.jpg](/static/guide_images/epics/paladin/Joshua.jpg)
+![peasent-woman-map.jpg](/static/guides/images/epic/paladin/peasent-woman-map.jpg)
+![peasent-woman.jpg](/static/guides/images/epic/paladin/peasent-woman.jpg)
+![Joshua.jpg](/static/guides/images/epic/paladin/Joshua.jpg)
 
 ### Step 27
 
@@ -410,8 +410,8 @@ Go to [Erudin](/zone/24) and locate [Reklon Gnallen](/npc/24044).
 
 - Lastly, give [Reklon Gnallen](/npc/24044) [Gleaming Crested Shield](/item/29005), [Gleaming Crested Sword](/item/29003), [Gleaming Crested Breastplate](/item/29004) to receive [Mark of Atonement](/item/29010).
 
-![Reklon-Gnallen-Map.jpg](/static/guide_images/epics/paladin/Reklon-Gnallen-Map.jpg)
-![Reklon-Gnallen.jpg](/static/guide_images/epics/paladin/Reklon-Gnallen.jpg)
+![Reklon-Gnallen-Map.jpg](/static/guides/images/epic/paladin/Reklon-Gnallen-Map.jpg)
+![Reklon-Gnallen.jpg](/static/guides/images/epic/paladin/Reklon-Gnallen.jpg)
 
 ### Step 28
 Go to [Plane of Fear](/zone/72). Bring your [Fiery Avenger](/item/11050) and [Mark of Atonement](/item/29010).
@@ -420,7 +420,7 @@ Go to [Plane of Fear](/zone/72). Bring your [Fiery Avenger](/item/11050) and [Ma
 
 Give them both to [Irak Altil](/npc/72078) to receive your [Fiery Defender](/item/10099)!
 
-![Irak-Altil-Map.jpg](/static/guide_images/epics/paladin/Irak-Altil-Map.jpg)
-![Irak-Altil.jpg](/static/guide_images/epics/paladin/Irak-Altil.jpg)
+![Irak-Altil-Map.jpg](/static/guides/images/epic/paladin/Irak-Altil-Map.jpg)
+![Irak-Altil.jpg](/static/guides/images/epic/paladin/Irak-Altil.jpg)
 
-![Fiery-Defender-Stats.jpg](/static/guide_images/epics/paladin/Fiery-Defender-Stats.jpg)
+![Fiery-Defender-Stats.jpg](/static/guides/images/epic/paladin/Fiery-Defender-Stats.jpg)

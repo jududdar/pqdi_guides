@@ -1,4 +1,4 @@
-# Magician Epic - Orb of Mastery
+# Magician Epic - [Orb of Mastery](/item/28034)
 
 - [ ] [Magician Epic - Orb of Mastery](#magician-epic-orb-of-mastery)
     - [ ] [Pre-Farmable Items](#pre-farmable-items)
@@ -126,23 +126,23 @@ Looted from [Captain Rottgrim](/npc/93085) in [The Overthere](/zone/93)
 
 * [Power of Wind](/item/28037) - Drops from a [a gypsy dancer](/npc/59015) in [Castle Mistmoore](/zone/59). It spawns inside the castle ballroom within the blue circle. Drop seems to be common to uncommon.
 
-![Mage-1.0-Castle-Mistmoore-Map-1.jpg](/static/guide_images/epics/magician/Mage-1.0-Castle-Mistmoore-Map-1.jpg)
+![Mage-1.0-Castle-Mistmoore-Map-1.jpg](/static/guides/images/epic/magician/Mage-1.0-Castle-Mistmoore-Map-1.jpg)
 
 * [Power of Fire](/item/28036) - Drops from [blazing](/npc/31006) or [lava elemental](/npc/31143) in [Solusek's Eye (Sol A)](/zone/31). The left blue circle is the best place to farm the [Power of Fire](/item/28036). At this spot two [elementals](/npc/39074) spawn in a small tunnel and both have a chance at the drop. The right blue circle has a roaming gnome as a PH for an elemental, who then has a chance to drop it. It is uncommon to rare at either camp. Expect to spend some time here in most cases.
 
-![Mage-1.0-Epic-SolA-Map.jpg](/static/guide_images/epics/magician/Mage-1.0-Epic-SolA-Map.jpg)
+![Mage-1.0-Epic-SolA-Map.jpg](/static/guides/images/epic/magician/Mage-1.0-Epic-SolA-Map.jpg)
 
 * [Power of Earth](/item/28038) - Drops from a [fairy guard or faerie guard](/npc/57123) in [Lesser Faydark](/zone/57). Drop is uncommon.
 
-![Mage-1.0-Lfay-Map.jpg](/static/guide_images/epics/magician/Mage-1.0-Lfay-Map.jpg)
+![Mage-1.0-Lfay-Map.jpg](/static/guides/images/epic/magician/Mage-1.0-Lfay-Map.jpg)
 
 * [Power of Water](/item/28039) - Drops from mobs with [ravener in their names](/npc/88004) in [Kaesora](/zone/88). These spawn on the far east side of the zone.
 
-![Mage-1.0-Kaesora.jpg](/static/guide_images/epics/magician/Mage-1.0-Kaesora.jpg)
+![Mage-1.0-Kaesora.jpg](/static/guides/images/epic/magician/Mage-1.0-Kaesora.jpg)
 
 Give [Power of Wind](/item/28037), [Power of Fire](/item/28036), [Power of Earth](/item/28038), and [Power of Water](/item/28039) to [Walnan](/npc/68087) in [Butcherblock](/zone/68) to receive [Power of the Elements](/item/28031). [Walnan](/npc/68087) roams in the NW area of the map.
 
-![Butcherblock-Map-Walnan.png](/static/guide_images/epics/magician/Butcherblock-Map-Walnan.png)
+![Butcherblock-Map-Walnan.png](/static/guides/images/epic/magician/Butcherblock-Map-Walnan.png)
 
 ### Quest: [Words of Mastery](/item/28004)
 
@@ -157,7 +157,7 @@ All 4 of these pages drop from a [magician](/npc/44089) or a goblin [magician](/
 
 Give the 4 Torn Pages to [Akksstaff](/npc/44063) in [Najena](/zone/53) to receive [Words of Mastery](/item/28004).
 
-![Najena-Map.jpg](/static/guide_images/epics/magician/Najena-Map.jpg)
+![Najena-Map.jpg](/static/guides/images/epic/magician/Najena-Map.jpg)
 
 ### Quest: [Words of Magi'Kot](/item/28003)
 
@@ -167,31 +167,31 @@ Give the 4 Torn Pages to [Akksstaff](/npc/44063) in [Najena](/zone/53) to receiv
 
 * [Torn Page of Magi'kot pg. 3](/item/28002) - Drops from a [a bloodthirsty ghoul](/npc/66147) in [Lower Guk](/zone/66). [a bloodthirsty ghoul](/npc/66147) spawns at the [frenzied ghoul](/npc/66146) camp on the undead side of the zone. Common Drop.
 
-![Lower-Guk-a-frenzied-ghoul.jpg](/static/guide_images/epics/magician/Lower-Guk-a-frenzied-ghoul.jpg)
+![Lower-Guk-a-frenzied-ghoul.jpg](/static/guides/images/epic/magician/Lower-Guk-a-frenzied-ghoul.jpg)
 
 Take the 3 Pages of Magi'Kot to [Jahsohn Aksot](/npc/21043) in [West Commonlands](/zone/21) to receive [Words of Magi'Kot](/item/28003).
 
-![Commonlands-Map-Jahsohn-Aksot.jpg](/static/guide_images/epics/magician/Commonlands-Map-Jahsohn-Aksot.jpg)
+![Commonlands-Map-Jahsohn-Aksot.jpg](/static/guides/images/epic/magician/Commonlands-Map-Jahsohn-Aksot.jpg)
 
 ### Quest: [Power of the Orb](/item/18958)
 
 Give the quest rewards from Part 1-3 ( [Power of the Elements](/item/28031), [Words of Mastery](/item/28004), [Words of Magi'Kot](/item/28003)) to [Rykas](/npc/51045) in [Lake Rathetear](/zone/51) to receive [Power of the Orb](/item/18958).
 
-![Lake-Rathetear-Map-Rykas.jpg](/static/guide_images/epics/magician/Lake-Rathetear-Map-Rykas.jpg)
+![Lake-Rathetear-Map-Rykas.jpg](/static/guides/images/epic/magician/Lake-Rathetear-Map-Rykas.jpg)
 
 ### Quest: [Element of Fire](/item/28009)
 
 * [Burning Embers](/item/28008) - Drops from [Nezekezena](/npc/87007), [Phurzikon](/npc/87013), or [Gylton](/npc/87070) in [Burning Woods](/zone/87). I would ignore trying to spawn [Gylton](/npc/87070) and go after the other two. Both [Nezekezena](/npc/87007) and [Phurzikon](/npc/87013) can spawn at either +2800, + 1030 or -270, -2550 (see map). You will want to kill trash in the zone until a mob spawns at either of these locations (good to have someone standing at these locs to watch). If you have multiple people or boxes, you can actually camp both spawns at once. The respawn timer is somewhere between 1-2 minutes. Once you have the correct PH's, you can kill them to chain spawn the named wurms. [Burning Embers](/item/28008) is an uncommon to rare drop.
 
-![Burning-Woods-Map-Burning-Embers.jpg](/static/guide_images/epics/magician/Burning-Woods-Map-Burning-Embers.jpg)
+![Burning-Woods-Map-Burning-Embers.jpg](/static/guides/images/epic/magician/Burning-Woods-Map-Burning-Embers.jpg)
 
 * [Blazing Wand](/item/10376) - Drops from [Undertow](/npc/64087) in [Kedge Keep](/zone/64). He is a rare spawn with a PH He spawns at the very top of an alcove at the most northern point in the zone. He can also be spawned in an instance.
 
-![Kedge-Keep-Undertoe.jpg](/static/guide_images/epics/magician/Kedge-Keep-Undertoe.jpg)
+![Kedge-Keep-Undertoe.jpg](/static/guides/images/epic/magician/Kedge-Keep-Undertoe.jpg)
 
 * [Torch of the Elements](/item/28007) - Drops from [Neh'Ashirr](/npc/90012) in [City of Mist](/zone/90). [Neh'Ashiir](/npc/90011) is located at the last building area up on the floating platforms (near [Wraith of Jaxion](/npc/90004)). It's easiest to have a pick lock class with you to get you up there quickly. Supposedly an uncommon drop, although I got it on the first kill both times I did the epic. Respawn time is somewhere between 30 and 90 minutes.
 
-![City-of-Mist-Map-Mage-1.0.png](/static/guide_images/epics/magician/City-of-Mist-Map-Mage-1.0.png)
+![City-of-Mist-Map-Mage-1.0.png](/static/guides/images/epic/magician/City-of-Mist-Map-Mage-1.0.png)
 
 ### Quest: [Power of the Orb](/item/18958)
 [Script Page](/script-entities/skyfire/Jennus_Lyklobar)
@@ -206,7 +206,7 @@ Give the [Burning Embers](/item/28008), [Blazing Wand](/item/10376), [Torch of t
 
 * [Pegasus Feather Cloak](/item/2463) - Drops from [Quillmane](/npc/14139) in [South Karana](/zone/14). [Quillmane](https://www.pqdi.cc/npc/14139) is a rare spawn, and the cloak is a rare drop. This could potentially be your longest camp during the whole epic quest. See map for the area where he spawns most commonly, and where my two kill spots were. A tracker is basically required.
 
-![South-Karana-Quillmane.jpg](/static/guide_images/epics/magician/South-Karana-Quillmane.jpg)
+![South-Karana-Quillmane.jpg](/static/guides/images/epic/magician/South-Karana-Quillmane.jpg)
 
 * [Elemental Binder (tradable)](/item/28043) - Drops from [elemental](/npc/39074) type mobs in Ruins of Old Paineel ([The Hole](/zone/39)). Common drop. You can also buy this item from other players.
 
@@ -219,7 +219,7 @@ Give Crown of Elemental Mastery, [Pegasus Feather Cloak](/item/2463), and Elemen
 * [Staff of Elemental Mastery: Earth](/item/11567) - Drops from [Innoruuk](/npc/76326) or [Magi P'Tasa](/npc/76326) in [Plane of Hate](/zone/76). Uncommon to rare drop.
 * [Dirt of Underfoot](/item/28042) - Drops from [Slixin Klex](/npc/87047) in [Burning Woods](/zone/87). He is on a 16 minute respawn. There is no PH. He will occassionally drop [Dirt of Underfoot](/item/28042).
 
-![Burning-Woods-Dirt-of-Underfoot.png](/static/guide_images/epics/magician/Burning-Woods-Dirt-of-Underfoot.png)
+![Burning-Woods-Dirt-of-Underfoot.png](/static/guides/images/epic/magician/Burning-Woods-Dirt-of-Underfoot.png)
 
 [Script Page](/script-entities/soltemple/Vira)
 
@@ -232,7 +232,7 @@ Give Crown of Elemental Mastery, [Pegasus Feather Cloak](/item/2463), and Elemen
         - [Ruby](/item/10035) - Bought off various Jewelcrafting vendors [Audri Deepfacet](/npc/202069), Northern Trader Building, [PoK](/zone/202) | Loc: +400, +760)
         - [Shovel](/item/16545) - Dropped off [Magicians](/npc/44089) in [Najena](/zone/44). Rare drop.
 
- ![Temple-of-Sol-Ro-Map-Vira 1.jpg](/static/guide_images/epics/magician/Temple-of-Sol-Ro-Map-Vira 1.jpg)
+ ![Temple-of-Sol-Ro-Map-Vira 1.jpg](/static/guides/images/epic/magician/Temple-of-Sol-Ro-Map-Vira 1.jpg)
 
 [Script Page](/script-entities/soltemple/Vira)
 
@@ -245,31 +245,31 @@ Give Crown of Elemental Mastery, [Pegasus Feather Cloak](/item/2463), and Elemen
         - [Star Ruby](/item/10032) - Bought off various Jewelcrafting vendors ([Audri Deepfacet](/npc/202069), Northern Trader Building, [PoK](/zone/202) | Loc: +400, +760)
         - [Broom](/item/16544) - Dropped off [Magicians](/npc/44089) mobs in [Najena](/zone/44). Rare drop.
 
- ![Temple-of-Sol-Ro-Map-Vira.jpg](/static/guide_images/epics/magician/Temple-of-Sol-Ro-Map-Vira.jpg)
+ ![Temple-of-Sol-Ro-Map-Vira.jpg](/static/guides/images/epic/magician/Temple-of-Sol-Ro-Map-Vira.jpg)
 
 [Script Page](/script-entities/firiona/Tiblner_Milnik)
 
 Give [Staff of Elemental Mastery: Earth](/item/11567), [Dirt of Underfoot](/item/28042), [Shovel of Ponz](/item/6361), and [Broom of Trilon](/item/6360) to [Tiblner Milnik](/npc/84160) in [Firiona Vie](/zone/84) to receive [Element of Earth](/item/28032). [Tiblner Milnik](/npc/84160) roams on the south side of the zone.
 
-![FV-Map-Tiblner-Milnik.jpg](/static/guide_images/epics/magician/FV-Map-Tiblner-Milnik.jpg)
+![FV-Map-Tiblner-Milnik.jpg](/static/guides/images/epic/magician/FV-Map-Tiblner-Milnik.jpg)
 
 ## Quest: [Element of Water](/item/28006)
 
 * [Rain of Karana](/item/28041) - Drops from [Tarbul Earthstrider](/npc/15171) in [East Karana](/zone/15). He spawns on "spider hill". PH is a rogue lion. Having a tracker helps, but isn't required. Respawn timer is approx. 30 seconds. Either common drop or always drops.
 
-![East-Karana-Mage-1.0.jpg](/static/guide_images/epics/magician/East-Karana-Mage-1.0.jpg)
+![East-Karana-Mage-1.0.jpg](/static/guides/images/epic/magician/East-Karana-Mage-1.0.jpg)
 
 * [Staff of Elemental Mastery: Water](/item/11569) - Drops from [Phinigel Autropos](/npc/64001) in [Kedge Keep](/zone/64).  12 hour respawn. Uncommon Drop. Also spawnable in an instance.
 
 * [Tears of Erollisi](/item/28040) - Drops from [Captain Rottgrim](/npc/93085) in [The Overthere](/zone/93). He spawns in the evil town. Has several guards that will assist. Always drops. I was able to disc him down solo as a warrior, then ran the adds off. Recommended to have a couple people or some form of CC if you are not geared.
 
-![Overthere-Captain-Rottgrime.jpg](/static/guide_images/epics/magician/Overthere-Captain-Rottgrime.jpg)
+![Overthere-Captain-Rottgrime.jpg](/static/guides/images/epic/magician/Overthere-Captain-Rottgrime.jpg)
 
 [Script Page](/script-entities/cauldron/Jinalis_Andir)
 
 Give [Rain of Karana](/item/28041), [Staff of Elemental Mastery: Water](/item/11569), and [Tears of Erollisi](/item/28040) to [Jinalis Andir](/npc/70028) in [Dagnor's Cauldron](/zone/70) to receive [Element of Water](/item/28006).
 
-![Dagnors-Cauldron-Map-Jinalis-Andir.jpg](/static/guide_images/epics/magician/Dagnors-Cauldron-Map-Jinalis-Andir.jpg)
+![Dagnors-Cauldron-Map-Jinalis-Andir.jpg](/static/guides/images/epic/magician/Dagnors-Cauldron-Map-Jinalis-Andir.jpg)
 
 ## Final Turn-in - [Orb of Mastery](/item/28034) ([Spell: Summon Orb](/item/19436))
 [Script Page](/script-entities/airplane/Kihun_Solstin)
@@ -281,4 +281,4 @@ This is a spell that will summon [Orb of Mastery](/item/28034).
 
 [Master of Elements](/npc/71040) is a giant air elemental that spawns on Quest Island. If he is not up, you can say "I want to see the master" to [Kihun Solstin](/npc/71055) to spawn him.
 
-![Mage-1.0-Item.jpg](/static/guide_images/epics/magician/Mage-1.0-Item.jpg)
+![Mage-1.0-Item.jpg](/static/guides/images/epic/magician/Mage-1.0-Item.jpg)

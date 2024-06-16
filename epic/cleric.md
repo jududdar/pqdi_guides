@@ -44,9 +44,9 @@ Kill random mobs in [Skyfire Mountains](/zone/91) and loot 4 x [Pearlescent Frag
 ### Step 1
 Go to [Lake Rathetear](/zone/51) and camp [Lord Bergurgle](/npc/51143). He spawns at the top of the tower in an underwater tunnel (2777.0, 159.0). His PH is the middle of the three goblins. Loot [Lord Bergurgle's Crown](/item/28044).
 
-![Lake-Rathetear-Map-Cleric-1.0.jpg](/static/guide_images/epics/cleric/Lake-Rathetear-Map-Cleric-1.0.jpg)
-![Lake-Rathetear-Cleric-1.0-1.jpg](/static/guide_images/epics/cleric/Lake-Rathetear-Cleric-1.0-1.jpg)
-![Lord-Bergurgle.jpg](/static/guide_images/epics/cleric/Lord-Bergurgle.jpg)
+![Lake-Rathetear-Map-Cleric-1.0.jpg](/static/guides/images/epic/cleric/Lake-Rathetear-Map-Cleric-1.0.jpg)
+![Lake-Rathetear-Cleric-1.0-1.jpg](/static/guides/images/epic/cleric/Lake-Rathetear-Cleric-1.0-1.jpg)
+![Lord-Bergurgle.jpg](/static/guides/images/epic/cleric/Lord-Bergurgle.jpg)
 
 ### Step 2
 [Script Page](/script-entities/lakerathe/Shmendrik_Lavawalker)
@@ -55,18 +55,18 @@ Head to [Shmendrik Lavawalker](/npc/51012) in [Lake Rathetear](/zone/51). He is 
 
 Respawn on [Shmendrik Lavawalker](/npc/51012) is 3 hours.
 
-![shmendrik-lavawalker-Map-Lake-Rathetear.jpg](/static/guide_images/epics/cleric/shmendrik-lavawalker-Map-Lake-Rathetear.jpg)
-![Shmendrik-Lavawalker.jpg](/static/guide_images/epics/cleric/Shmendrik-Lavawalker.jpg)
-![Natasha-Whitewalker.jpg](/static/guide_images/epics/cleric/Natasha-Whitewalker.jpg)
-![a-spirit-of-flame.jpg](/static/guide_images/epics/cleric/a-spirit-of-flame.jpg)
+![shmendrik-lavawalker-Map-Lake-Rathetear.jpg](/static/guides/images/epic/cleric/shmendrik-lavawalker-Map-Lake-Rathetear.jpg)
+![Shmendrik-Lavawalker.jpg](/static/guides/images/epic/cleric/Shmendrik-Lavawalker.jpg)
+![Natasha-Whitewalker.jpg](/static/guides/images/epic/cleric/Natasha-Whitewalker.jpg)
+![a-spirit-of-flame.jpg](/static/guides/images/epic/cleric/a-spirit-of-flame.jpg)
 
 ### Step 3
 [Script Page](/script-entities/timorous/Omat_Vastsea)
 
 Go to [Timorous Deep](/zone/96) and find [Omat Vastsea](/npc/96033) (-11564.0, -2234.0). He is located on the south side of the zone at "Oasis Island". Give him [Ornate Sea Shell](/item/28047) to receive [Coral Statue of Tarew](/item/28051).
 
-![timorous-deep-map-cleric-1.0.jpg](/static/guide_images/epics/cleric/timorous-deep-map-cleric-1.0.jpg)
-![Omat-Vastsea.jpg](/static/guide_images/epics/cleric/Omat-Vastsea.jpg)
+![timorous-deep-map-cleric-1.0.jpg](/static/guides/images/epic/cleric/timorous-deep-map-cleric-1.0.jpg)
+![Omat-Vastsea.jpg](/static/guides/images/epic/cleric/Omat-Vastsea.jpg)
 
 ### Step 4
 [Script Page](/script-entities/soltemple/80002)
@@ -75,16 +75,16 @@ Head to [Temple of Solusek Ro](/zone/80) and find [a seeker](/npc/80002). There 
 
 Give [a seeker](/npc/80002) the [Coral Statue of Tarew](/item/28051) to spawn [a plasmatic priest](/npc/80042). It's best to either kill [a plasmatic priest](/npc/80042) quickly in his room or in the hallway just outside his room. He casts Reckoning (Single target DD) and Complete Heal. The fight is trivial with a small group of 60's. The mob is level 55. Loot [Blood Soaked Plasmatic Priest Robe](/zone/1299).
 
-![a-seeker-map-Temple-of-Ro.jpg](/static/guide_images/epics/cleric/a-seeker-map-Temple-of-Ro.jpg)
-![a-seeker.jpg](/static/guide_images/epics/cleric/a-seeker.jpg)
-![a-plasmatic-priest.jpg](/static/guide_images/epics/cleric/a-plasmatic-priest.jpg)
+![a-seeker-map-Temple-of-Ro.jpg](/static/guides/images/epic/cleric/a-seeker-map-Temple-of-Ro.jpg)
+![a-seeker.jpg](/static/guides/images/epic/cleric/a-seeker.jpg)
+![a-plasmatic-priest.jpg](/static/guides/images/epic/cleric/a-plasmatic-priest.jpg)
 
 ### Step 5
 Go to [Solusek's Eye](/zone/31) (SolA). You will need to kill [Lord Gimblox](/npc/31126) (-795.0, -362.0).. He is in a small room in the goblin area. He has a single PH spot. 8 min respawn. 5% spawn chance. Loot [Lord Gimblox's Signet Ring](/item/28018). 
 
-![SolA-Map-Cleric-1.0.jpg](/static/guide_images/epics/cleric/SolA-Map-Cleric-1.0.jpg)
-![SolA-Lord-Gimblox-Cleric-1.0.jpg](/static/guide_images/epics/cleric/SolA-Lord-Gimblox-Cleric-1.0.jpg)
-![Lord-Gimblox.jpg](/static/guide_images/epics/cleric/Lord-Gimblox.jpg)
+![SolA-Map-Cleric-1.0.jpg](/static/guides/images/epic/cleric/SolA-Map-Cleric-1.0.jpg)
+![SolA-Lord-Gimblox-Cleric-1.0.jpg](/static/guides/images/epic/cleric/SolA-Lord-Gimblox-Cleric-1.0.jpg)
+![Lord-Gimblox.jpg](/static/guides/images/epic/cleric/Lord-Gimblox.jpg)
 
 ### Step 6
 [Script Page](/script-entities/timorous/Omat_Vastsea)
@@ -93,9 +93,9 @@ Go to [Timorous Deep](/zone/96) and find [Omat Vastsea](/npc/96033) (-11564.0, -
 
 [Natasha Whitewater](/npc/96080) is in the nearby hut. Give [Natasha Whitewater](/npc/51138) [Lord Gimblox's Signet Ring](/item/28018) to receive *a different*  [Ornate Sea Shell](/item/28056) ([Script Page](/script-entities/timorous/Natasha_Whitewater) for this step).
 
-![timorous-deep-map-cleric-1.0.jpg](/static/guide_images/epics/cleric/timorous-deep-map-cleric-1.0.jpg)
-![Omat-Vastsea.jpg](/static/guide_images/epics/cleric/Omat-Vastsea.jpg)
-![Natasha-Whitewalker-TD.jpg](/static/guide_images/epics/cleric/Natasha-Whitewalker-TD.jpg)
+![timorous-deep-map-cleric-1.0.jpg](/static/guides/images/epic/cleric/timorous-deep-map-cleric-1.0.jpg)
+![Omat-Vastsea.jpg](/static/guides/images/epic/cleric/Omat-Vastsea.jpg)
+![Natasha-Whitewalker-TD.jpg](/static/guides/images/epic/cleric/Natasha-Whitewalker-TD.jpg)
 
 ## [Orb of Clear Water](/item/28048)
 
@@ -104,15 +104,15 @@ Go to [Timorous Deep](/zone/96) and find [Omat Vastsea](/npc/96033) (-11564.0, -
 
 Go to [The Burning Wood](/zone/87) and find [Naxot Deepwater](/npc/87002) at (3389.0, -2122.0). Give her [Ornate Sea Shell](/item/28056) to receive [Message to Natasha](/item/28052). This turn-in also spawns a giant fire elemental [Ixiblat Fer](/npc/87014) at (-2000.0, 1500.0). Kill [Ixiblat Fer](/npc/87014) and loot [Sceptre of Ixiblat Fer](/item/28017). This is a mini boss. It's best to bring some friends.
 
-![Naxot-Deepwater-Map-BW.jpg](/static/guide_images/epics/cleric/Naxot-Deepwater-Map-BW.jpg)
-![Naxot-Deepwater.jpg](/static/guide_images/epics/cleric/Naxot-Deepwater.jpg)
-![Cleric-1.0-Ixiblat-Fer-Map.jpg](/static/guide_images/epics/cleric/Cleric-1.0-Ixiblat-Fer-Map.jpg)
-![Ixiblat-Fer2.jpg](/static/guide_images/epics/cleric/Ixiblat-Fer2.jpg)
+![Naxot-Deepwater-Map-BW.jpg](/static/guides/images/epic/cleric/Naxot-Deepwater-Map-BW.jpg)
+![Naxot-Deepwater.jpg](/static/guides/images/epic/cleric/Naxot-Deepwater.jpg)
+![Cleric-1.0-Ixiblat-Fer-Map.jpg](/static/guides/images/epic/cleric/Cleric-1.0-Ixiblat-Fer-Map.jpg)
+![Ixiblat-Fer2.jpg](/static/guides/images/epic/cleric/Ixiblat-Fer2.jpg)
 
 ### Step 8
 Kill [Overking Bathezid](/npc/103056) in [Chardok](/zone/103) and loot [A Singed Scroll](/item/18170). Bring some friends. 2 hour respawn. Always drops.
 
-![Overking-Bathezid.jpg](/static/guide_images/epics/cleric/Overking-Bathezid.jpg)
+![Overking-Bathezid.jpg](/static/guides/images/epic/cleric/Overking-Bathezid.jpg)
 
 ### Step 9
 [Script Page](/script-entities/timorous/Omat_Vastsea)
@@ -121,9 +121,9 @@ Go back to [Timorous Deep](/zone/96) and give [Omat Vastsea](/npc/96033) (-11564
 
 This turn-in also spawns [Natasha Whitewater](/npc/96080) nearby in the hut. Give [Natasha Whitewater](/npc/51138) [Message to Natasha](/item/28052) to receive [Shimmering Pearl](/item/28054) ([Script Page](/script-entities/timorous/Natasha_Whitewater) for this part).
 
-![timorous-deep-map-cleric-1.0.jpg](/static/guide_images/epics/cleric/timorous-deep-map-cleric-1.0.jpg)
-![Omat-Vastsea.jpg](/static/guide_images/epics/cleric/Omat-Vastsea.jpg)
-![Natasha-Whitewalker-TD.jpg](/static/guide_images/epics/cleric/Natasha-Whitewalker-TD.jpg)
+![timorous-deep-map-cleric-1.0.jpg](/static/guides/images/epic/cleric/timorous-deep-map-cleric-1.0.jpg)
+![Omat-Vastsea.jpg](/static/guides/images/epic/cleric/Omat-Vastsea.jpg)
+![Natasha-Whitewalker-TD.jpg](/static/guides/images/epic/cleric/Natasha-Whitewalker-TD.jpg)
 
 ## [Orb of Vapor](/item/28050)
 
@@ -132,8 +132,8 @@ This turn-in also spawns [Natasha Whitewater](/npc/96080) nearby in the hut. Giv
 
 Go to [Nagafen's Lair](/zone/32) (SolB) and find [Zordak Ragefire](/npc/32038). He is located back in the fire giant area on a ledge underneath a large banner . Give him [Shimmering Pearl](/item/28054) to receive [Zordak's Box of Bindings](/item/17175) and [Swirling Pearl](/item/28059). [Zordak Ragefire](/npc/32038) is currently a 24 hour respawn.
 
-![Zordak-Map-SolB.jpg](/static/guide_images/epics/cleric/Zordak-Map-SolB.jpg)
-![Zordak-Ragefire-zoomout-SolA.jpg](/static/guide_images/epics/cleric/Zordak-Ragefire-zoomout-SolA.jpg)
+![Zordak-Map-SolB.jpg](/static/guides/images/epic/cleric/Zordak-Map-SolB.jpg)
+![Zordak-Ragefire-zoomout-SolA.jpg](/static/guides/images/epic/cleric/Zordak-Ragefire-zoomout-SolA.jpg)
 
 ### Step 11
 Go to [Skyfire Mountains](/zone/91) and farm 4x [Pearlescent Fragment](/item/24995) from random trash mobs. This can take a while so be patient. Once you have all 4, [combine](/recipe/9647) them in [Zordak's Box of Bindings](/item/17175) to create [An Assembled Pearlescent Shard](/item/24996).
@@ -145,10 +145,10 @@ Give [An Assembled Pearlescent Shard](/item/24996) to [Warder Cecilia](/npc/9103
 
 Use the [Impure Heart of Zordak Ragefire](/item/17122) container and [combine](/recipe/10061) [Pearlescent Seal](/item/24997) (from [Warden Cecilia](/npc/91037) in [Skyfire Mountains](/zone/91)) with [Swirling Pearl](/item/28059) (from [Zordak Ragefire](/npc/32038) in Step 10) to create [Zordak Ragefire's Heart](/item/28019).
 
-![Skyfire-Map-Warder-Cecilia.jpg](/static/guide_images/epics/cleric/Skyfire-Map-Warder-Cecilia.jpg)
-![Warder-Cecilia.jpg](/static/guide_images/epics/cleric/Warder-Cecilia.jpg)
-![Zordak-Human2.jpg](/static/guide_images/epics/cleric/Zordak-Human2.jpg)
-![Zordak-Dragon2.jpg](/static/guide_images/epics/cleric/Zordak-Dragon2.jpg)
+![Skyfire-Map-Warder-Cecilia.jpg](/static/guides/images/epic/cleric/Skyfire-Map-Warder-Cecilia.jpg)
+![Warder-Cecilia.jpg](/static/guides/images/epic/cleric/Warder-Cecilia.jpg)
+![Zordak-Human2.jpg](/static/guides/images/epic/cleric/Zordak-Human2.jpg)
+![Zordak-Dragon2.jpg](/static/guides/images/epic/cleric/Zordak-Dragon2.jpg)
 
 ## Final Turn-in
 [Script Page](/script-entities/timorous/Omat_Vastsea)
@@ -163,9 +163,9 @@ Give [Avatar of Water](/npc/96086) your [Orb of the Triumvirate](/item/28023)
 
 >[Avatar of Water](/npc/96086) takes the orb from you. The avatar has determined that you are worthy to receive [Water Sprinkler of Nem Ankh](/item/5532)! 
 
-![timorous-deep-map-cleric-1.0.jpg](/static/guide_images/epics/cleric/timorous-deep-map-cleric-1.0.jpg)
-![Omat-Vastsea.jpg](/static/guide_images/epics/cleric/Omat-Vastsea.jpg)
-![Jhassad-Oceanson.jpg](/static/guide_images/epics/cleric/Jhassad-Oceanson.jpg)
-![Avatar-of-Water.jpg](/static/guide_images/epics/cleric/Avatar-of-Water.jpg)
+![timorous-deep-map-cleric-1.0.jpg](/static/guides/images/epic/cleric/timorous-deep-map-cleric-1.0.jpg)
+![Omat-Vastsea.jpg](/static/guides/images/epic/cleric/Omat-Vastsea.jpg)
+![Jhassad-Oceanson.jpg](/static/guides/images/epic/cleric/Jhassad-Oceanson.jpg)
+![Avatar-of-Water.jpg](/static/guides/images/epic/cleric/Avatar-of-Water.jpg)
 
-![Water-Sprinkler-of-Nem-Ankh.jpg](/static/guide_images/epics/cleric/Water-Sprinkler-of-Nem-Ankh.jpg)
+![Water-Sprinkler-of-Nem-Ankh.jpg](/static/guides/images/epic/cleric/Water-Sprinkler-of-Nem-Ankh.jpg)
