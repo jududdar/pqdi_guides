@@ -56,176 +56,175 @@
 ## Pre-Farmable Items
 ### Power of the Elements
 ##### Power of Wind
-Looted from a gypsy dancer in Castle Mistmoore
+Looted from [a gypsy dancer](/npc/59015) in [Castle Mistmoore](/zone/59)
 ##### Power of Fire
-Looted from blazing or lava elemental in Solusek's Eye (Sol A)
+Looted from [blazing](/npc/31006) or [lava elemental](/npc/31143) in [Solusek's Eye (Sol A)](/zone/31)
 ##### Power of Earth
-Looted from fairies in Lesser Faydark
+Looted from [fairy guards](/npc/57123) in [Lesser Faydark](/zone/57)
 ##### Power of Water
-Looted from ravenar mobs in Kaesora
+Looted from [ravenar](/npc/88004) mobs in [Kaesora](/zone/88)
 ### Words of Mastery
-All looted from magician dark elf mobs in Najena
+All looted from [magician](/npc/44089) dark elf mobs in [Najena](/zone/44)
 ##### Torn Page of Mastery Earth
 ##### Torn Page of Mastery Water
 ##### Torn Page of Mastery Wind
 ##### Torn Page of Mastery Fire
 ### Words of Magi'Kot
 ##### Torn Page of Magi'Kot pg 1
-Looted from wolf type mobs at night in Kithicor
+Looted from [dread wolf](/npc/20274) type mobs at night in [Kithicor](/zone/20)
 ##### Torn Page of Magi'Kot pg 2
-Looted from a tentacle terror or dark terror in Estate of Unrest
+Looted from a [tentacle terror](/npc/63043) or [dark terror](/npc/63113) in [Estate of Unrest](/zone/63)
 ##### Torn Page of Magi'Kot pg 3
-Looted from a bloodthirsty ghoul in Lower Guk
+Looted from [a bloodthirsty ghoul](/npc/66147) in [Lower Guk](/zone/66)
 ### Element of Fire
 ##### Burning Embers
-Looted from Nezekezena, Phurzikon, or Gylton in Burning Woods
+Looted from [Nezekezena](/npc/87007), [Phurzikon](/npc/87013), or [Gylton](/npc/87070) in [Burning Woods](/zone/87)
 ##### Blazing Wand
-Looted from Undertow in Kedge Keep
+Looted from [Undertow](/npc/64087) in [Kedge Keep](/zone/64)
 ##### Torch of the Elements
-Looted from Neh'Ashirr in City of Mist
+Looted from [Neh'Ashirr](/npc/90012) in [City of Mist](/zone/90)
 ### Element of Wind
 ##### Crown of Elemental Mastery
-Looted from trash mobs in Plane of Sky (Island 7).  Tradable.
+Looted from trash mobs in [Plane of Sky (Island 7)](/zone/71).  Tradable.
 ##### Pegasus Feather Cloak
-Looted from Quillmane in South Karana
+Looted from [Quillmane](/npc/14139) in [South Karana](/zone/14)
 ##### Elemental Binder
-Looted from elementals in the Hole. Tradable
+Looted from [elementals](/npc/39074) in the [Hole](/zone/39). Tradable
 ### Element of Earth
 ##### Staff of Elemental Mastery: Earth
-Looted from a forsaken revenant (male) or Magi P'Tasa in Plane of Hate
+Looted from a [Innoruuk](/npc/76326) or [Magi P'Tasa](/npc/76326) in [Plane of Hate](/zone/76)
 ##### Dirt of Underfoot
-Looted from Slixin Klex in Burning Woods
+Looted from [Slixin Klex](/npc/87047) in [Burning Woods](/zone/87)
 ##### Shovel of Ponz
 ###### Gargoyle Eye
-Looted from gargoyles in Castle Mistmoore
+Looted from [gargoyles](/npc/59063) in [Castle Mistmoore](/zone/59)
 ###### Hill Giant Toes
-Looted from hill giants in Rathe Mountains
+Looted from [hill giants](/npc/50314) in [Rathe Mountains](/zone/50)
 ###### Ruby
-Purchased from jewelcrafting vendors
+Purchased from [jewelcrafting vendors](/item/10035)
 ###### Shovel
-Looted from magician mobs in Najena
+Looted from [magician](/npc/44089) mobs in [Najena](/zone/44)
 ##### Broom of Trillon
 ###### Cyclops Toes
-Looted from cyclops mobs in Ocean of Tears
+Looted from [cyclops](/npc/69128) mobs in [Ocean of Tears](/zone/69)
 ###### Griffin Feathers
-Looted from Griffons in North Karana
+Looted from [Griffons](/npc/13005) in [North Karana](/zone/14)
 ###### Star Ruby
-Purchased from jewelcrafting vendors
+Purchased from [jewelcrafting vendors](/item/10032)
 ###### Broom
-Looted from magician mobs in Najena
+Looted from [magician](/npc/44089) mobs in [Najena](/zone/44)
 ### Element of Water
 ##### Rain of Karana
-Looted from Tarbul Earthstrider in East Karana
+Looted from [Tarbul Earthstrider](/npc/15171) in [East Karana](/zone/15)
 ##### Staff of Elemental Mastery: Water
-Looted from Phinigel Autropos in Kedge Keep
+Looted from [Phinigel Autropos](/npc/64001) in [Kedge Keep](/zone/64)
 ##### Tears of Erollisi
-Looted from Captain Rottgrim in The Overthere
+Looted from [Captain Rottgrim](/npc/93085) in [The Overthere](/zone/93)
 
 ## The Quest
 ### Quest: Power of the Elements
 
-* Power of Wind - Drops from a gypsy dancer in Castle Mistmoore. It spawns inside the castle ballroom within the blue circle. Drop seems to be common to uncommon.
+* [Power of Wind](/item/28037) - Drops from a [a gypsy dancer](/npc/59015) in [Castle Mistmoore](/zone/59). It spawns inside the castle ballroom within the blue circle. Drop seems to be common to uncommon.
 
-* Power of Fire - Drops from blazing elemental or lava elemental in Solusek's Eye (SolA). The left blue circle is the best place to farm the Power of Fire. At this spot two elementals spawn in a small tunnel and both have a chance at the drop. The right blue circle has a roaming gnome as a PH for an elemental, who then has a chance to drop it. It is uncommon to rare at either camp. Expect to spend some time here in most cases.
+* [Power of Fire](/item/28036) - Drops from [blazing](/npc/31006) or [lava elemental](/npc/31143) in [Solusek's Eye (Sol A)](/zone/31). The left blue circle is the best place to farm the Power of Fire. At this spot two elementals spawn in a small tunnel and both have a chance at the drop. The right blue circle has a roaming gnome as a PH for an elemental, who then has a chance to drop it. It is uncommon to rare at either camp. Expect to spend some time here in most cases.
 
-* Power of Earth - Drops from a fairy guard or faerie guard in Lesser Faydark. Drop is uncommon.
+* [Power of Earth](/item/28038) - Drops from a [fairy guard or faerie guard](/npc/57123) in [Lesser Faydark](/zone/57). Drop is uncommon.
 
-* Power of Water - Drops from mobs with ravener in their names in Kaesora. These spawn on the far east side of the zone.
+* [Power of Water](/item/28039) - Drops from mobs with [ravener in their names](/npc/88004) in [Kaesora](/zone/88). These spawn on the far east side of the zone.
 
-Give  Power of Wind, Power of Fire, Power of Earth, and Power of Water to Walnan in Butcherblock to receive Power of the Elements. Walnan roams in the NW area of the map.
+Give Power of Wind, Power of Fire, Power of Earth, and Power of Water to [Walnan](/npc/68087) in [Butcherblock](/zone/68) to receive Power of the Elements. Walnan roams in the NW area of the map.
 
 ### Quest: Words of Mastery
 
-* Torn Page of Mastery Earth
-* Torn Page of Mastery Water
-* Torn Page of Mastery Wind
-* Torn Page of Mastery Fire
+* [Torn Page of Mastery Earth](/item/28029)
+* [Torn Page of Mastery Water](/item/28030)
+* [Torn Page of Mastery Wind](/item/28028)
+* [Torn Page of Mastery Fire](/item/28027)
 
-All 4 of these pages drop from a magician or a goblin magician in Najena.  They can also dropped from the "named" in the jail/basement area. Such as Ekeros, Linara Parlone, and an injured halfling.  Red Circles indicate magician spawn points. Yellow is Akksstaff's spawn point. The pages are very rare so expect to spend a lot of time here.
+All 4 of these pages drop from a magician or a goblin magician in [Najena](/zones/53).  They can also dropped from the "named" in the jail/basement area. Such as Ekeros, Linara Parlone, and an injured halfling.  Red Circles indicate magician spawn points. Yellow is Akksstaff's spawn point. The pages are very rare so expect to spend a lot of time here.
 
 **Broom and Shovel also drop from the magicians; save one of each as you'll need them later.**
 
-Give the 4 Torn Pages to Akkstaff in Najena to receive Words of Mastery.
+Give the 4 Torn Pages to [Akksstaff](/npc/44063) in [Najena](/zones/53) to receive [Words of Mastery](/item/28004).
 
 ### Quest: Words of Magi'Kot
 
-* Torn Page of Magi'kot pg. 1 - drops from dread wolf, dreaded wolf, or enraged dread wolf in Kithicor Forest. These spawn at night time. You'll find them between the Commonlands and Rivervale. Common Drop.
+* [Torn Page of Magi'kot pg. 1](/item/28000) - drops from dread wolf, dreaded wolf, or enraged dread wolf in [Kithicor Forest](/zone/20). These spawn at night time. You'll find them between the Commonlands and Rivervale. Common Drop.
 
-* Torn Page of Magi'kot pg. 2 - Drops from a tentacle terror or a dark terror in Estate of Unrest. These spawn at the lowest point in the zone. You can get there by going through the fake bookcase inside the castle and traveling to the bottom. Common Drop.
+* [Torn Page of Magi'kot pg. 2](/item/28001) - Drops from a [tentacle terror](/npc/63043) or [dark terror](/npc/63113) in [Estate of Unrest](/zone/63). These spawn at the lowest point in the zone. You can get there by going through the fake bookcase inside the castle and traveling to the bottom. Common Drop.
 
-* Torn Page of Magi'kot pg. 3 - Drops from a bloodthirsty ghoul in Lower Guk. a bloodthirsty ghoul spawns at the frenzied ghoul camp on the undead side of the zone. Common Drop.
+* [Torn Page of Magi'kot pg. 3](/item/28002) - Drops from a [a bloodthirsty ghoul](/npc/66147) in [Lower Guk](/zone/66). a bloodthirsty ghoul spawns at the frenzied ghoul camp on the undead side of the zone. Common Drop.
 
-Take the 3 Pages of Magi'Kot to Jahsohn Aksot in Commonlands to receive  Words of Magi'Kot.
+Take the 3 Pages of Magi'Kot to [Jahsohn Aksot](/npc/21043) in [West Commonlands](/zone/21) to receive Words of Magi'Kot.
 
 ### Quest: Power of the Orb
 
-Give the quest rewards from Part 1-3 ( Power of the Elements, Words of Mastery, Words of Magi'Kot) to Rykas in Lake Rathetear to receive Power of the Orb.
+Give the quest rewards from Part 1-3 ( Power of the Elements, Words of Mastery, Words of Magi'Kot) to [Rykas](/npc/51045) in [Lake Rathetear](/zone/51) to receive [Power of the Orb](/item/18958).
 
 ### Quest: Element of Fire
 
-* Burning Embers - Drops from Nezekezena, Phurzikon, or Gylton in Burning Woods. I would ignore trying to spawn Gylton and go after the other two. Both Nezekezena and Phurzikon can spawn at either +2800, + 1030 or -270, -2550 (see map). You will want to kill trash in the zone until a mob spawns at either of these locations (good to have someone standing at these locs to watch). If you have multiple people or boxes, you can actually camp both spawns at once. The respawn timer is somewhere between 1-2 minutes. Once you have the correct PH's, you can kill them to chain spawn the named wurms. Burning Embers is an uncommon to rare drop.
+* [Burning Embers](/item/28008) - Drops from [Nezekezena](/npc/87007), [Phurzikon](/npc/87013), or [Gylton](/npc/87070) in [Burning Woods](/zone/87). I would ignore trying to spawn Gylton and go after the other two. Both Nezekezena and Phurzikon can spawn at either +2800, + 1030 or -270, -2550 (see map). You will want to kill trash in the zone until a mob spawns at either of these locations (good to have someone standing at these locs to watch). If you have multiple people or boxes, you can actually camp both spawns at once. The respawn timer is somewhere between 1-2 minutes. Once you have the correct PH's, you can kill them to chain spawn the named wurms. Burning Embers is an uncommon to rare drop.
 
+* [Blazing Wand](/item/10376) - Drops from [Undertow](/npc/64087) in [Kedge Keep](/zone/64). He is a rare spawn with a PH He spawns at the very top of an alcove at the most northern point in the zone. He can also be spawned in an instance.
 
-* Blazing Wand - Drops from Undertow in Kedge Keep. He is a rare spawn with a PH He spawns at the very top of an alcove at the most northern point in the zone. He can also be spawned in an instance.
-
-* Torch of the Elements - Drops from Neh'Ashiir in City of Mist. Neh'Ashiir is located at the last building area up on the floating platforms (near Wraith of Jaxion). It's easiest to have a pick lock class with you to get you up there quickly. Supposedly an uncommon drop, although I got it on the first kill both times I did the epic. Respawn time is somewhere between 30 and 90 minutes.
+* [Torch of the Elements](/item/28007) - Drops from [Neh'Ashirr](/npc/90012) in [City of Mist](/zone/90). Neh'Ashiir is located at the last building area up on the floating platforms (near Wraith of Jaxion). It's easiest to have a pick lock class with you to get you up there quickly. Supposedly an uncommon drop, although I got it on the first kill both times I did the epic. Respawn time is somewhere between 30 and 90 minutes.
 
 ### Quest: Power of the Orb
 
-Give the Burning Embers, Blazing Wand, Torch of the Elements, and Power of the Orb  to Jennus Lyklobar in Skyfire Mountains to receive Element of Fire.
+Give the Burning Embers, Blazing Wand, Torch of the Elements, and Power of the Orb  to [Jennus Lyklobar](/npc/91007) in [Skyfire Mountains](/zone/91) to receive [Element of Fire](/item/28009).
 
 Jennus Lykobar is a roaming gnome in Skyfire. Supposedly he spawns 48 hours after server comes up. I am not able to confirm if there is a PH. I killed for several hours and was not able to get him to spawn. I come back the next morning and he was up (once 48 hours of a server up has passed). You will want to have a tracker with you to find him as he is constantly moving. He is usually roaming around the big lava lake somewhere.
 
 ### Quest: Element of Wind
 
-* Crown of Elemental Mastery (tradable) - Drops from various mobs on the 7th island in Plane of Sky. It can drop off of any mob on the island. Sphinx mobs death touch, and  drakes gravity flux. Rare Drop. You can also buy this from other players.
+* [Crown of Elemental Mastery (tradable)](/item/20764) - Drops from various mobs on the 7th island in [Plane of Sky](/zone/71). It can drop off of any mob on the island. Sphinx mobs death touch, and  drakes gravity flux. Rare Drop. You can also buy this from other players.
 
-* Pegasus Feather Cloak - Drops from Quillmane in South Karana. Quillmane is a rare spawn, and the cloak is a rare drop. This could potentially be your longest camp during the whole epic quest. See map for the area where he spawns most commonly, and where my two kill spots were. A tracker is basically required.
+* [Pegasus Feather Cloak](/item/2463) - Drops from [Quillmane](/npc/14139) in [South Karana](/zone/14). Quillmane is a rare spawn, and the cloak is a rare drop. This could potentially be your longest camp during the whole epic quest. See map for the area where he spawns most commonly, and where my two kill spots were. A tracker is basically required.
 
-* Elemental Binder (tradable) - Drops from elementals type mobs in Ruins of Old Paineel (The Hole). Common drop. You can also buy this item from other players.
+* [Elemental Binder (tradable)](/item/28043) - Drops from [elemental](/npc/39074) type mobs in Ruins of Old Paineel ([The Hole](/zone/39)). Common drop. You can also buy this item from other players.
 
-Give Crown of Elemental Mastery, Pegasus Feather Cloak, and Elemental Binder to Kihun Solstin in Plane of Sky to receive Element of Wind. Kihun Solstin can be found on the quest island.
+Give Crown of Elemental Mastery, Pegasus Feather Cloak, and Elemental Binder to [Kihun Solstin](/npc/71055) in [Plane of Sky](/zone/71) to receive [Element of Wind](/item/28033). Kihun Solstin can be found on the quest island.
 
 ### Quest: Element of Earth
 
-* Staff of Elemental Mastery: Earth - Drops from Magi P'Tasa or a forsaken revenant (male gender) in Plane of Hate. Uncommon to rare drop.
-* Dirt of Underfoot - Drops from Slixin Klex in Burning Woods. He is on a 16 minute respawn. There is no PH. He will occassionally drop Dirt of Underfoot.
-* Shovel of Ponz - Quested with NPC Vira in Temple of Solusek Ro. To get to Vira, hug left from the zone in. Go up stairs and you'll eventually see her.
+* [Staff of Elemental Mastery: Earth](/item/11567) - Drops from [Innoruuk](/npc/76326) or [Magi P'Tasa](/npc/76326) in [Plane of Hate](/zone/76). Uncommon to rare drop.
+* [Dirt of Underfoot](/item/28042) - Drops from [Slixin Klex](/npc/87047) in [Burning Woods](/zone/87). He is on a 16 minute respawn. There is no PH. He will occassionally drop Dirt of Underfoot.
+* [Shovel of Ponz](/item/6361) - Quested with NPC [Vira](/npc/80015) in [Temple of Solusek Ro](/zone/80). To get to Vira, hug left from the zone in. Go up stairs and you'll eventually see her.
 
     - Give her four items:
 
-        - Gargoyle Eye - Drops off Gargoyles in Castle Mistmoore. Common Drop. Also can buy on the bazaar.
-        - Hill Giant Toes - Drops off Hill Giants in Rathe Mountains. Common Drop. Also can buy on the bazaar.
-        - Ruby - Bought off various Jewelcrafting vendors (Audri Deepfacet, Northern Trader Building, PoK | Loc: +400, +760)
-        - Shovel - Dropped off Magicans in Najena. Rare drop.
+        - [Gargoyle Eye](/item/10014) - Drops off [gargoyles](/npc/59063) in [Castle Mistmoore](/zone/59). Common Drop. Also can buy on the bazaar.
+        - [Hill Giant Toes](/item/16539) - Drops off [hill giants](/npc/50314) in [Rathe Mountains](/zone/50). Common Drop. Also can buy on the bazaar.
+        - [Ruby](/item/10035) - Bought off various Jewelcrafting vendors (Audri Deepfacet, Northern Trader Building, PoK | Loc: +400, +760)
+        - [Shovel](/item/16545) - Dropped off [Magicians](/npc/44089) in [Najena](/zone/44). Rare drop.
 
  
 
 
-* Broom of Trilon - Quested with NPC Vira in Temple of Solusek Ro. To get to Vira, hug left from the zone in. Go up stairs and you'll eventually see her.
+* [Broom of Trilon](/item/6360) - Quested with NPC [Vira](/npc/80015) in [Temple of Solusek Ro](/zone/80). To get to Vira, hug left from the zone in. Go up stairs and you'll eventually see her.
 
     - Give her 4 items:
 
-        - Cyclops Toes - Drops off Cyclops in Ocean of Tears. Common Drop. Also can buy on the bazaar.
-        - Griffon Feathers - Drops off Griffons in North Karana. Common Drop. Also can buy on the bazaar.
-        - Star Ruby - Bought off various Jewelcrafting vendors (Audri Deepfacet, Northern Trader Building, PoK | Loc: +400, +760)
-        - Broom - Dropped off Magicans in Najena. Rare drop.
+        - [Cyclops Toes](/item/16543) - Drops off [Cyclops](/npc/69128) mobs in [Ocean of Tears](/zone/69). Common Drop. Also can buy on the bazaar.
+        - [Griffon Feathers](/item/16538) - Drops off [Griffons](/npc/13005) in [North Karana](/zone/14). Common Drop. Also can buy on the bazaar.
+        - [Star Ruby](/item/10032) - Bought off various Jewelcrafting vendors (Audri Deepfacet, Northern Trader Building, PoK | Loc: +400, +760)
+        - [Broom](/item/16544) - Dropped off [Magicians](/npc/44089) mobs in [Najena](/zone/44). Rare drop.
 
-Give  Staff of Elemental Mastery: Earth, Dirt of Underfoot, Shovel of Ponz, and Broom of Trilon to Tiblner Milnik in Firiona Vie to receive Element of Earth. Tiblner Milnik roams on the south side of the zone.
+Give Staff of Elemental Mastery: Earth, Dirt of Underfoot, Shovel of Ponz, and Broom of Trilon to [Tiblner Milnik](/npc/84160) in [Firiona Vie](/zone/84) to receive [Element of Earth](/item/28032). Tiblner Milnik roams on the south side of the zone.
 
 ## Quest: Element of Water
 
-* Rain of Karana - Drops from Tarbul Earthstrider in East Karana. He spawns on "spider hill". PH is a rogue lion. Having a tracker helps, but isnt required. Respawn timer is approx. 30 seconds. Either common drop or always drops.
+* [Rain of Karana](/item/28041) - Drops from [Tarbul Earthstrider](/npc/15171) in [East Karana](/zone/15). He spawns on "spider hill". PH is a rogue lion. Having a tracker helps, but isnt required. Respawn timer is approx. 30 seconds. Either common drop or always drops.
 
-* Staff of Elemental Mastery: Water - Drops from Phinigel Autropos in Kedge Keep.  12 hour respawn. Uncommon Drop. Also spawnable in an instance.
+* [Staff of Elemental Mastery: Water](/item/11569) - Drops from [Phinigel Autropos](/npc/64001) in [Kedge Keep](/zone/64).  12 hour respawn. Uncommon Drop. Also spawnable in an instance.
 
-* Tears of Erollisi - Drops from Captain Rottgrime in The Overthere. He spawns in the evil town. Has several guards that will assist. Always drops. I was able to disc him down solo as a warrior, then ran the adds off. Recommended to have a couple people or some form of CC if you are not geared.
+* [Tears of Erollisi](/item/28040) - Drops from [Captain Rottgrim](/npc/93085) in [The Overthere](/zone/93). He spawns in the evil town. Has several guards that will assist. Always drops. I was able to disc him down solo as a warrior, then ran the adds off. Recommended to have a couple people or some form of CC if you are not geared.
 
-Give Rain of Karana, Staff of Elemental Mastery: Water, and  Tears of Erollisi to Jinalis Andir in Dagnor's Cauldron to receive Element of Water.
+Give Rain of Karana, Staff of Elemental Mastery: Water, and  Tears of Erollisi to [Jinalis Andir](/npc/70028) in [Dagnor's Cauldron](/zone/70) to receive [Element of Water](/item/28006).
 
 ## Final Turn-in - Orb of Mastery (Spell: Summon Orb)
 
-Give Element of Fire, Element of Wind, Element of Earth, Element of Water to Master of Elements in Plane of Sky to receive your 1.0 Epic Spell: Summon Orb. 
+Give Element of Fire, Element of Wind, Element of Earth, Element of Water to [Master of Elements](/npc/71040) in [Plane of Sky](/zone/71) to receive your 1.0 Epic [Spell: Summon Orb](/item/19436). 
 
 This is a spell that will summon Orb of Mastery.
 

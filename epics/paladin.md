@@ -43,76 +43,76 @@
         - [ ] [Step 28](#step-28)
 
 ## SoulFire
-SoulFire is the first sword required for the Paladin Epic.
+[SoulFire](/item/5504) is the first sword required for the Paladin Epic.
 
 ### Step 1
-You'll first want to get faction with Priests of Life. This will be needed for the final turn in later. High Kindly was sufficient for me, but you may be able to do it with less (exact amount unverified).
+You'll first want to get faction with [Priests of Life](/faction/341). This will be needed for the final turn in later. High Kindly was sufficient for me, but you may be able to do it with less (exact amount unverified).
 
 There are 4 Options. The first two are good. The last two are slow.
 
 #### Option A - GOOD OPTION #1
 
-You can get faction by questing with Lashun Novashine in North Qeynos. He roams around the zone, so a tracker might help speed things up. However, the zone is not very big so you'll run into him eventually. You can either give him 2 Gold or 2 Bone Chips to receive 1 faction. The benefit of using  Bone Chips is that you can turn-in an unlimited amount at a time (stacked). With  Gold you can only turn in 2 at a time. You can con him to check your faction status with Priests of Life.
+You can get faction by questing with [Lashun Novashine](/npc/2032) in [North Qeynos](/zone/2). He roams around the zone, so a tracker might help speed things up. However, the zone is not very big so you'll run into him eventually. You can either give him 2 Gold or 2 Bone Chips to receive 1 faction. The benefit of using Bone Chips is that you can turn-in an unlimited amount at a time (stacked). With Gold you can only turn in 2 at a time. You can con him to check your faction status with Priests of Life.
 
-Note: You can buy unlimited Bone Chips from A Vendor of Reagents the Guild Lobby if Dragons of Norrath is unlocked.
+![[Lashun-Novashine.jpg]]
 
 #### Option B - GOOD OPTION #2
 
-You must be at least AMIABLE with Priests of Life to use this option
+You must be at least AMIABLE with [Priests of Life](/faction/341) to use this option
 
-Go to North Qeynos. Kill a Koalindl (with an alt or a character OTHER than your Paladin. You will take a big faction hit if you use your Paladin) who spawn in the water underneath the Temple of Life. Loot Koalindl Fish with your Paladin. Common Drop. The fish are level 1. 
+Go to [North Qeynos](/zone/2). Kill a [Koalindl](/npc/2005) (with an alt or a character OTHER than your Paladin. You will take a big faction hit if you use your Paladin) who spawn in the water underneath the Temple of Life. Loot [Koalindl Fish](/item/13383) with your Paladin. Common Drop. The fish are level 1. 
 
 Koalindl Fish is NO TRADE, so you'll still need to loot it on the character you are doing the quest with.
 
-Give Koalindl Fish to Enic Ruklin nearby in the Temple of Life to receive +100 Priest of Life faction. You must be at least AMIABLE to do this turn-in.
+Give [Koalindl Fish](/item/13383) to [Enic Ruklin](/npc/2039) nearby in the Temple of Life to receive +100 Priest of Life faction. You must be at least AMIABLE to do this turn-in.
 
 Option C and D are almost not worth mentioning, but are mostly as an FYI:
 
 #### Option C - SLOW + Expensive
 
-You can also give Silver Bar to Fixxin Followig in North Karana for 1 faction per bar. You can also only turn in 1 at a time since he gives a Lore book. He roams along the north side of the zone.
+You can also give Silver Bar to [Fixxin Followig](/npc/13063) in [North Karana](/zone/13) for 1 faction per bar. You can also only turn in 1 at a time since he gives a Lore book. He roams along the north side of the zone.
 
 #### Option D - SLOW
 
-There are also various NPC's you can kill to get faction, the most notable one is Lord Grimrot in South Karana and various NPC's in Qeynos Catacombs. I won't go over all NPCs since the best Option is Option A.
+There are also various NPC's you can kill to get faction, the most notable one is [Lord Grimrot](/npc/14143) in [South Karana](/zone/14) and various NPC's in [Qeynos Catacomb](/zone/45)s. I won't go over all NPCs since the best Option is Option A.
 
 ### Step 2
-Once you have obtained High Kindly with Priests of Life faction go to Castle Mistmoore. You need to kill Xicotl and loot Glowing Sword Hilt. He spawns in the "Spa" room (-190, +95). His PH is a Mistmoore guard. You do not need to kill a Mistmoore guard. It will automatically respawn every minute or so. Eventually Xicotl will spawn in its place.
+Once you have obtained High Kindly with [Priests of Life](/faction/341) faction go to [Castle Mistmoore](/zone/59). You need to kill [Xicotl](/npc/59152) and loot [Glowing Sword Hilt](/item/12197). He spawns in the "Spa" room (-190, +95). His PH is a Mistmoore guard. You do not need to kill a Mistmoore guard. It will automatically respawn every minute or so. Eventually Xicotl will spawn in its place.
 
 ### Step 3
-Go to North Ro and kill tarantula type mobs until you get Spider Venom Sac.
+Go to [North Ro](/zone/34) and kill [tarantula](/npc/34060) type mobs until you get [Spider Venom Sac](/item/14018).
 
 ### Step 4
-Go to Commonlands and buy Cloth Shirt from Germe Threadspinner. He is inside a hut along the north wall.
+Go to [Eastern Commonlands](/zone/22) and buy [Cloth Shirt](/item/1004) from [Germe Threadspinner](/npc/22099). He is inside a hut along the north wall.
 
-Next, find Altunic Jartin (also in Commonlands) who wanders around the zone.  Sometimes he is along the road, sometimes he is in the grassy area. A tracker can speeds things up a bit. Give Altunic Jartin  Cloth Shirt to receive Token of Generosity.
+Next, find [Altunic Jartin](/npc/22069) (also in [Eastern Commonlands](/zone/22)) who wanders around the zone.  Sometimes he is along the road, sometimes he is in the grassy area. A tracker can speeds things up a bit. Give Altunic Jartin Cloth Shirt to receive [Token of Generosity](/item/13865).
 
 Note: To give the tunic to Althunic Jartin you'll need to be at least Amiable faction with Knights of Truth. If you are Mithaniel Marr deity you may already be Amiable. If you are a different deity then you may be a bit low. To raise your faction kill Freeport Militia Guards in either Commonlands or Freeport. You can check your faction with /faction. See details below.
 
 Some easy faction grinding options:
 
-Commonlands
+[Eastern Commonlands](/zone/22)
 Guards give between 1-10 each (depending on which guard)
 
-East Freeport
+[East Freeport](/zone/10)
 Level 35-40ish Guards generally give +5-10 each.
 
-Sir Lucan D'Lere: +200  Killing this guy is also a required part of the quest (See Step 11). Level 48. He also has a longer respawn than most guards so may not be up if someone has just killed him. 4 hour respawn? Blue Circle on map below
+[Sir Lucan D'Lere](/npc/9018): +200  Killing this guy is also a required part of the quest (See Step 11). Level 48. He also has a longer respawn than most guards so may not be up if someone has just killed him. 4 hour respawn? Blue Circle on map below
 
-Sir Lucan D'Lere: (undead version): +100 - Spawns after Sir Lucan D'Lere dies. Level 40.
+[Sir Lucan D'Lere](/npc/9147): (undead version): +100 - Spawns after Sir Lucan D'Lere dies. Level 40.
 
-Guard Drazden: +40 - In Sir Lucan D'Lere's room. Approx. 4 min 50 sec respawn. Level 40.
+[Guard Drazden](/npc/9025): +40 - In Sir Lucan D'Lere's room. Approx. 4 min 50 sec respawn. Level 40.
 
-Brother Jentry: +40 - In Sir Lucan D'Lere's room. Approx. 4 min 50 sec respawn. Level 40.
+[Brother Jentry](/npc/9024): +40 - In Sir Lucan D'Lere's room. Approx. 4 min 50 sec respawn. Level 40.
 
 ### Step 5
-Next you'll need to farm 3 items: Rat Ears, Fire Beetle Eye, Snake Scales. These items will used in 21 trivial trade skill combine, so grab more than 1 if you aren't feeling lucky. You can get these from mobs in either Commonlands or West Freeport (Rats, Fire Beetles, and Snakes).
+Next you'll need to farm 3 items: [Rat Ears](/item/13072), [Fire Beetle Eye](/item/10307), [Snake Scales](/item/13070). These items will used in 21 trivial trade skill combine, so grab more than 1 if you aren't feeling lucky. You can get these from mobs in either [Eastern Commonlands](/zone/22) or [West Freeport](/zone/9) (Rats, Fire Beetles, and Snakes).
 
 ### Step 6
-Get a Water Flask and a Bottle from a vendor somewhere, they are sold in every town.
+Get a [Water Flask](/item/13006) and a [Bottle](/item/16598) from a vendor somewhere, they are sold in every town.
 
 ### Step 7
-Use the materials you just got to make the following items: Bog Juice and Edible Goo.
+Use the materials you just got to make the following items: [Bog Juice](/item/16581) and [Edible Goo](/item/13498).
 
 Bog Juice - Brewing - Trivial 21 - Brew Barrel
 1x Water Flask
@@ -124,93 +124,93 @@ Edible Goo - Baking - Trivial 21 - Oven
 1x  Rat Ears
 
 ### Step 8
-Go to the Halls of Truth in West Freeport. Find Merko Quetalis (use find, +1000, -140). Give him  Spider Venom Sac to receive Token of Bravery. Next, give him the Token of Bravery you just got along with Token of Generosity. This turn-in will spawn Guard Willia (+850, -220)  in the basement/cell area.
+Go to the Halls of Truth in [West Freeport](/zone/9). Find [Merko Quetalis](/npc/8044) (use find, +1000, -140). Give him Spider Venom Sac to receive [Token of Bravery](/item/12144). Next, give him the Token of Bravery you just got along with Token of Generosity. This turn-in will spawn [Guard Willia](/npc/8110) (+850, -220)  in the basement/cell area.
 
-Guard Willia is level 6. Kill him and loot Token of Truth. Go back to Merko Quetalis and give him Token of Truth to receive Testimony.
+Guard Willia is level 6. Kill him and loot [Token of Truth](/item/13866). Go back to Merko Quetalis and give him Token of Truth to receive [Testimony](/item/18828).
 
 ### Step 9
-Go to East Freeport and find Gregor Nasin. Buy 4x Drom's Champagne from him. You will need to turn them into Tykar Renlin. Tykar Renlin has 4 PH's that all spawn at the same spot at the bar. These PH's they will roam around Freeport for a bit, then come back and eventually despawn/respawn. Basically you will just need to wait for Tykar Renlin to spawn on his own. They can take anywhere from 1 to 6 min to respawn (roughly). Known PH's are: Plnorrick Spinecracker, Biggle Lombokker, Tlin Bowfright, and Lozani.
+Go to [East Freeport](/zone/10) and find [Gregor Nasin](/npc/10171). Buy 4x [Drom's Champagne](/item/13829) from him. You will need to turn them into [Tykar Renlin](/npc/10157). Tykar Renlin has 4 PH's that all spawn at the same spot at the bar. These PH's they will roam around Freeport for a bit, then come back and eventually despawn/respawn. Basically you will just need to wait for Tykar Renlin to spawn on his own. They can take anywhere from 1 to 6 min to respawn (roughly). Known PH's are: Plnorrick Spinecracker, Biggle Lombokker, Tlin Bowfright, and Lozani.
 
-Once Tykar Renlin finally does spawn, give him  1x Drom's Champagne at a time, after the 4th one he will give you Bunker Cell #1.
+Once Tykar Renlin finally does spawn, give him 1x Drom's Champagne at a time, after the 4th one he will give you [Bunker Cell #1](/item/12196).
 
 ### Step 10
-Stay in East Freeport. Find a prisoner in the arena area. Give him Bog Juice, Edible Goo and Bunker Cell #1 to receive H.K. 102.
+Stay in [East Freeport](/zone/10). Find a prisoner in the arena area. Give him Bog Juice, Edible Goo and Bunker Cell #1 to receive [H.K. 102](/item/12143).
 
 ### Step 11
-Still in East Freeport, you must now kill Sir Lucan D'Lere. Doing so will make you instant KOS to Freeport. He is level 46-48 range. Once he dies, an undead version of him will spawn. Kill it too. Loot Testimony of Truth. He is a Guildmaster so you can use Find to locate him.
+Still in [East Freeport](/zone/10), you must now kill [Sir Lucan D'Lere](/npc/9018). Doing so will make you instant KOS to Freeport. He is level 46-48 range. Once he dies, an undead version of him will spawn. Kill it too. Loot [Testimony of Truth](/item/18827). 
 
 ### Step 12
-Zone over to West Freeport and locate Valeron Dushire (+1120, -500) in Hall of Truth. Give him Testimony of Truth to receive Brilliant Sword of Faith. He is a Guildmaster so you can use Find to locate him.
+Zone over to [West Freeport]([West Freeport](/zone/9)) and locate [Valeron Dushire](/npc/8077) (+1120, -500) in Hall of Truth. Give him Testimony of Truth to receive [Brilliant Sword of Faith](/item/13947).
 
 ### Step 13
-Go to High Keep and find Assistant Kiolna (-40, -335) near the bank. Give her H.K. 102 to receive Sealed Note. 
+Go to [High Keep](/zone/6) and find [Bank Clerk Jaylin](/npc/6059) (-40, -335) near the bank. Give her H.K. 102 to receive [Sealed Note](/item/18932). 
 
 ### Step 14 - Final Turn-in
-You're looking for Brother Hayle. Depending on the era your server is in he will be in different places:
+You're looking for [Brother Hayle](/npc/18071). Depending on the era your server is in he will be in different places:
 
-You can find him in Splitpaw Lair in a jail cell (+382,+327) . On your way in there are some levers on the walls to open up the cell doors.
+You can find him in [Splitpaw Lair](/zone/18) in a jail cell (+382,+327) . On your way in there are some levers on the walls to open up the cell doors.
 
 Make sure you are at least Kindly (I was high Kindly) faction with him.
 
-1. First give him Sealed Note by itself. He will return Note.
+1. First give him Sealed Note by itself. He will return [Note](/item/18937).
 
-2. Then give him Glowing Sword Hilt, Brilliant Sword of Faith, Testimony, Note to receive  SoulFire!
+2. Then give him Glowing Sword Hilt, Brilliant Sword of Faith, Testimony, Note to receive [SoulFire](/item/5504)!
 
 ## Ghoulbane
-The second sword you'll need to obtain to get your epic is Ghoulbane. There are 3 options to get one. I highly recommend Option 1
+The second sword you'll need to obtain to get your epic is [Ghoulbane](/item/5403). There are 3 options to get one. I highly recommend Option 1
 ### Step 15
 #### Option 1
-Kill Joren Nobleheart in South Felwithe. Always drops. This is by far the easiest path but requires a few people to kill him in Kunark era. He is level 60. Other NPC's do not assist. He does not have any faction hits. He melees for just under 200. You can reach him by taking the middle teleport pad.
+Kill [Joren Nobleheart](/npc/62000) in [South Felwithe](/zone/62). Always drops. This is by far the easiest path but requires a few people to kill him in Kunark era. He is level 60. Other NPC's do not assist. He does not have any faction hits. He melees for just under 200. You can reach him by taking the middle teleport pad.
 
 #### Option 2
-Kill the froglok shin lord in Upper Guk. Rare Drop. This is easily soloable but the froglok shin lord  is a rare spawn and the Ghoulbane is a rare drop. He spawns in the most southwestern room of the zone.  It is level 30.
+Kill the [froglok shin lord](/npc/65128) in [Upper Guk](/zone/65). Rare Drop. This is easily soloable but the froglok shin lord  is a rare spawn and the Ghoulbane is a rare drop. He spawns in the most southwestern room of the zone.  It is level 30.
 
 #### Option 3
-You can also quest for Ghoulbane. Due to the time this quest can take I will not be going over this option at all. Option 1 and 2 are much faster. The quest is given by Ryshon Hunsti  in West Karana.
+You can also quest for Ghoulbane. Due to the time this quest can take I will not be going over this option at all. Option 1 and 2 are much faster. The quest is given by [Ryshon Hunsti](/npc/12081) in [West Karana](/zone/12).
 
 ## Fiery Avenger
 You must have both SoulFire and Ghoulbane to complete this quest.
 
 ### Step 16
-You will need to get faction (Ally recommended) with Deepwater Knights. Luckily this doesn't take very long! There are three methods you can use. However, the first one is vastly superior to the other two.
+You will need to get faction (Ally recommended) with [Deepwater Knights](/faction/242). Luckily this doesn't take very long! There are three methods you can use. However, the first one is vastly superior to the other two.
 
-* Method 1. Kill Atdehim Sqonci in Paineel. He gives +1000 faction and is on a roughly 5 minute respawn. Kill him a couple times to max your faction! He is level 45, fairly easy kill, and located inside the Cleric Guild. One other level 35 NPC next to him will aggro as well.
+* Method 1. Kill [Atdehim Sqonci](/npc/75019) in [Paineel](/zone/75). He gives +1000 faction and is on a roughly 5 minute respawn. Kill him a couple times to max your faction! He is level 45, fairly easy kill, and located inside the Cleric Guild. One other level 35 NPC next to him will aggro as well.
 
-* Method 2. Alternatively, you can kill Skeleton Guards in Paineel. Each kill gives 10 faction. The two in the noob yard instantly respawn. They are level 10 but hit for 120 and have a few thousand hp. You can also go into Paineel and kill guards, whom are weaker, but don't respawn instantly.
+* Method 2. Alternatively, you can kill Skeleton Guards in [Paineel](/zone/75). Each kill gives 10 faction. The two in the noob yard instantly respawn. They are level 10 but hit for 120 and have a few thousand hp. You can also go into Paineel and kill guards, whom are weaker, but don't respawn instantly.
 
-* Method 3. Kill Kobolds in The Warrens. Loot Kobald Molar. They are very common. They do not stack so you'll need a lot of bag space. Turn them into Tiam Khonsir in Erudin. You can use the "FIND" feature to locate him. He is behind the Deepwater Knights building. You will get 5 or 6 faction  per turn-in. This method is the slowest of the three.
+* Method 3. Kill Kobolds in [The Warrens](/zone/101). Loot [Kobold Molar](/item/1761). They are very common. They do not stack so you'll need a lot of bag space. Turn them into [Tiam Khonsir](/npc/24053) in [Erudin](/zone/24). You will get 5 or 6 faction  per turn-in. This method is the slowest of the three.
 
 ### Step 17
-Loot  Torn, Frost-Covered Book from any of the following:
+Loot Torn, [Frost-Covered Book](/item/19070) from any of the following:
 
-* Gorenaire in Dreadlands
-* Lady Vox in Permafrost
-* Faydedar in Timorous Deep
+* [Gorenaire](/npc/86000) in [Dreadlands](/zone/86)
+* [Lady Vox](/npc/73057) in [Permafrost](/zone/73)
+* [Faydedar](/npc/96089) in [Timorous Deep](/zone/96)
 
-Loot Torn, Burnt Book from any of the following:
+Loot [Torn, Burnt Book](/item/19071) from any of the following:
 
-* Talendor in Skyfire
-* Lord Nagafen in Nagafen's Lair
-* Severilous in Emerald Jungle
+* [Talendor](/npc/91093) in [Skyfire](/zone/91)
+* [Lord Nagafen](/npc/32040) in [Nagafen's Lair](/zone/32)
+* [Severilous](/npc/94002) in [Emerald Jungle](/zone/94)
 
 ### Step 18
-Once you have both books, go to North Qeynos and find Rineval Talyas (-160, -345). Give her Torn, Frost-Covered Book, Torn, Burnt Book, and 1000pp to receive Book of Scale (tradable).
+Once you have both books, go to [North Qeynos](/zone/2) and find [Rineval Talyas](/npc/2041) (-160, -345). Give her Torn, Frost-Covered Book, Torn, Burnt Book, and 1000pp to receive [Book of Scale](/item/18302) (tradable).
 
 ### Step 19
-Go to Ocean of Tears and give Book of Scale to Oracle of K`Arnon to receive Miragul's Phylactery.
+Go to [Ocean of Tears](/zone/69) and give Book of Scale to [Oracle of K'Arnon](/npc/69044) to receive [Miragul's Phylactery](/item/19072).
 
 ### Step 20
-Head to Everfrost. You will need to find an opening in the frozen lake and swim to the underwater tunnels. You are looking for Lich of Miragul. He roams around in the caves. He will con as "KOS", however he doesn't attack and you shouldn't need to charm him to do the turn-in. I was able to hand it in with no problems. Give him Miragul's Phylactery to spawn Miragul. Kill Miragul and loot Miragul's Head and Miragul's Robe. 
+Head to [Everfrost](/zone/30). You will need to find an opening in the frozen lake and swim to the underwater tunnels. You are looking for [Lich of Miragul](/npc/30093). He roams around in the caves. He will con as "KOS", however he doesn't attack and you shouldn't need to charm him to do the turn-in. I was able to hand it in with no problems. Give him Miragul's Phylactery to spawn [Miragul](/npc/30094). Kill Miragul and loot [Miragul's Head](/item/19073) and [Miragul's Robe](https://www.pqdi.cc/item/1254). 
 
 ### Step 21
 
-* Head to Plane of Sky. Bring your  SoulFire and  Ghoulbane, and 500pp. You will also need to be keyed for Island 4 (Windmill Island).
+* Head to [Plane of Sky](/zone/71). Bring your  SoulFire and Ghoulbane, and 500pp. You will also need to be keyed for Island 4 (Windmill Island).
 
 * First, go to the Quest Room. You can buy Efreeti's Key from Key Master on Island 1 to access it.
 
-* Say "I wish to be tested by Dirkog" to Dason Goldblade in the Quest Room. Dason Goldblade will give you  Walk with Evil.
+* Say "I wish to be tested by Dirkog" to [Dason Goldblade](/npc/71037) in the Quest Room. Dason Goldblade will give you [Walk with Evil](/item/18527).
 
-    Give  Walk with Evil back to Dason Goldblade to spawn Dirkog Steelhand. Give Dirkog Steelhand 500pp. Doing so will spawn Inte Akera in the Windmill on Island 4.
+    Give  Walk with Evil back to Dason Goldblade to spawn [Dirkog Steelhand](/npc/71077). Give Dirkog Steelhand 500pp. Doing so will spawn [Inte Akera](/npc/71091) in the Windmill on Island 4.
 
     Note 1: Inte Akera only stays up for approx 3.5 minutes, so get to him quickly if you do not have a friend to help spawn him.
 
@@ -218,15 +218,15 @@ Head to Everfrost. You will need to find an opening in the frozen lake and swim 
 
 * Head to up Island 4
 
-    - First, give Inte Akera  SoulFire to receive Inte's First Blessing.
-    - Next, give Inte Akera  Ghoulbane to receive  Inte's Second Blessing.
-    - Finally, give Inte Akera Inte's First Blessing,  Inte's Second Blessing, Miragul's Robe, Miragul's Head to receive Fiery Avenger!
+    - First, give Inte Akera SoulFire to receive [Inte's First Blessing](/item/18033).
+    - Next, give Inte Akera Ghoulbane to receive [Inte's Second Blessing](/item/18034).
+    - Finally, give Inte Akera Inte's First Blessing, Inte's Second Blessing, Miragul's Robe, Miragul's Head to receive [Fiery Avenger](/item/11050)!
 
 ## Fiery Defender
-Fiery Defender is the final reward in the Paladin Epic. It requires that you already have Fiery Avenger.
+[Fiery Defender](/item/10099) is the final reward in the Paladin Epic. It requires that you already have Fiery Avenger.
 
 ### Step 21
-Head to Nektulos Forest with a group. Find Kirak Vil, Say "i am a paladin". He will attack. Kill him and loot Tainted Darksteel Shield.
+Head to [Nektulos Forest](/zone/25) with a group. Find [Kirak Vil](/npc/25301), Say "i am a paladin". He will attack. Kill him and loot [Tainted Darksteel Shield](/item/29002).
 
 - Level 56
 - Hits approx 180
@@ -234,35 +234,35 @@ Head to Nektulos Forest with a group. Find Kirak Vil, Say "i am a paladin". He w
 - Slowable
 
 ### Step 22
-Go to The Hole. You will need to kill Keeper of The Tombs and loot Tainted Darksteel Sword. Supposedly on a 3 day respawn (not confirmed). Take a group or two in Kunark era. Level 55.
+Go to [The Hole](/zone/39). You will need to kill [Keeper of The Tombs](/npc/39116) and loot [Tainted Darksteel Sword](/item/29000). Supposedly on a 3 day respawn (not confirmed). Take a group or two in Kunark era. Level 55.
 
 ### Step 23
-Go to Plane of Hate. Kill thought destroyer (-210, -590) and loot  Tainted Darksteel Breastplate. Respawn timer unconfirmed. Level 55. No PH. A couple of groups might be needed during Kunark?
+Go to [Plane of Hate](/zone/76). Kill [thought destroyer](/npc/76387) (-210, -590) and loot [Tainted Darksteel Breastplate](/item/29001). Respawn timer unconfirmed. Level 55. No PH. A couple of groups might be needed during Kunark?
 
 ### Step 24
 
-1. Go to North Kaladim. Find Jark. Say "I will get your dinner". This spawns Nella Stonebraids nearby in the temple area.
+1. Go to [North Kaladim](/zone/67). Find [Jark](/npc/67056). Say "I will get your dinner". This spawns [Nella Stonebraids](/npc/67090) nearby in the temple area.
 
-2. Say "do you have jark’s dinner" to Nella Stonebraids to receive  Cold Plate of Beef and Bread.
+2. Say "do you have jark’s dinner" to Nella Stonebraids to receive [Cold Plate of Beef and Bread](/item/29007).
 
-3. Go back to Jark and give him  Cold Plate of Beef and Bread to receive Pure Crystal.
+3. Go back to Jark and give him Cold Plate of Beef and Bread to receive [Pure Crystal](/item/29006).
 
 ### Step 25
-Go to Northern Felwithe. Give Elia the Pure  the Tainted Darksteel Shield to receive Gleaming Crested Shield.
+Go to [Northern Felwithe](/zone/61). Give [Elia the Pure](/npc/61013) the Tainted Darksteel Shield to receive [Gleaming Crested Shield](/item/29005).
 
 ### Step 26
-Go to East Freeport and find peasant woman (140, -550). Say "I will take it to him" to receive Bucket of Water. Give the  Bucket of Water to Joshua (also in East Freeport (30, -470)) to receive  Bucket of Pure Water.
+Go to [West Freeport](/zone/9) and find [peasant woman](/npc/9122) (140, -550). Say "I will take it to him" to receive Bucket of Water. Give the  Bucket of Water to Joshua (also in East Freeport (30, -470)) to receive [Bucket of Pure Water](/item/29009).
 
 ### Step 27
-Go to Erudin and locate Reklon Gnallen.
+Go to [Erudin](/zone/24) and locate [Reklon Gnallen](/npc/24044).
 
-- First, give Reklon Gnallen  Bucket of Pure Water and  Tainted Darksteel Sword to receive Gleaming Crested Sword.
+- First, give Reklon Gnallen Bucket of Pure Water and Tainted Darksteel Sword to receive [Gleaming Crested Sword](/item/29003).
 
-- Next, give Reklon Gnallen Pure Crystal and  Tainted Darksteel Breastplate to receive Gleaming Crested Breastplate.
+- Next, give Reklon Gnallen Pure Crystal and Tainted Darksteel Breastplate to receive [Gleaming Crested Breastplate](/item/29004).
 
-- Lastly, give Reklon Gnallen Gleaming Crested Shield,  Gleaming Crested Sword,  Gleaming Crested Breastplate to receive  Mark of Atonement.
+- Lastly, give Reklon Gnallen Gleaming Crested Shield, Gleaming Crested Sword, Gleaming Crested Breastplate to receive [Mark of Atonement](/item/29010).
 
 ### Step 28
-Go to Plane of Fear. Bring your Fiery Avenger and  Mark of Atonement.
+Go to [Plane of Fear](/zone/72). Bring your Fiery Avenger and Mark of Atonement.
 
-Give them both to Irak Altil to receive your Fiery Defender!
+Give them both to Irak Altil to receive your [Fiery Defender](/item/10099)!

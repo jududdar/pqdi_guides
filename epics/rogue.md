@@ -22,7 +22,7 @@
         - [ ]  [Step 2](#step-2): Give Eldreth items in Lake Rathetear
         - [ ]  [Step 3](#step-3): Give Yendar Starpyre items in Steamfont
         - [ ]  [Step 4](#step-4): Give Stanos Translated Parchment in Highpass
-        - [ ]  [Step 5](#step-5): Turn in Sealed Box and kill General V`ghera in Kithicor Forest
+        - [ ]  [Step 5](#step-5): Turn in Sealed Box and kill General V\`ghera in Kithicor Forest
         - [ ]  [Step 6](#step-6): Collect 4 robes
         - [ ]  [Step 7](#step-7): Turn in robes to Vilnius the Small in Western Karana
         - [ ]  [Step 8](#step-8): Collect 4 items, give to Vilnius the Small in Western Karana
@@ -48,7 +48,7 @@ If he aggros on you, just zone over into [South Kaladim](/zone/60). He despawns 
 ### Stained Parchment Bottom
 You will need some pick pocketing skill. 190 confirmed working.
 
-The same strategy applies here. Pickpocket [Tani N`Mar](/npc/42000) in [Neriak Third Gate](/zone/42) until you feel he has nothing left, then come back an hour or two later and repeat the process until you get [Stained Parchment Bottom](/item/28011). 
+The same strategy applies here. Pickpocket [Tani N\`Mar](/npc/42000) in [Neriak Third Gate](/zone/42) until you feel he has nothing left, then come back an hour or two later and repeat the process until you get [Stained Parchment Bottom](/item/28011). 
 
 If he aggros be ready for a long run back to the zone in. It is recommended to stand on the steps behind him while pick pocketing. He despawns around 7PM and respawns around 9PM in-game time. Having a Dark Elf illusion mask is benefical here as well if you are KoS to Dark Elves. 35% chance of having the item. 
 
@@ -91,7 +91,7 @@ Head back to [Highpass Hold](/zone/5) and give [Translated Parchment](/item/1896
 ### Step 5
 [Script Page](/script-entities/kithicor/%23Adjutant_D-kan)
 
-Go to Kithicor Forest. Give the Sealed Box to any of the Dark Elves at the Cabin Ruins to spawn [General V`ghera](/npc/20205) at (827, 2297). These mobs only spawn at night. He hits fairly fast and everything in the cabin will assist when he's pulled. Bring a lot of friends.
+Go to Kithicor Forest. Give the Sealed Box to any of the Dark Elves at the Cabin Ruins to spawn [General V\`ghera](/npc/20205) at (827, 2297). These mobs only spawn at night. He hits fairly fast and everything in the cabin will assist when he's pulled. Bring a lot of friends.
 
 Once he's dead, loot [Generals Pouch](/item/28013).
 

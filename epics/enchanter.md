@@ -57,133 +57,132 @@
 ## Pre-Farmable Items
 ### Purchased Items
 ##### Quill
-Purchased from Hanlore Escaval in South Qeynos
+Purchased from [Hanlore Escaval](/npc/1052) in [South Qeynos](/zone/1)
 ##### Piece of Parchment
-Purchased from Hanlore Escaval in South Qeynos
+Purchased from [Hanlore Escaval](/npc/1052) in [South Qeynos](/zone/1)
 ### Looted Items
 ##### Shining Metallic Robes
-Looted from Yendar Starpyre or the ghoul arch magus.  Tradable.
+Looted from [Yendar Starpyre](/npc/56012) or the [ghoul arch magus](/npc/66156).  Tradable.
 ##### Xolion Rod
-Looted from Vessel Drozlin in East Cabilis
+Looted from [Vessel Drozlin](/npc/106007) in [East Cabilis](/zone/106)
 ##### Innoruuk's Word
-Looted from Verina Tomb in Neriak Third Gate
+Looted from [Verina Tomb](/npc/42112) in [Neriak Third Gate](/zone/42)
 ##### Head of a Prince
-Looted from Prince Selrach Di'Zok in Chardok
+Looted from [Prince Selrach Di'Zok](/npc/103080) in [Chardok](/zone/103)
 ##### Spoon
-Looted from Cazel in South Ro
+Looted from [Cazel](/npc/37157) in [Oasis of Marr](/zone/37)
 ##### Head of the Serpent
-Looted from Wraith of the Shissar in Plane of Fear
+Looted from [Wraith of the Shissar](/npc/72107) in [Plane of Fear](/zone/72)
 ##### Essence of a Vampire
-Looted from a forsaken revenant in Plane of Hate
+Looted from [a forsaken revenant](/npc/76005) in [Plane of Hate](/zone/76)
 ##### Sands of the Mystic
-Looted from The Tangrin in Field of Bone
+Looted from [The Tangrin](/npc/78070) in [Field of Bone](/zone/78)
 ##### Essence of a Ghost
-Looted from the Ghost of Kindle in The Hole
+Looted from [the Ghost of Kindle](/npc/39080) in [The Hole](/zone/39)
 ### Ground Spawns
 ##### The One Key
-Ground spawn in The Overthere
+Ground spawn in [The Overthere](/zone/93)
 ##### Lost Scroll
-Ground spawn in Dalnir
+Ground spawn in [Dalnir](/zone/104)
 ##### Charm and Sacrifice
-Ground spawn in Plane of Sky
+Ground spawn in [Plane of Sky](/zone/71)
 
 ## Jeb's Seal
 
 ### Step 1A
-Go to the Qeynos Catacombs and find Reania Jukle (Enchnater Guildmaster) at +390, -390. The easiest way to get to her is to enter the Qeynos Catacombs from the warrior arena area in South Qeynos.
-Say "find your own supply" to receive Empty Ink Vial.
+Go to the [Qeynos Catacombs](/zone/45) and find [Reania Jukle](/npc/45082) (Enchnater Guildmaster) at +390, -390. The easiest way to get to her is to enter the Qeynos Catacombs from the warrior arena area in South Qeynos.
+Say "find your own supply" to receive [Empty Ink Vial](/item/10626).
 
 ### Step 1B
-Go to Lower Guk and charm a ghoul scribe. Give him Empty Ink Vial to receive Ink of the Dark. To avoid the other frogs killing him while he's charmed you can mez him first, kill the adds, then charm him afterwards.
+Go to [Lower Guk](/zone/66) and charm [a ghoul scribe](/npc/66170). Give him Empty Ink Vial to receive [Ink of the Dark](/item/10601). To avoid the other frogs killing him while he's charmed you can mez him first, kill the adds, then charm him afterwards.
 
-### Step1C
-Loot Shining Metallic Robes (tradable) from either the ghoul arch magus or from Yendar Starpyre. the ghoul arch magus is a rare spawn in Lower Guk, his PH is a kor ghoul wizard. The Robe is his rare drop. Yendar Starpyre  is a roaming level 65 gnome in Steamfont Mountains. He always drops the robe. If you have a few friends to help, it's easier to kill Yendar Starpyre. The robe is tradable as well, so check the Bazaar.
+### Step 1C
+Loot [Shining Metallic Robes](/item/1360) (tradable) from either the [ghoul arch magus](/npc/66156) or from [Yendar Starpyre](/npc/56012). the ghoul arch magus is a rare spawn in [Lower Guk](/zone/66), his PH is a kor ghoul wizard. The Robe is his rare drop. Yendar Starpyre  is a roaming level 65 gnome in Steamfont Mountains. He always drops the robe. If you have a few friends to help, it's easier to kill Yendar Starpyre. The robe is tradable as well, so check the Bazaar.
 
 ### Step 1D
-Give Shining Metallic Robes to Rilgor Plegnog (Enchanter Guildmaster) in the north area of Ak'Anon to receive Mechanical Pen. You can use "Find" to locate him.
-
+Give Shining Metallic Robes to [Rilgor Plegnog](/npc/55121) (Enchanter Guildmaster) in the north area of [Ak'Anon](/zone/55) to receive [Mechanical Pen](/item/10600). You can use "Find" to locate him.
 
 ### Step 1E
-Purchase   Quill and   Piece of Parchment from a vendor. The vendor I used was Hanlore Escaval (+300, -570) in South Qeynos.
+Purchase [Quill](/item/13051) and [Piece of Parchment](/item/13063) from a vendor. The vendor I used was [Hanlore Escaval](/npc/1052) (+300, -570) in [South Qeynos](/zone/1).
 
-Give both  Quill and   Piece of Parchment to Chrislin Baker in West Karana. She is located inside a hut. She will despawn and give you a bandit sash, which is not used for this quest. However, this turn-in also triggers Thrackin Griften ( +860, -11570) to spawn across the zone. Kill him and loot White Paper.
+Give both Quill and Piece of Parchment to [Chrislin Baker](/npc/12074) in [West Karana](/zone/12). She is located inside a hut. She will despawn and give you a [bandit sash](/item/12100), which is not used for this quest. However, this turn-in also triggers [Thrackin Griften](/npc/12001) ( +860, -11570) to spawn across the zone. Kill him and loot [White Paper](/item/10602).
 
 Thrackin Griften is level 55, 20K HP, Hits 150+, and somewhat resistant to spells.
 
 ### Step 1F
-Go to Erudin and find Stofo Olan. He is inside the Vastly Deep Inn on the 2nd floor, last door on the right. Give him Ink of the Dark, Mechanical Pen,   White Paper to receive Copy of Notes.
+Go to [Erudin](/zone/24) and find [Stofo Olan](/npc/24013). He is inside the Vastly Deep Inn on the 2nd floor, last door on the right. Give him Ink of the Dark, Mechanical Pen, White Paper to receive [Copy of Notes](/item/10603).
 
 ### Step 1G
-Go to Burning Woods and find a sarnak imitator (-1200, -4000). Give him  Copy of Notes to receive Jeb's Seal.
+Go to [Burning Woods](/zone/87) and find [a sarnak imitator](/npc/87001) (-1200, -4000). Give him  Copy of Notes to receive [Jeb's Seal](/item/10604).
 
 ## First Piece of Staff
 
 ### Step 2A
-Go to East Cabilis and kill Vessel Drozlin. Loot Xolion Rod. He is located in the sewers. In order to access the sewers you need to run through the red glowing wall in the Shaman Guild Master area, then go down a series of ladders. Make sure you have levitate as well. When you get to the 4 way cross-road, take the right path and levitate across the pit. He can run at low hp so the best strat is to pull him into the nearby water so that he does not path back through the 1-way hidden walls when he runs.
+Go to [East Cabilis](/zone/106) and kill [Vessel Drozlin](/npc/106007). Loot [Xolion Rod](/item/10606). He is located in the sewers. In order to access the sewers you need to run through the red glowing wall in the Shaman Guild Master area, then go down a series of ladders. Make sure you have levitate as well. When you get to the 4 way cross-road, take the right path and levitate across the pit. He can run at low hp so the best strat is to pull him into the nearby water so that he does not path back through the 1-way hidden walls when he runs.
 - Level 60
 - Hits 300+
 - 18K HP
 - Fairly Resistant to spells
 
 ### Step 2B
-Go to Neriak Third Gate and kill Verina Tomb. Loot Innoruuk's Word. She spawns in the Cleric Guild Master area in the first section of the zone.
+Go to [Neriak Third Gate](/zone/42) and kill [Verina Tomb](/npc/42112). Loot [Innoruuk's Word](/item/10607). She spawns in the Cleric Guild Master area in the first section of the zone.
 
 ### Step 2C
-Go to Chardok and kill Prince Selrach Di'Zok. Loot Head of a Prince. Respawn time 2 hours. Level 61. A group of PoP geared players should be able to kill him with ease. You'll need a picklock to open his door.
+Go to [Chardok](/zone/103) and kill [Prince Selrach Di'Zok](/npc/103080). Loot [Head of a Prince](/item/10627). Respawn time 2 hours. Level 61. A group of PoP geared players should be able to kill him with ease. You'll need a picklock to open his door.
 
-Find Joren Nobleheart in Southern Felwithe. In the teleport pad room, take the one straight ahead. Give him Head of a Prince to receive Chalice of Kings.
+Find [Joren Nobleheart](/npc/62000) in [Southern Felwithe](/zone/62). In the teleport pad room, take the one straight ahead. Give him Head of a Prince to receive [Chalice of Kings](/item/10608).
 
 ### Step 2D
-Go to Oggok. Look for the ground spawn Large Muddy Sandals at +220, +370. Next, find Bozlum Blossom (in Oggok) and give her the Large Muddy Sandals to receive Scribbled Parchment.
+Go to [Oggok](/zone/49). Look for the ground spawn [Large Muddy Sandals](/item/10628) at +220, +370. Next, find [Bozlum Blossom](/npc/49023) (in Oggok) and give her the Large Muddy Sandals to receive [Scribbled Parchment](/item/10629).
 
-Find Brokk Boxtripper, who is right next to where you just picked up the ground spawn. Give him
-Scribbled Parchment to receive Gift to Bozlum. Go back to Bozlum Blossom and give her Gift to Bozlum to receive Snow Blossoms.
+Find [Brokk Boxtripper](/npc/49061), who is right next to where you just picked up the ground spawn. Give him
+Scribbled Parchment to receive [Gift to Bozlum](/item/10630). Go back to Bozlum Blossom and give her Gift to Bozlum to receive [Snow Blossoms](/item/10609).
 
 ### Step 2E
-Go to The Overthere and find Modani Qu`Loni. He is located in an underground tunnel in the Gorge. Give him  Jeb's Seal. He will hand it back. Then say "I need a sack" to receive  Enchanters Sack.
+Go to [The Overthere](/zone/93) and find [Modani Qu'Loni](/npc/93001). He is located in an underground tunnel in the Gorge. Give him [Jeb's Seal](/item/10604). He will hand it back. Then say "I need a sack" to receive [Enchanters Sack](/item/17861).
 
-Combine  Xolion Rod,  Innoruuk's Word,  Chalice of Kings,  Snow Blossoms in Enchanters Sack to receive  Sack for Modani. Give Modani Qu`Loni  Sack for Modani to receive  1st Piece of Staff.
+Combine Xolion Rod, Innoruuk's Word, Chalice of Kings, Snow Blossoms in Enchanters Sack to receive [Sack for Modani](/item/10635). Give Modani Qu'Loni Sack for Modani to receive [1st Piece of Staff](/item/10610).
 
 ## Second Piece of Staff
 
 ### Step 3A
-Go to South Ro and Kill Cazel. Loot Spoon. Always Drops. He roams all around the desert area of the zone. He has a high regeneration rate, but is an easy kill with a few people in era. Hits for 200's.
+Go to [Oasis of Marr](/zone/37) and Kill [Cazel](/npc/37157). Loot [Spoon](/item/10614). Always Drops. He roams all around the desert area of the zone. He has a high regeneration rate, but is an easy kill with a few people in era. Hits for 200's.
 
 ### Step 3B
-Go to The Overthere and pick up the ground spawn The One Key. You'll need levitate as it's located on a small plateu coming out of the canyon.
+Go to [The Overthere](/zone/93) and pick up the ground spawn [The One Key](/item/10615). You'll need levitate as it's located on a small plateu coming out of the canyon.
 
 ### Step 3C
-Go to Dalnir and find the ground spawn  Lost Scroll. Getting there is a bit tricky if you are not familiar with the zone, you'll need to drop down a tomb and go through a fake wall.
+Go to [Dalnir](/zone/104) and find the ground spawn [Lost Scroll](/item/10616). Getting there is a bit tricky if you are not familiar with the zone, you'll need to drop down a tomb and go through a fake wall.
 
 ### Step 3D
-Head to Quest Island in Plane of Sky. In the corner of the room on a table you'll find the ground spawn Charm and Sacrifice.
+Head to Quest Island in [Plane of Sky](/zone/71). In the corner of the room on a table you'll find the ground spawn [Charm and Sacrifice](/item/10617).
 
 ### Step 3E
-Head to Ak'anon and find Clockwork VIIX in the North area of the zone. Give him  Jeb's Seal. He will hand it back. Then say "I need a sack" to receive  Enchanters Sack.
+Head to [Ak'Anon](/zone/55) and find [Clockwork VIIX](/npc/55017) in the North area of the zone. Give him Jeb's Seal. He will hand it back. Then say "I need a sack" to receive [Enchanters Sack](/item/17861).
 
-Combine  Spoon,  The One Key,  Lost Scroll,  Charm and Sacrifice in Enchanters Sack to create Sack for Mizzle
+Combine Spoon, The One Key, Lost Scroll, Charm and Sacrifice in Enchanters Sack to create [Sack for Mizzle](/item/10636).
 
-Give  Clockwork VIIX  Sack for Mizzle to receive 2nd Piece of Staff.
+Give Clockwork VIIX Sack for Mizzle to receive [2nd Piece of Staff](/item/10611).
 
 ## Third Piece of Staff
 
 ### Step 4A
-Find Nadia Starfeast in Fironia Vie.  Give her Jeb's Seal. She will hand it back. Say the following to get four different gems:
+Find [Nadia Starfeast](/npc/84116) in [Firiona Vie](/zone/84).  Give her Jeb's Seal. She will hand it back. Say the following to get four different gems:
 
 * `diamond`
 * `sapphire`
 * `emerald`
 * `ruby`
 
-You'll receive Dull Diamond, Dull Sapphire, Dull Emerald, Dull Ruby. You'll need to charm various mobs and turn them in to receive the "Enchanted" versions.
+You'll receive [Dull Diamond](/item/10631), [Dull Sapphire](/item/10632), [Dull Emerald](/item/10634), [Dull Ruby](/item/10633). You'll need to charm various mobs and turn them in to receive the "Enchanted" versions.
 
 ### Step 4B
-Head to Kaesora and find spectral librarian. Charm him and give him Dull Diamond to receive Enchanted Diamond.
+Head to [Kaesora](/zone/88) and find [spectral librarian](/npc/88000). Charm him and give him Dull Diamond to receive [Enchanted Diamond](/item/10618).
 
 Kill mobs on the ground floor of the library until he spawns. I have also personally seen mobs despawn on their own and spectral librarian spawn in their place, so he seems to have more than one method of spawning.  PH's can be Guardian of Xalgoz and tortured librarian.
 
 ### Step 4C
-Go to Skyfire Mountains and find Felia Goldwing. Her PH can be any of the named in the zone. She is a rare spawn. A tracker is recommended. Charm her and give her Dull Sapphire to receive Enchanted Sapphire.
+Go to [Skyfire Mountains](/zone/91) and find [Felia Goldwing](/npc/91081). Her PH can be any of the named in the zone. She is a rare spawn. A tracker is recommended. Charm her and give her Dull Sapphire to receive [Enchanted Sapphire](/item/10619).
 
 PH's:
 
@@ -197,46 +196,45 @@ PH's:
 * Guardian of Felia
 
 ### Step 4D
-Go to The Overthere and find Impaler Tzilug. 24 hour respawn. No PH. He is in the canyon tunnels. Charm him and give him Dull Emerald to receive Enchanted Emerald.
+Go to [The Overthere](/zone/93) and find [Impaler Tzilug](/npc/93149). 24 hour respawn. No PH. He is in the canyon tunnels. Charm him and give him Dull Emerald to receive [Enchanted Emerald](/item/10621).
 
 ### Step 4E
-Go to City of Mist and find Wraith of Jaxion. He spawns at the very end of the floating islands. You'll need a pick lock to get through some of the locked doors. His PH circles around the building. Respawn 16 minutes. Charm him and give him Dull Ruby to receive Enchanted Ruby.
+Go to [City of Mist](/zone/90) and find [Wraith of Jaxion](/npc/90004). He spawns at the very end of the floating islands. You'll need a pick lock to get through some of the locked doors. His PH circles around the building. Respawn 16 minutes. Charm him and give him Dull Ruby to receive [Enchanted Ruby](/item/10620).
 
 ### Step 4F
-Go back to Nadia Starfeast in Fironia Vie. Kunark - Gates servers you can find her in the out on the port/dock. Omens+ servers can find her on the east side of the zone. Give her Jeb's Seal. She will hand it back. Then say "I need a sack" to receive  Enchanters Sack.
+Go back to [Nadia Starfeast](/npc/84116) in [Firiona Vie](/zone/84). Kunark - Gates servers you can find her in the out on the port/dock. Give her Jeb's Seal. She will hand it back. Then say "I need a sack" to receive [Enchanters Sack](/item/17861).
 
-Combine  Enchanted Emerald,  Enchanted Ruby,  Enchanted Sapphire, Enchanted Diamond  in Enchanters Sack to create Sack for Nadia.
+Combine Enchanted Emerald, Enchanted Ruby, Enchanted Sapphire, Enchanted Diamond  in Enchanters Sack to create [Sack for Nadia](/item/10637).
 
-Give Nadia Starfeast  Sack for Nadia to receive 3rd Piece of Staff
+Give Nadia Starfeast Sack for Nadia to receive [3rd Piece of Staff](/item/10612).
 
 ## Fourth Piece of Staff
 
 ### Step 5A
-Go to Plane of Fear and kill Wraith of a Shissar. It is located at the top of the large temple inside the fire ring. As of 2/17/21 patch she will spawn 9 hours after being killed, and 5-14 after a zone or server reset. No PH. Loot Head of the Serpent.
+Go to [Plane of Fear](/zone/72) and kill [Wraith of a Shissar](/npc/72107). It is located at the top of the large temple inside the fire ring. As of 2/17/21 patch she will spawn 9 hours after being killed, and 5-14 after a zone or server reset. No PH. Loot [Head of the Serpent](/item/10622).
 
 ### Step 5B
-Go to Plane of Hate and kill a forsaken revenant. Loot Essence of a Vampire. Rare drop. These mobs are spread all over the zone. Both male and females are known to drop it.
+Go to [Plane of Hate](/zone/76) and kill [a forsaken revenant](/npc/76005). Loot [Essence of a Vampire](/item/10624). Rare drop. These mobs are spread all over the zone. Both male and females are known to drop it.
 
 ### Step 5C
-Go to Field of Bone and kill The Tangrin. Loot Sands of the Mystics. It is located on an island at the north side of the zone.  Level 54.  Hits 230. Estimated 32K HP. Respawn estimated 12 hours.
+Go to [Field of Bone](/zone/78) and kill [The Tangrin](/npc/78070). Loot [Sands of the Mystics](/item/10625). It is located on an island at the north side of the zone.  Level 54.  Hits 230. Estimated 32K HP. Respawn estimated 12 hours.
 
 ### Step 5D
-Go to The Hole and kill the Ghost of Kindle. Loot Essence of a Ghost. Level 50.
+Go to [The Hole](/zone/39) and kill [the Ghost of Kindle](/npc/39080). Loot [Essence of a Ghost](/item/10623). Level 50.
 
 Depending on  what expansion your server is on you may find her at different locations. The Hole 1.0 spot isn't confirmed but she may be in the Undead Tower (see map). If not, then you'll find her in the Hole 2.0 version spot.
 
 ### Step 5E
-In The Hole you'll find Polzin Mrid.
+In [The Hole]([The Hole](/zone/39)) you'll find [Polzin Mrid](/npc/39063).
 
+1. Give him Jeb's Seal. He will hand it back. Then say "I need a sack" to receive [Enchanters Sack](/item/17861).
 
-1. Give him Jeb's Seal. He will hand it back. Then say "I need a sack" to receive  Enchanters Sack.
+2. Combine Head of the Serpent,  Essence of a Vampire, Sands of the Mystics, Essence of a Ghost to create [Sack for Polzin](/item/10638).
 
-2. Combine Head of the Serpent,  Essence of a Vampire, Sands of the Mystics, Essence of a Ghost to create Sack for Polzin.
+3. Give Polzin Mrid Sack for Polzin to receive [4th Piece of Staff](/item/10613).
 
-3. Give Polzin Mrid Sack for Polzin to receive 4th Piece of Staff.
-
-4. Before you leave, get an extra Enchanters Sack from Polzin Mrid and use it to combine 1st Piece of Staff, 2nd Piece of Staff, 3rd Piece of Staff, 4th Piece of Staff to create Bundle of Staves.
+4. Before you leave, get an extra Enchanters Sack from Polzin Mrid and use it to combine 1st Piece of Staff, 2nd Piece of Staff, 3rd Piece of Staff, 4th Piece of Staff to create [Bundle of Staves](/item/10639).
 
 ## Final Turn In
 
-Go back to Burning Woods and find a sarnak imitator (-1200, -4000). Give him Bundle of Staves to receive Staff of the Serpent!
+Go back to [Burning Woods](/zone/87) and find [a sarnak imitator](/npc/87001) (-1200, -4000). Give him Bundle of Staves to receive [Staff of the Serpent](/item/10650)!

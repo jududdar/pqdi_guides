@@ -41,187 +41,186 @@
 ## Pre-Farmable Items
 
 ##### Chilled Tundra Root
-Foraged in Everfrost
+Foraged in [Everfrost](/zone/30)
 
 ##### Ripened Heartfruit
-Foraged in Greater Faydark
+Foraged in [Greater Faydark](/zone/54)
 
 ##### Speckled Molded Mushroom
-Foraged in Innothule Swamp
+Foraged in [Innothule Swamp](/zone/46)
 
 ##### Sweetened Mudroot
-Foraged in Misty Thicket
+Foraged in [Misty Thicket](/zone/33)
 
-##### Batwings x 3000
-Bought from merchants
+##### Bat Wings x 3000
+Bought from [merchants](/item/13068)
 
 ##### Rose of Firiona
-Foraged in Firiona Vie
+Foraged in [Firiona Vie](/zone/84)
 
 ##### Jade Reaver
-Looted from a black reaver in City of Mist
+Looted from [a black reaver](/npc/90005) in [City of Mist](/zone/90)
 
 ##### Pulsing Green Stone
-Looted from Venril Sathir spawned from Venril Sathir's Remains in Karnor's Castle
+Looted from Venril Sathir spawned from [Venril Sathir's Remains](/npc/102099) in [Karnor's Castle](/zone/102)
 
 ##### Swirling Sphere of Color
-Looted from an essence tamer in Plane of Sky (Island 4)
+Looted from [an essence tamer](/npc/71071) in [Plane of Sky]() (Island 4)
 
 ##### Shattered Emerald of Corruption
-Looted from nameds in Plane of Hate
+Looted from nameds in [Plane of Hate](/zone/76)
 
 ## The Quest
 
 ### Step 1
-Go to Burning Woods and locate Telin Darkforest (+3240, +2880). Say "action" to receive Worn Note.
+Go to [Burning Woods](/zone/87) and locate [Telin Darkforest](/npc/87082) (+3240, +2880). Say "action" to receive [Worn Note](/item/20472).
 
-You may need to do the Muffin for Pandos quest in West Freeport to get faction if he doesn't speak to you. You need at least high amiable (possibly higher).
+You may need to do the [Muffin for Pandos](/script-entities/freportw/Pandos_Flintside) quest in [West Freeport](/zone/9) to get faction if he doesn't speak to you. You need at least high amiable (possibly higher).
 
 ### Step 2
 
-Go to Greater Faydark  to Loc: +1535, +570. At this spot Faelin Bloodbriar spawns. Her PH is orc pawn. Respawn is 2.5 minutes. Clear orc pawns in the area until you find the right PH. Once found, kill the PH until Faelin Bloodbriar spawns. Give her Worn Note to receive Faelin`s Ring.
+Go to [Greater Faydark](/zone/54)  to Loc: +1535, +570. At this spot [Faelin Bloodbriar](/npc/54237) spawns. Her PH is orc pawn. Respawn is 2.5 minutes. Clear orc pawns in the area until you find the right PH. Once found, kill the PH until Faelin Bloodbriar spawns. Give her Worn Note to receive [Faelin's Ring](/item/20446).
 
-**You can also forage a Ripened Heartfruit while here (See Step 7).**
+**You can also forage a [Ripened Heartfruit](/item/20464) while here (See Step 7).**
 
 
  
 
 ### Step 3
-Go to Kithikor Forest and find Giz X'Tin. He roams so you'll need to track him. Give him Faelin's Ring to receive Dark Metal Coin. Upon turnin Teir`Dal Reaver will spawn and attack. You do not have to kill it for anything.
+Go to [Kithikor Forest](/zone/20) and find [Giz X'Tin](/npc/20058). He roams so you'll need to track him. Give him Faelin's Ring to receive [Dark Metal Coin](/item/20447). Upon turnin [Teir'Dal Reaver](/npc/20190) will spawn and attack. You do not have to kill it for anything.
 
 ### Step 4
-Go back to Telin Darkforest (+3240, +2880) in Burning Woods. Give him Dark Metal Coin to receive  Worn Dark Metal Coin.
+Go back to [Telin Darkforest](/npc/87082) (+3240, +2880) in [Burning Woods](/zone/87). Give him Dark Metal Coin to receive [Worn Dark Metal Coin](/item/20448).
 
 ### Step 5
 
-1. Head to East Karana and find Althele (-3660, -1590). Give her Worn Dark Metal Coin to receive Braided Grass Amulet. This will also spawn Sionae nearby (-2590, -1600).
+1. Head to [East Karana](/zone/15) and find [Althele](/npc/15044) (-3660, -1590). Give her Worn Dark Metal Coin to receive [Braided Grass Amulet](/item/20450). This will also spawn [Sionae](/npc/15178) nearby (-2590, -1600).
 
-2. Give Sionae (-2590, -1600) Braided Grass Amulet to receive Frayed Braided Grass Amulet. This will also spawn Nuien (-3650, +300).
+2. Give [Sionae](/npc/15178) (-2590, -1600) [Braided Grass Amulet](/item/20450) to receive [Frayed Braided Grass Amulet](/item/20451). This will also spawn [Nuien](/npc/15167) (-3650, +300).
 
-3. Give Nuien (-3650, +300) Frayed Braided Grass Amulet, he will return it. This will also spawn Teloa (-3850, -2850).
+3. Give [Nuien](/npc/15167) (-3650, +300) [Frayed Braided Grass Amulet](/item/20451), he will return it. This will also spawn [Teloa](/npc/15170) (-3850, -2850).
 
-4. Give Teloa (-3850, -2850) Frayed Braided Grass Amulet. Follow her back to the "gathering spot". At this point Dark Elf Corruptor and two Dark Elf Reavers will spawn. Kill them and loot Fleshbound Tome from Dark Elf Corrupter.
+4. Give [Teloa](/npc/15170) (-3850, -2850) [Frayed Braided Grass Amulet](/item/20451). Follow her back to the "gathering spot". At this point [Dark Elf Corruptor](/npc/15153) and two [Dark Elf Reavers](/npc/15000) will spawn. Kill them and loot [Fleshbound Tome](/item/20452) from [Dark Elf Corrupter](/npc/15153).
 
-5. Give Fleshbound Tome to Althele to receive Earth Stained Note.
+5. Give [Fleshbound Tome](/item/20452) to [Althele](/npc/15044) to receive [Earth Stained Note](/item/18959).
 
 
 ### Step 6
-Go to Misty Thicket and track down Ella Foodcrafter. Give her Earth Stained Note to receive Shiny Tin Bowl.
+Go to [Misty Thicket](/zone/33) and track down [Ella Foodcrafter](/npc/33077). Give her Earth Stained Note to receive [Shiny Tin Bowl](/item/17860).
 
-**You can also forage a Sweetened Mudroot while here (See Step 7)**
+**You can also forage a [Sweetened Mudroot](/item/20465) while here (See Step 7)**
 
 ### Step 7
 
 Go to the following zones and forage the following items:
 
-* Everfrost - Chilled Tundra Root
-* Greater Faydark - Ripened Heartfruit
-* Innothule Swamp - Speckled Molded Mushroom
-* Misty Thicket - Sweetened Mudroot
+* [Everfrost](/zone/30) - [Chilled Tundra Root](/item/20467)
+* [Greater Faydark](/zone/54) - [Ripened Heartfruit](/item/20464)
+* [Innothule Swamp](/zone/46) - [Speckled Molded Mushroom](/item/20466)
+* [Misty Thicket](/zone/33) - [Sweetened Mudroot](/item/20465)
 
-Once all 4 items have been obtained, combine them Shiny Tin Bowl to create Hardended Mixture. Keep the bowl as well.
+Once all 4 items have been obtained, combine them [Shiny Tin Bowl](/item/17860) to create [Hardened Mixture](/item/20473). Keep the bowl as well.
 
 ### Step 8
-Next you need Keepers of the Art Faction. Buy 3,000 Batwing from any merchant (Ex: Darius Gandril, West Trade Building, Plane of Knowledge.) Give them to Niola Impholder in South Felwithe. You can reach her via the middle teleport pad. You can turn them all at once stacked together. This should be enough to get you to Ally with Keepers of the Art. Ally isn't necessary (only need Amiable), but I'd just go all out since it is so easy to obtain. You'll also get a bunch of copies of level 1 Mage Spell: Flare upon turn-in so have some bag space. Just sell them.
+Next you need [Keepers of the Art](/faction/275) Faction. Buy 3,000 [Bat Wing](/item/13068) from any merchant (Ex: Darius Gandril, West Trade Building, Plane of Knowledge.) Give them to [Niola Impholder](/npc/62021) in [South Felwithe](/zone/62). You can reach her via the middle teleport pad. You can turn them all at once stacked together. This should be enough to get you to Ally with Keepers of the Art. Ally isn't necessary (only need Amiable), but I'd just go all out since it is so easy to obtain. You'll also get a bunch of copies of level 1 Mage Spell: Flare upon turn-in so have some bag space. Just sell them.
 
-**You must be at least Indifferent faction to do this batwing turn-in quest.** If you are not yet indifferent, you are likely close. You can check with /faction. Kill a few of the following NPC's in the link to get to Indifferent, at that point you'll be able to turn in the Batwings to get up to Amiable+. I just killed the ones in Neriak Foreign Quarter.
+**You must be at least Indifferent faction to do this batwing turn-in quest.** If you are not yet indifferent, you are likely close. You can check with /faction. Kill a few of the following NPC's in the link to get to Indifferent, at that point you'll be able to turn in the Batwings to get up to Amiable+. I just killed the ones in [Neriak Foreign Quarter](/zone/40).
 
 https://everquest.allakhazam.com/db/faction.html?faction=22
 
 
 ### Step 9
 
-Go to Timorous Deep and locate Alrik Farsight. He roams near the Chessboard. Take the dock from Butcherblock to get there the quickest. Say "i will take the artifact" to receive Crushed Pot. You need at least Amiable faction with Keepers of the Art for him to respond.
+Go to [Timorous Deep](/zone/96) and locate [Alrik Farsight](/npc/96032). He roams near the Chessboard. Take the dock from [Butcherblock](/zone/68) to get there the quickest. Say "i will take the artifact" to receive [Crushed Pot](/item/20457). You need at least Amiable faction with [Keepers of the Art]([Keepers of the Art](/faction/275)) for him to respond.
 
 ### Step 10
 
 Now for a little running around:
 
-* Go to South Felwithe and give Farios Elianos your Crushed Pot to receive Grocery List.
+* Go to [South Felwithe](/zone/62) and give [Farios Elianos](/npc/62018) your Crushed Pot to receive [Grocery List](/item/20458).
 
-* Go to North Felwithe and give Merchant Nora (can use find) Grocery List to receive Bag of Provisions.
+* Go to [North Felwithe](/zone/61) and give [Merchant Nora](/npc/61034) Grocery List to receive [Bag of Provisions](/item/20459).
 
-* Go back to South Felwithe and give Farios Elianos Bag of Provisions to receive Receipt.
+* Go back to [South Felwithe](/zone/62) and give [Farios Elianos](/npc/62018) [Bag of Provisions](/item/20459) to receive [Receipt](/item/20474).
 
-* Go back to Timorous Deep and give Alrik Farsight (near Chessboard - Take Butcherblock Dock) Receipt to receive Ancient Pattern.
+* Go back to [Timorous Deep](/zone/96) and give [Alrik Farsight](/npc/96032) (near Chessboard - Take Butcherblock Dock) Receipt to receive [Ancient Pattern](/item/18960).
 
 ### Step 11
 
-1. Go to Firiona Vie and forage Rose of Firiona.
+1. Go to [Firiona Vie](/zone/84) and forage [Rose of Firiona](/item/12774).
 
-2. Go to Surefall Glade and find Merdan Fleetfoot. Say "Who is Niera" then give him Rose of Firiona to receive Wood Painting.
+2. Go to [Surefall Glade](/zone/3) and find [Merdan Fleetfoot](/npc/3017). Say "Who is Niera" then give him [Rose of Firiona](/item/12774) to receive [Wood Painting](/item/20475).
 
-3. Go to Frontier Mountains. Along the outside south wall of the Giant Fort  you will find a human skeleton (-820, -900). Give it Wood Painting to receive Silver Chained Locket.
+3. Go to [Frontier Mountains](/zone/92). Along the outside south wall of the Giant Fort you will find [a human skeleton](/npc/92084) (-820, -900). Give it Wood Painting to receive [Silver Chained Locket](/item/20476).
 
-4. Go back to Surefall Glade, this time find Niera Farbreeze. Give her Silver Chained Locket to receive Platinum Speckled Powder.
+4. Go back to [Surefall Glade](/zone/3), this time find [Niera Farbreeze](/npc/3018). Give her Silver Chained Locket to receive [Platinum Speckled Powder](/item/20456).
 
 ### Step 12
 
-Go to City of Mist and kill a black reaver until you get Jade Reaver. They spawn in different parts of the zone behind the locked door. Rare Drop. It is recommended to bring a pick lock class with you. It is also tradable so check the Bazaar.
+Go to [City of Mist](/zone/90) and kill [a black reaver](/npc/90005) until you get [Jade Reaver](/item/5664). They spawn in different parts of the zone behind the locked door. Rare Drop. It is recommended to bring a pick lock class with you. It is also tradable so check the Bazaar.
 
-Go to North Kaladim and give Jade Reaver to Kinlo Strongarm to receive Enchanted Clay.
+Go to [North Kaladim](/zone/67) and give Jade Reaver to [Kinlo Strongarm](/npc/67030) to receive [Enchanted Clay](/item/20455).
 
 ### Step 13
 
-1. Combine the Ancient Pattern (from Step 10), Platinum Speckled Powder (From Step 11), and Enchanted Clay (From Step 12) in a Pottery Wheel to create Runecrested Bowl. This is a no-fail combine.
+1. Combine the Ancient Pattern (from Step 10), Platinum Speckled Powder (From Step 11), and Enchanted Clay (From Step 12) in a Pottery Wheel to create [Runecrested Bowl](/item/20460). This is a no-fail combine.
 
-2. Go to Misty Thicket and track down Ella Foodcrafter. Give her Hardended Mixture (From Step 7) and Runecrested Bowl (From Step 13) to receive Softly Glowing Stone.
+2. Go to [Misty Thicket](/zone/33) and track down [Ella Foodcrafter](/npc/33077). Give her Hardended Mixture (From Step 7) and Runecrested Bowl (From Step 13) to receive [Softly Glowing Stone](/item/20462).
 
 ### Step 14
 
 Read this entire Step before beginning.
 
-Bring two items to Karnor's Castle:
+Bring two items to [Karnor's Castle](/zone/102):
 
-Summoned: Firefly Globe: Summoned by Spell: Dance of the Fireflies (DRU (1) / RNG (10) Spell). It can only be summoned at night. This is a TEMP item.
+[Summoned: Firefly Globe](/item/10295): Summoned by [Spell: Dance of the Fireflies](/item/15237) (DRU (1) / RNG (10) Spell). It can only be summoned at night. This is a TEMP item.
 
-Spell: Resurrection: Level 47 Cleric spell - bring the "scroll" of the spell itself. You can buy it from many Cleric Spell vendors.
+[Spell: Resurrection](/item/15392): Level 47 Cleric spell - bring the "scroll" of the spell itself. You can buy it from many Cleric Spell vendors.
 
-Kill Venril Sathir in Karnor's Castle. The version of Venril Sathir you're looking for is the "triggered version". This triggered version is spawned from Venril Sathir's remains who spawns approx 12 hours (maybe 20? - see note below or 2/17/21 patch notes) after the death of the regular Venril Sathir.
+Kill [Venril Sathir](/npc/102099) in [Karnor's Castle](/zone/102). The version of Venril Sathir you're looking for is the "triggered version". This triggered version is spawned from Venril Sathir's remains who spawns approx 12 hours (maybe 20? - see note below or 2/17/21 patch notes) after the death of the regular Venril Sathir.
 
-Once you find Venril Sathir's remains, give it Summoned: Firefly Globe (Ranger and Druid spell, can only be summoned at night). This will spawn Spirit of Venril Sathir. Give Spirit of Venril Sathir the level 47 Cleric Spell: Resurrection to spawn Venril Sathir. Kill Venril Sathir and loot Pulsing Green Stone. He will drop two but you only need one. They are lore so bring someone along with you who might need one also.
+Once you find Venril Sathir's remains, give it Summoned: Firefly Globe (Ranger and Druid spell, can only be summoned at night). This will spawn [Spirit of Venril Sathir](/npc/102019). Give Spirit of Venril Sathir the level 47 Cleric Spell: Resurrection to spawn [Venril Sathir](/npc/102021). Kill Venril Sathir and loot [Pulsing Green Stone](/item/20461). He will drop two but you only need one. They are lore so bring someone along with you who might need one also.
 
-As of 2/17/21 Patch: Venril Sathir's remains will spawn every 20 hours (assuming this means after alive VS is killed).
 
 ### Step 15
 
-1. Go to Firiona Vie and locate Foloal Stormforest. She will be either in the ruins or the city depending on what expansion your server is on. It's easiest to just track her. Give her Pulsing Green Stone (From Step 14) and Softly Glowing Stone (From Step 13) to receive Warmly Glowing Stone.
+1. Go to [Firiona Vie](/zone/84) and locate [Foloal Stormforest](/npc/84207). She will be either in the ruins or the city depending on what expansion your server is on. It's easiest to just track her. Give her Pulsing Green Stone (From Step 14) and Softly Glowing Stone (From Step 13) to receive [Warmly Glowing Stone](/item/20468).
 
-2. Go back to Burning Woods and find Telin Darkforest. Give him Warmly Glowing Stone to receive  Ancient Longsword.
+2. Go back to [Burning Woods](/zone/87) and find [Telin Darkforest](/npc/87082). Give him Warmly Glowing Stone to receive [Ancient Longsword](/item/20477).
 
 ### Step 16
 
-Head over to The Hole and find Jaeil the Wretched in the tunnels. Give him Shiny Tin Bowl (Step 7) to spawn Jaeil the Insane. Kill Jaeil the Insane and loot Soulbound Hammer. He is pretty easy and should be 1 groupable.
+Head over to [The Hole](/zone/39) and find [Jaeil the Wretched](/npc/39041) in the tunnels. Give him Shiny Tin Bowl (Step 7) to spawn [Jaeil the Insane](/npc/39154). Kill Jaeil the Insane and loot [Soulbound Hammer](/item/20478). He is pretty easy and should be 1 groupable.
 
 ### Step 17
 
-Go to Plane of Sky and kill an essence tamer on Island 4 (griffon island). You can spawn them by killing an essence carrier. an essence carrier spawns by killing a soul carrier. Loot Swirling Sphere of Color. Seems to always drop from an essence tamer.
+Go to [Plane of Sky](/zone/71) and kill [an essence tamer](/npc/71071) on Island 4 (griffon island). You can spawn them by killing an essence carrier. an essence carrier spawns by killing a soul carrier. Loot [Swirling Sphere of Color](/item/20494). Seems to always drop from an essence tamer.
 
 ### Step 18
 
-Go to Erudin Palace and find Mairee Silentone in the Jewelcrafting area. She is behind the vault door in "Sothure's FINE GEMS".
+Go to [Erudin Palace](/zone/23) and find [Mairee Silentone](/npc/23019) in the Jewelcrafting area. She is behind the vault door in "Sothure's FINE GEMS".
 
-First, Give her Soulbound Hammer by itself to receive Dwarven Smiths Hammer.
+First, Give her Soulbound Hammer by itself to receive [Dwarven Smiths Hammer](/item/20479).
 
-Next, give her Dwarven Smiths Hammer along with Swirling Sphere of Color to receive Hammer of the Ancients.
+Next, give her Dwarven Smiths Hammer along with Swirling Sphere of Color to receive [Hammer of the Ancients](/item/20485).
 
 
 ### Step 19
 
-Go to North Kaladim and locate Kinlo Strongarm. Give him Hammer of the Ancients to receive Small Bit of Mithril Ore. This will also spawn Usbak the Old.
+Go to [North Kaladim](/zone/67) and locate [Kinlo Strongarm](/npc/67030). Give him Hammer of the Ancients to receive [Small Bit of Mithril Ore](/item/20482). This will also spawn [Usbak the Old](/npc/67089).
 
-Give Usbak the Old Ancient Longsword (From Step 15) to receive Refined Ancient Sword.
+Give Usbak the Old Ancient Longsword (From Step 15) to receive [Refined Ancient Sword](/item/20481).
 
-Give Kinlo Strongarm Small Bit of Mithril Ore to receive Refined Mithril Blade.
+Give Kinlo Strongarm Small Bit of Mithril Ore to receive [Refined Mithril Blade](/item/20483).
 
 ### Step 20 - Swiftwind
 
-Go back to Burning Woods. Give Telin Darkforest Refined Ancient Sword. He will give it back and Faelin will spawn. Now give Refined Ancient Sword to Faelin to receive Swiftwind!
+Go back to [Burning Woods](/zone/87). Give Telin Darkforest Refined Ancient Sword. He will give it back and [Faelin](/npc/87019) will spawn. Now give Refined Ancient Sword to Faelin to receive [Swiftwind](/item/20487)!
 
 ### Step 21
 
-Go to Plane of Hate and loot Shattered Emerald of Corruption. I got mine from Master of Spite, but it can drop off of most named in the zone. Uncommon Drop.
+Go to [Plane of Hate](/zone/76) and loot [Shattered Emerald of Corruption](/item/20484). I got mine from Master of Spite, but it can drop off of most named in the zone. Uncommon Drop.
 
 ### Step 22 - Earthcaller
 
-Go to North Karana and find Xanuusus (+1340, +500). Give him Shattered Emerald of Corruption and Refined Mithril Blade to receive Earthcaller!
+Go to [North Karana](/zone/13) and find [Xanuusus](/npc/13061) (+1340, +500). Give him Shattered Emerald of Corruption and Refined Mithril Blade to receive [Earthcaller](/item/20488)!
