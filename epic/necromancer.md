@@ -133,13 +133,13 @@ Go to [Plane of Fear](/zone/72) and loot [Slime Blood of Cazic-Thule](/item/2065
 
 Drops off [Cazic-Thule](/npc/72003). Tradable.
 
-![Terror.jpg](static/guide_images/epics/necromancer/Terror.jpg)
+![Terror.jpg](/static/guide_images/epics/necromancer/Terror.jpg)
 
 ### Step 11
 Go to [Plane of Hate](/zone/76) and loot [Eye of Innoruuk](/item/20656). Seems to drop off of most mini-named.
 
-![Vicar-Map.jpg](static/guide_images/epics/necromancer/Vicar-Map.jpg)
-![Vicar-MKari.jpg](static/guide_images/epics/necromancer/Vicar-MKari.jpg)
+![Vicar-Map.jpg](/static/guide_images/epics/necromancer/Vicar-Map.jpg)
+![Vicar-MKari.jpg](/static/guide_images/epics/necromancer/Vicar-MKari.jpg)
 
 ### Step 12
 [Script Page](/script-entities/timorous/Drendico_Metalbones)
@@ -148,29 +148,29 @@ Head over to [Timorous Deep](/zone/96). Give [Symbol of Insanity](/item/20648) t
 
 Next, give him [Journal of Drendico](/item/18086), [Slime Blood of Cazic-Thule](/item/20655), [Eye of Innoruuk](/item/20656), and [Cloak of Spiroc Feathers](/item/1278) to receive [Prepared Reagent Box](/item/20653).
 
-![Drendico-Metalbones-Map.jpg](static/guide_images/epics/necromancer/Drendico-Metalbones-Map.jpg)
-![Drendico-Metalbones.jpg](static/guide_images/epics/necromancer/Drendico-Metalbones.jpg)
+![Drendico-Metalbones-Map.jpg](/static/guide_images/epics/necromancer/Drendico-Metalbones-Map.jpg)
+![Drendico-Metalbones.jpg](/static/guide_images/epics/necromancer/Drendico-Metalbones.jpg)
 
 ### Step 13
 Go back to [Lake Rathetear](/zone/51). Give [Prepared Reagent Box](/item/20653) to [Kazen Fecae](/npc/51048) to receive [Tome of Instruction](/item/18087).
 
-![Kazen-Fecae-Map.jpg](static/guide_images/epics/necromancer/Kazen-Fecae-Map.jpg)
-![Kazen-Fecae.jpg](static/guide_images/epics/necromancer/Kazen-Fecae.jpg)
+![Kazen-Fecae-Map.jpg](/static/guide_images/epics/necromancer/Kazen-Fecae-Map.jpg)
+![Kazen-Fecae.jpg](/static/guide_images/epics/necromancer/Kazen-Fecae.jpg)
 
 ### Step 14
 [Script Page](/script-entities/lakerathe/Kazen_Fecae)
 
 Go to [Plane of Sky](/zone/71) again. On the first island you will find [a thunder spirit princess](/npc/71032). Give her 1 platinum. Doing so will spawn [Gkzzallk](/npc/71073) on Island 3. Go up to him. He is inside the hut in the middle of the island. Other mobs should not aggro as long as you're inside. Give [Gkzzallk](/npc/71073) [Tome of Instruction](/item/18087) to receive [Gkzzallk in a Box](/item/20652).
 
-![Gkzzallk.jpg](static/guide_images/epics/necromancer/Gkzzallk.jpg)
-![a-thunder-spirit-princess.jpg](static/guide_images/epics/necromancer/a-thunder-spirit-princess.jpg)
+![Gkzzallk.jpg](/static/guide_images/epics/necromancer/Gkzzallk.jpg)
+![a-thunder-spirit-princess.jpg](/static/guide_images/epics/necromancer/a-thunder-spirit-princess.jpg)
 
 ### Final Turn In
 [Script Page](/script-entities/lakerathe/Kazen_Fecae)
 
 Give [Gkzzallk in a Box](/item/20652) to [Kazen Fecae](/npc/51048) in [Lake Rathetear](/zone/51) for your [Scythe of the Shadowed Soul](/item/20544)!
 
-![Kazen-Fecae-Map.jpg](static/guide_images/epics/necromancer/Kazen-Fecae-Map.jpg)
-![Kazen-Fecae.jpg](static/guide_images/epics/necromancer/Kazen-Fecae.jpg)
+![Kazen-Fecae-Map.jpg](/static/guide_images/epics/necromancer/Kazen-Fecae-Map.jpg)
+![Kazen-Fecae.jpg](/static/guide_images/epics/necromancer/Kazen-Fecae.jpg)
 
-![Scythe-of-the-Shadowed-Soul-Stats.jpg](static/guide_images/epics/necromancer/Scythe-of-the-Shadowed-Soul-Stats.jpg)
+![Scythe-of-the-Shadowed-Soul-Stats.jpg](/static/guide_images/epics/necromancer/Scythe-of-the-Shadowed-Soul-Stats.jpg)

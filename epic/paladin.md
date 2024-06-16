@@ -280,33 +280,33 @@ Loot [Torn, Burnt Book](/item/19071) from any of the following:
 * [Lord Nagafen](/npc/32040) in [Nagafen's Lair](/zone/32)
 * [Severilous](/npc/94002) in [Emerald Jungle](/zone/94)
 
-![Talendor.jpg](static/guide_images/epics/paladin/Talendor.jpg)
-![Gorenaire.jpg](static/guide_images/epics/paladin/Gorenaire.jpg)
+![Talendor.jpg](/static/guide_images/epics/paladin/Talendor.jpg)
+![Gorenaire.jpg](/static/guide_images/epics/paladin/Gorenaire.jpg)
 
 ### Step 18
 [Script Page](/script-entities/qeynos2/Rineval_Talyas)
 
 Once you have both books, go to [North Qeynos](/zone/2) and find [Rineval Talyas](/npc/2041) (-160, -345). Give her Torn, [Frost-Covered Book](/item/19070), [Torn, Burnt Book](/item/19071), and 1000pp to receive [Book of Scale](/item/18302) (tradable).
 
-![Rineval-Talyas-Map.jpg](static/guide_images/epics/paladin/Rineval-Talyas-Map.jpg)
-![Rineval-Talyas.jpg](static/guide_images/epics/paladin/Rineval-Talyas.jpg)
+![Rineval-Talyas-Map.jpg](/static/guide_images/epics/paladin/Rineval-Talyas-Map.jpg)
+![Rineval-Talyas.jpg](/static/guide_images/epics/paladin/Rineval-Talyas.jpg)
 
 ### Step 19
 [Script Page](/script-entities/oot/Oracle_of_K-Arnon)
 
 Go to [Ocean of Tears](/zone/69) and give [Book of Scale](/item/18302) to [Oracle of K'Arnon](/npc/69044) to receive [Miragul's Phylactery](/item/19072).
 
-![Ocean-of-Tears-Map-Rogue-1.0.jpg](static/guide_images/epics/paladin/Ocean-of-Tears-Map-Rogue-1.0.jpg)
-![Oracle-of-KArnon.jpg](static/guide_images/epics/paladin/Oracle-of-KArnon.jpg)
+![Ocean-of-Tears-Map-Rogue-1.0.jpg](/static/guide_images/epics/paladin/Ocean-of-Tears-Map-Rogue-1.0.jpg)
+![Oracle-of-KArnon.jpg](/static/guide_images/epics/paladin/Oracle-of-KArnon.jpg)
 
 ### Step 20
 [Script Page](/script-entities/everfrost/Lich_of_Miragul)
 
 Head to [Everfrost](/zone/30). You will need to find an opening in the frozen lake and swim to the underwater tunnels. You are looking for [Lich of Miragul](/npc/30093). He roams around in the caves. He will con as "KOS", however he doesn't attack and you shouldn't need to charm him to do the turn-in. I was able to hand it in with no problems. Give him [Miragul](/npc/30094)'s Phylactery to spawn [Miragul](/npc/30094). Kill [Miragul](/npc/30094) and loot [Miragul's Head](/item/19073) and [Miragul's Robe](https://www.pqdi.cc/item/1254). 
 
-![Everfrost-Map-Paladin-1.0.jpg](static/guide_images/epics/paladin/Everfrost-Map-Paladin-1.0.jpg)
-![Lich-of-Miragul.jpg](static/guide_images/epics/paladin/Lich-of-Miragul.jpg)
-![Miragul.jpg](static/guide_images/epics/paladin/Miragul.jpg)
+![Everfrost-Map-Paladin-1.0.jpg](/static/guide_images/epics/paladin/Everfrost-Map-Paladin-1.0.jpg)
+![Lich-of-Miragul.jpg](/static/guide_images/epics/paladin/Lich-of-Miragul.jpg)
+![Miragul.jpg](/static/guide_images/epics/paladin/Miragul.jpg)
 
 ### Step 21
 
@@ -332,14 +332,14 @@ Head to [Everfrost](/zone/30). You will need to find an opening in the frozen la
     - Next, give [Inte Akera](/npc/71091) [Ghoulbane](/item/5403) to receive [Inte's Second Blessing](/item/18034).
     - Finally, give [Inte Akera](/npc/71091) [Inte's First Blessing](/item/18033), [Inte's Second Blessing](/item/18034), [Miragul](/npc/30094)'s Robe, [Miragul's Head](/item/19073) to receive [Fiery Avenger](/item/11050)!
 
-![Plane-of-Sky-General.jpg](static/guide_images/epics/paladin/Plane-of-Sky-General.jpg)
-![Dason-Goldblade.jpg](static/guide_images/epics/paladin/Dason-Goldblade.jpg)
-![Dirkog-Steelhand.jpg](static/guide_images/epics/paladin/Dirkog-Steelhand.jpg)
-![Inte-Akera.jpg](static/guide_images/epics/paladin/Inte-Akera.jpg)
+![Plane-of-Sky-General.jpg](/static/guide_images/epics/paladin/Plane-of-Sky-General.jpg)
+![Dason-Goldblade.jpg](/static/guide_images/epics/paladin/Dason-Goldblade.jpg)
+![Dirkog-Steelhand.jpg](/static/guide_images/epics/paladin/Dirkog-Steelhand.jpg)
+![Inte-Akera.jpg](/static/guide_images/epics/paladin/Inte-Akera.jpg)
 
 [Fiery Defender](/item/10099) is the final reward in the Paladin Epic. It requires that you already have [Fiery Avenger](/item/11050).
 
-![Fiery-Avenger-Stats.jpg](static/guide_images/epics/paladin/Fiery-Avenger-Stats.jpg)
+![Fiery-Avenger-Stats.jpg](/static/guide_images/epics/paladin/Fiery-Avenger-Stats.jpg)
 
 ## [Fiery Defender](/item/10099)
 ### Step 21
@@ -347,21 +347,21 @@ Head to [Everfrost](/zone/30). You will need to find an opening in the frozen la
 
 Head to [Nektulos Forest](/zone/25) with a group. Find [Kirak Vil](/npc/25301), Say "i am a paladin". He will attack. Kill him and loot [Tainted Darksteel Shield](/item/29002).
 
-![Kirak-Vil-Map.jpg](static/guide_images/epics/paladin/Kirak-Vil-Map.jpg)
-![Kirak-Vil.jpg](static/guide_images/epics/paladin/Kirak-Vil.jpg)
+![Kirak-Vil-Map.jpg](/static/guide_images/epics/paladin/Kirak-Vil-Map.jpg)
+![Kirak-Vil.jpg](/static/guide_images/epics/paladin/Kirak-Vil.jpg)
 
 ### Step 22
 Go to [The Hole](/zone/39). You will need to kill [Keeper of The Tombs](/npc/39116) and loot [Tainted Darksteel Sword](/item/29000). Supposedly on a 3 day respawn (not confirmed). Take a group or two in Kunark era. Level 55.
 
-![Graveyard-Map.png](static/guide_images/epics/paladin/Graveyard-Map.png)
-![Keeper-of-the-Tombs.jpg](static/guide_images/epics/paladin/Keeper-of-the-Tombs.jpg)
-![Keeper-of-the-Tombs-Map.jpg](static/guide_images/epics/paladin/Keeper-of-the-Tombs-Map.jpg)
+![Graveyard-Map.png](/static/guide_images/epics/paladin/Graveyard-Map.png)
+![Keeper-of-the-Tombs.jpg](/static/guide_images/epics/paladin/Keeper-of-the-Tombs.jpg)
+![Keeper-of-the-Tombs-Map.jpg](/static/guide_images/epics/paladin/Keeper-of-the-Tombs-Map.jpg)
 
 ### Step 23
 Go to [Plane of Hate](/zone/76). Kill [thought destroyer](/npc/76387) (-210, -590) and loot [Tainted Darksteel Breastplate](/item/29001). Respawn timer unconfirmed. Level 55. No PH. A couple of groups might be needed during Kunark?
 
-![thought-destroyer-map-1.jpg](static/guide_images/epics/paladin/thought-destroyer-map-1.jpg)
-![thought-destroyer-1.jpg](static/guide_images/epics/paladin/thought-destroyer-1.jpg)
+![thought-destroyer-map-1.jpg](/static/guide_images/epics/paladin/thought-destroyer-map-1.jpg)
+![thought-destroyer-1.jpg](/static/guide_images/epics/paladin/thought-destroyer-1.jpg)
 
 ### Step 24
 [Script Page](/script-entities/kaladimb/Jark)
@@ -376,17 +376,17 @@ Go to [Plane of Hate](/zone/76). Kill [thought destroyer](/npc/76387) (-210, -59
 
 3. Go back to [Jark](/npc/67056) and give him [Cold Plate of Beef and Bread](/item/29007) to receive [Pure Crystal](/item/29006).
 
-![Jark-Map.jpg](static/guide_images/epics/paladin/Jark-Map.jpg)
-![Jark.jpg](static/guide_images/epics/paladin/Jark.jpg)
-![Nella-Stonebraids.jpg](static/guide_images/epics/paladin/Nella-Stonebraids.jpg)
+![Jark-Map.jpg](/static/guide_images/epics/paladin/Jark-Map.jpg)
+![Jark.jpg](/static/guide_images/epics/paladin/Jark.jpg)
+![Nella-Stonebraids.jpg](/static/guide_images/epics/paladin/Nella-Stonebraids.jpg)
 
 ### Step 25
 [Script Page](/script-entities/felwithea/Elia_the_Pure)
 
 Go to [Northern Felwithe](/zone/61). Give [Elia the Pure](/npc/61013) the [Tainted Darksteel Shield](/item/29002) to receive [Gleaming Crested Shield](/item/29005).
 
-![Elia-the-Pure-Map.jpg](static/guide_images/epics/paladin/Elia-the-Pure-Map.jpg)
-![Elia-the-Pure.jpg](static/guide_images/epics/paladin/Elia-the-Pure.jpg)
+![Elia-the-Pure-Map.jpg](/static/guide_images/epics/paladin/Elia-the-Pure-Map.jpg)
+![Elia-the-Pure.jpg](/static/guide_images/epics/paladin/Elia-the-Pure.jpg)
 
 ### Step 26
 
@@ -394,9 +394,9 @@ Go to [Northern Felwithe](/zone/61). Give [Elia the Pure](/npc/61013) the [Taint
 
 Go to [West Freeport](/zone/9) and find [peasant woman](/npc/9122) (140, -550). Say "I will take it to him" to receive [Bucket of Water](/item/29008). Give the [Bucket of Water](/item/29008) to [Joshua](/npc/9121) (also in [East Freeport](/zone/10) (30, -470)) to receive [Bucket of Pure Water](/item/29009).
 
-![peasent-woman-map.jpg](static/guide_images/epics/paladin/peasent-woman-map.jpg)
-![peasent-woman.jpg](static/guide_images/epics/paladin/peasent-woman.jpg)
-![Joshua.jpg](static/guide_images/epics/paladin/Joshua.jpg)
+![peasent-woman-map.jpg](/static/guide_images/epics/paladin/peasent-woman-map.jpg)
+![peasent-woman.jpg](/static/guide_images/epics/paladin/peasent-woman.jpg)
+![Joshua.jpg](/static/guide_images/epics/paladin/Joshua.jpg)
 
 ### Step 27
 
@@ -410,8 +410,8 @@ Go to [Erudin](/zone/24) and locate [Reklon Gnallen](/npc/24044).
 
 - Lastly, give [Reklon Gnallen](/npc/24044) [Gleaming Crested Shield](/item/29005), [Gleaming Crested Sword](/item/29003), [Gleaming Crested Breastplate](/item/29004) to receive [Mark of Atonement](/item/29010).
 
-![Reklon-Gnallen-Map.jpg](static/guide_images/epics/paladin/Reklon-Gnallen-Map.jpg)
-![Reklon-Gnallen.jpg](static/guide_images/epics/paladin/Reklon-Gnallen.jpg)
+![Reklon-Gnallen-Map.jpg](/static/guide_images/epics/paladin/Reklon-Gnallen-Map.jpg)
+![Reklon-Gnallen.jpg](/static/guide_images/epics/paladin/Reklon-Gnallen.jpg)
 
 ### Step 28
 Go to [Plane of Fear](/zone/72). Bring your [Fiery Avenger](/item/11050) and [Mark of Atonement](/item/29010).
@@ -420,7 +420,7 @@ Go to [Plane of Fear](/zone/72). Bring your [Fiery Avenger](/item/11050) and [Ma
 
 Give them both to [Irak Altil](/npc/72078) to receive your [Fiery Defender](/item/10099)!
 
-![Irak-Altil-Map.jpg](static/guide_images/epics/paladin/Irak-Altil-Map.jpg)
-![Irak-Altil.jpg](static/guide_images/epics/paladin/Irak-Altil.jpg)
+![Irak-Altil-Map.jpg](/static/guide_images/epics/paladin/Irak-Altil-Map.jpg)
+![Irak-Altil.jpg](/static/guide_images/epics/paladin/Irak-Altil.jpg)
 
-![Fiery-Defender-Stats.jpg](static/guide_images/epics/paladin/Fiery-Defender-Stats.jpg)
+![Fiery-Defender-Stats.jpg](/static/guide_images/epics/paladin/Fiery-Defender-Stats.jpg)

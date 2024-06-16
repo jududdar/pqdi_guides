@@ -1,4 +1,4 @@
-# Druid Epic - Nature Walker's Scimitar
+(/static/guide_images/# Druid Epic - Nature Walker's Scimitar
 
 - [ ] [Druid Epic - Nature Walker's Scimitar](#druid-epic-nature-walkers-scimitar)
     - [ ] [Pre-Farmable Items](#pre-farmable-items)
@@ -117,8 +117,8 @@ Go to [Greater Faydark](/zone/54)  to Loc: +1535, +570. At this spot [Faelin Blo
 ### Step 3
 Go to [Kithikor Forest](/zone/20) and find [Giz X'Tin](/npc/20058). He roams so you'll need to track him. Give him [Faelin](/npc/87019)'s Ring to receive [Dark Metal Coin](/item/20447). Upon turnin [Teir'Dal Reaver](/npc/20190) will spawn and attack. You do not have to kill it for anything.
 
-![Giz-Xtin.jpg](static/guide_images/epics/druid/Giz-Xtin.jpg)
-![TeirDal-Reaver.jpg](static/guide_images/epics/druid/TeirDal-Reaver.jpg)
+![Giz-Xtin.jpg](/static/guide_images/epics/druid/Giz-Xtin.jpg)
+![TeirDal-Reaver.jpg](/static/guide_images/epics/druid/TeirDal-Reaver.jpg)
 
 ### Step 4
 [Script Page](/script-entities/burningwood/Telin_Darkforest)
@@ -134,38 +134,38 @@ Go back to [Telin Darkforest](/npc/87082) (+3240, +2880) in [Burning Woods](/zon
 1. Head to [East Karana](/zone/15) and find [Althele](/npc/15044) (-3660, -1590). Give her Worn [Dark Metal Coin](/item/20447) to receive [Braided Grass Amulet](/item/20450). This will also spawn [Sionae](/npc/15178) nearby (-2590, -1600).
 
 ![Althele-Map.jpg](/static/guide_images/epics/druid/Althele-Map.jpg)
-![Althele.jpg](static/guide_images/epics/druid/Althele.jpg)
+![Althele.jpg](/static/guide_images/epics/druid/Althele.jpg)
 
 [Script Page](/script-entities/eastkarana/Sionae)
 
 2. Give [Sionae](/npc/15178) (-2590, -1600) [Braided Grass Amulet](/item/20450) to receive [Frayed Braided Grass Amulet](/item/20451). This will also spawn [Nuien](/npc/15167) (-3650, +300).
 
 ![Sionae-Map.jpg](/static/guide_images/epics/druid/Sionae-Map.jpg)
-![Sionae.jpg](static/guide_images/epics/druid/Sionae.jpg)
+![Sionae.jpg](/static/guide_images/epics/druid/Sionae.jpg)
 
 [Script Page](/script-entities/eastkarana/Nuien)
 
 3. Give [Nuien](/npc/15167) (-3650, +300) [Frayed Braided Grass Amulet](/item/20451), he will return it. This will also spawn [Teloa](/npc/15170) (-3850, -2850).
 
 ![Nuien-Map.jpg](/static/guide_images/epics/druid/Nuien-Map.jpg)
-![Nuien.jpg](static/guide_images/epics/druid/Nuien.jpg)
+![Nuien.jpg](/static/guide_images/epics/druid/Nuien.jpg)
 
 [Script Page](/script-entities/eastkarana/Teloa)
 
 4. Give [Teloa](/npc/15170) (-3850, -2850) [Frayed Braided Grass Amulet](/item/20451). Follow her back to the "gathering spot". At this point [Dark Elf Corruptor](/npc/15153) and two [Dark Elf Reavers](/npc/15000) will spawn. Kill them and loot [Fleshbound Tome](/item/20452) from [Dark Elf Corrupter](/npc/15153).
 
 ![Teola-Map.jpg](/static/guide_images/epics/druid/Teola-Map.jpg)
-![Teola.jpg](static/guide_images/epics/druid/Teola.jpg)
+![Teola.jpg](/static/guide_images/epics/druid/Teola.jpg)
 ![Dark-Elf-Spawn-Map.jpg](/static/guide_images/epics/druid/Dark-Elf-Spawn-Map.jpg)
-![Dark-Elf-Reaver.jpg](static/guide_images/epics/druid/Dark-Elf-Reaver.jpg)
-![Dark-Elf-Corruptor.jpg](static/guide_images/epics/druid/Dark-Elf-Corruptor.jpg)
+![Dark-Elf-Reaver.jpg](/static/guide_images/epics/druid/Dark-Elf-Reaver.jpg)
+![Dark-Elf-Corruptor.jpg](/static/guide_images/epics/druid/Dark-Elf-Corruptor.jpg)
 
 5. Give [Fleshbound Tome](/item/20452) to [Althele](/npc/15044) to receive [Earth Stained Note](/item/18959).
 
 [Script Page](/script-entities/eastkarana/Althele)
 
 ![Althele-Map.jpg](/static/guide_images/epics/druid/Althele-Map.jpg)
-![Althele.jpg](static/guide_images/epics/druid/Althele.jpg)
+![Althele.jpg](/static/guide_images/epics/druid/Althele.jpg)
 
 ### Step 6
 [Script Page](/script-entities/misty/Ella_Foodcrafter)
@@ -174,7 +174,7 @@ Go to [Misty Thicket](/zone/33) and track down [Ella Foodcrafter](/npc/33077). G
 
 **You can also forage a [Sweetened Mudroot](/item/20465) while here (See Step 7)**
 
-![Ella-Foodcrafter.jpg](static/guide_images/epics/druid/Ella-Foodcrafter.jpg)
+![Ella-Foodcrafter.jpg](/static/guide_images/epics/druid/Ella-Foodcrafter.jpg)
 
 ### Step 7
 
@@ -196,9 +196,9 @@ You must be at least Indifferent faction to do this quest. If you are not indiff
 
 https://everquest.allakhazam.com/db/faction.html?faction=22
 
-![Darius-Gandril-Map.jpg](static/guide_images/epics/druid/Darius-Gandril-Map.jpg)
-![Darius-Gandril.jpg](static/guide_images/epics/druid/Darius-Gandril.jpg)
-![Niola-Impholder.jpg](static/guide_images/epics/druid/Niola-Impholder.jpg)
+![Darius-Gandril-Map.jpg](/static/guide_images/epics/druid/Darius-Gandril-Map.jpg)
+![Darius-Gandril.jpg](/static/guide_images/epics/druid/Darius-Gandril.jpg)
+![Niola-Impholder.jpg](/static/guide_images/epics/druid/Niola-Impholder.jpg)
 ![Niola-Impholder-Map.jpg](/static/guide_images/epics/druid/Niola-Impholder-Map.jpg)
 
 ### Step 9
@@ -207,7 +207,7 @@ https://everquest.allakhazam.com/db/faction.html?faction=22
 Go to [Timorous Deep](/zone/96) and locate [Alrik Farsight](/npc/96032). He roams near the Chessboard. Take the dock from [Butcherblock](/zone/68) to get there the quickest. Say "I will take the artifact" to receive [Crushed Pot](/item/20457). You need at least Amiable faction with [Keepers of the Art](/faction/275) for him to respond.
 
 ![Alrik-Farsight-Map.jpg](/static/guide_images/epics/druid/Alrik-Farsight-Map.jpg)
-![Alrik-Farsight.jpg](static/guide_images/epics/druid/Alrik-Farsight.jpg)
+![Alrik-Farsight.jpg](/static/guide_images/epics/druid/Alrik-Farsight.jpg)
 
 ### Step 10
 Now for a little running around:
@@ -216,28 +216,28 @@ Now for a little running around:
 1. Go to [Southern Felwithe](/zone/62) and give [Farios Elianos](/npc/62018) your [Crushed Pot](/item/20457) to receive [Grocery List](/item/20458).
 
 ![Farios-Elianos-Map.jpg](/static/guide_images/epics/druid/Farios-Elianos-Map.jpg)
-![Farios-Elianos.jpg](static/guide_images/epics/druid/Farios-Elianos.jpg)
+![Farios-Elianos.jpg](/static/guide_images/epics/druid/Farios-Elianos.jpg)
 
 [Script Page](/script-entities/felwithea/Merchant_Nora)
 
 2. Go to [Northern Felwithe](/zone/61) and give [Merchant Nora](/npc/61034) (can use find) [Grocery List](/item/20458) to receive [Bag of Provisions](/item/20459).
 
 ![Merchant-Nora-Map.jpg](/static/guide_images/epics/druid/Merchant-Nora-Map.jpg)
-![Merchant-Nora.jpg](static/guide_images/epics/druid/Merchant-Nora.jpg)
+![Merchant-Nora.jpg](/static/guide_images/epics/druid/Merchant-Nora.jpg)
 
 [Script Page](/script-entities/felwitheb/Farios_Elianos)
 
 3. Go back to [Southern Felwithe](/zone/62) and give [Farios Elianos](/npc/62018) [Bag of Provisions](/item/20459) to receive [Receipt](/item/20474).
 
 ![Farios-Elianos-Map.jpg](/static/guide_images/epics/druid/Farios-Elianos-Map.jpg)
-![Farios-Elianos.jpg](static/guide_images/epics/druid/Farios-Elianos.jpg)
+![Farios-Elianos.jpg](/static/guide_images/epics/druid/Farios-Elianos.jpg)
 
 [Script Page](/script-entities/timorous/Alrik_Farsight)
 
 4. Go back to [Timorous Deep](/zone/96) and give [Alrik Farsight](/npc/96032) (near Chessboard - Take [Butcherblock](/zone/68) Dock) [Receipt](/item/20474) to receive [Ancient Pattern](/item/18960).
 
 ![Alrik-Farsight-Map.jpg](/static/guide_images/epics/druid/Alrik-Farsight-Map.jpg)
-![Alrik-Farsight.jpg](static/guide_images/epics/druid/Alrik-Farsight.jpg)
+![Alrik-Farsight.jpg](/static/guide_images/epics/druid/Alrik-Farsight.jpg)
 
 ### Step 11
 
@@ -248,21 +248,21 @@ Now for a little running around:
 2.  Go to [Surefall Glade](/zone/3) and find [Merdan Fleetfoot](/npc/3017). Say "Who is Niera" then give him [Rose of Firiona](/item/12774) to receive [Wood Painting](/item/20475).
 
 ![Merdan-Fleetfoot-Map.jpg](/static/guide_images/epics/druid/Merdan-Fleetfoot-Map.jpg)
-![Merdan-Fleetfoot.jpg](static/guide_images/epics/druid/Merdan-Fleetfoot.jpg)
+![Merdan-Fleetfoot.jpg](/static/guide_images/epics/druid/Merdan-Fleetfoot.jpg)
 
 [Script Page](/script-entities/frontiermtns/a_human_skeleton)
 
 3. Go to [Frontier Mountains](/zone/92). Along the outside south wall of the Giant Fort  you will find [a human skeleton](/npc/92084) (-820, -900). Give it [Wood Painting](/item/20475) to receive [Silver Chained Locket](/item/20476).
 
 ![a-human-skeleton-Map.jpg](/static/guide_images/epics/druid/a-human-skeleton-Map.jpg)
-![a-human-skeleton.jpg](static/guide_images/epics/druid/a-human-skeleton.jpg)
+![a-human-skeleton.jpg](/static/guide_images/epics/druid/a-human-skeleton.jpg)
 
 [Script Page](/script-entities/qrg/Niera_Farbreeze)
 
 4. Go back to [Surefall Glade](/zone/3), this time find [Niera Farbreeze](/npc/3018). Give her [Silver Chained Locket](/item/20476) to receive [Platinum Speckled Powder](/item/20456).
 
 ![Niera-Farbreeze-Map.jpg](/static/guide_images/epics/druid/Niera-Farbreeze-Map.jpg)
-![Niera-Farbreeze.jpg](static/guide_images/epics/druid/Niera-Farbreeze.jpg)
+![Niera-Farbreeze.jpg](/static/guide_images/epics/druid/Niera-Farbreeze.jpg)
 
 ### Step 12
 
@@ -275,7 +275,7 @@ Now for a little running around:
 2. Go to [North Kaladim](/zone/67) and give [Jade Reaver](/item/5664) to [Kinlo Strongarm](/npc/67030) to receive [Enchanted Clay](/item/20455).
 
 ![Kinlo-Strongarm-Map.jpg](/static/guide_images/epics/druid/Kinlo-Strongarm-Map.jpg)
-![Kinlo-Strongarm.jpg](static/guide_images/epics/druid/Kinlo-Strongarm.jpg)
+![Kinlo-Strongarm.jpg](/static/guide_images/epics/druid/Kinlo-Strongarm.jpg)
 
 ### Step 13
 
@@ -315,13 +315,13 @@ Once you find [Venril Sathir](/npc/102010)'s remains, give it [Summoned: Firefly
 1. Go to [Firiona Vie](/zone/84) and locate [Foloal Stormforest](/npc/84207). She will be either in the ruins or the city depending on what expansion your server is on. It's easiest to just track her. Give her [Pulsing Green Stone](/item/20461) (From Step 14) and [Softly Glowing Stone](/item/20462) (From Step 13) to receive [Warmly Glowing Stone](/item/20468).
 
 ![Foloal-Stormforest-Map.jpg](/static/guide_images/epics/druid/Foloal-Stormforest-Map.jpg)
-![Foloal-Stormforest.jpg](static/guide_images/epics/druid/Foloal-Stormforest.jpg)
+![Foloal-Stormforest.jpg](/static/guide_images/epics/druid/Foloal-Stormforest.jpg)
 
 [Script Page](/script-entities/misty/Ella_Foodcrafter)
 
 2. Go back to [Misty Thicket](/zone/33) and find [Ella Foodcrafter](/npc/33077). Give her [Warmly Glowing Stone](/item/20468) to receive [Elaborate Scimitar](/item/20440).
 
-![Ella-Foodcrafter.jpg](static/guide_images/epics/druid/Ella-Foodcrafter.jpg)
+![Ella-Foodcrafter.jpg](/static/guide_images/epics/druid/Ella-Foodcrafter.jpg)
 
 ### Step 16 - [Cleansed Spirit of Antonica](/item/20698)
 
