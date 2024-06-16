@@ -2,15 +2,15 @@
 
 - [ ] [Shadow Knight Epic - Innoruuk's Curse](#shadow-knight-epic---innoruuks-curse)
     - [ ] [Pre-Farmable Items](#pre-farmable-items)
-                - [ ] [Darkforge Armor](#darkforge-armor): Get [Darkforge Helm](/item/3140), [Darkforge Greaves](/item/3145), and [Darkforge Breastplate](/item/3141)
-                - [ ] [Money - 900pp](#money-900pp): Acquire Currency
-                - [ ] [Money - 1000pp](#money-1000pp): Acquire Currency
-                - [ ] [Dusty Tome](#dusty-tome): Loot [Dusty Tome](/item/14382) in [The Hole](/zone/39)
-                - [ ] [Blade of Abrogation](#blade-of-abrogation): Loot [Blade of Abrogation](/item/5430) in [Plane of Sky](/zone/71)
-                - [ ] [Ghoulbane](#ghoulbane): Get/Loot [Ghoulbane](/item/5403)
-                - [ ] [Soul Leech, Dark Sword of Blood](#soul-leech-dark-sword-of-blood): Loot in [Plane of Fear](/zone/72)
-                - [ ] [Drake Spine](#drake-spine): Loot in [Rathe Mountains](/zone/50)
-                - [ ] [Decrepit Hide](#decrepit-hide):  Loot in [Plane of Hate](/zone/76)
+        - [ ] [Darkforge Armor](#darkforge-armor): Get [Darkforge Helm](/item/3140), [Darkforge Greaves](/item/3145), and [Darkforge Breastplate](/item/3141)
+        - [ ] [Money - 900pp](#money-900pp): Acquire Currency
+        - [ ] [Money - 1000pp](#money-1000pp): Acquire Currency
+        - [ ] [Dusty Tome](#dusty-tome): Loot [Dusty Tome](/item/14382) in [The Hole](/zone/39)
+        - [ ] [Blade of Abrogation](#blade-of-abrogation): Loot [Blade of Abrogation](/item/5430) in [Plane of Sky](/zone/71)
+        - [ ] [Ghoulbane](#ghoulbane): Get/Loot [Ghoulbane](/item/5403)
+        - [ ] [Soul Leech, Dark Sword of Blood](#soul-leech-dark-sword-of-blood): Loot in [Plane of Fear](/zone/72)
+        - [ ] [Drake Spine](#drake-spine): Loot in [Rathe Mountains](/zone/50)
+        - [ ] [Decrepit Hide](#decrepit-hide):  Loot in [Plane of Hate](/zone/76)
     - [ ] [The Quest](#the-quest)
         - [ ] [Step 1](#step-1): Get [Darkforge Helm](/item/3140), [Darkforge Greaves](/item/3145), and [Darkforge Breastplate](/item/3141)
         - [ ] [Step 2](#step-2): Loot [Letter to Duriek](/item/18099) in The [Overthere](/zone/93)

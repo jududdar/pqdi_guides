@@ -2,17 +2,17 @@
 
 - [ ] [Bard Epic - Singing Short Sword(#bard-epic---singing-short-sword)
     - [ ] [Pre-Farmable Items](#pre-farmable-items)
-                - [ ] [Onyx Drake Gut](#onyx-drake-gut): Looted from [Blackwing](/npc/50323) in [Rathe Mountains](/zone/50)
-                - [ ] [Red Wurm Gut](#red-wurm-gut): Looted from [Nezekezena](/npc/87007) in [Burning Woods](/zone/87)
-                - [ ] [Chromodrac Gut](#chromodrac-gut): Looted from [Eldrig the Old](/npc/91009) in [Skyfire Mountains](/zone/91)
-                - [ ] [Alluring Horn](#alluring-horn): Looted from [Quag Maelstrom](/npc/69093) in [Ocean of Tears](/zone/69)
-                - [ ] [Kedge Backbone](#kedge-backbone): Looted from [Phinigel Autropos](/npc/64001) in [Kedge Keep](/zone/64)
-                - [ ] [Amygdalan Tendril](#amygdalan-tendril): Looted from Amygdalans in [Plane of Fear](/zone/72)
-                - [ ] [Petrified  Werewolf Skull](#petrified-werewolf-skull): Looted from drolvargs in [Karnor's Castle](/zone/102)
-                - [ ] [Undead Dragongut Strings](#undead-dragongut-strings): Looted from [Trakanon](/npc/89039) in [Ruins of Sebilis](https://www.pqdi.cc/zone/89)
-                - [ ] [White Dragon Scales](#white-dragon-scales): Looted from white dragons
-                - [ ] [Red Dragon Scales](#red-dragon-scales): Looted from red dragons
-                - [ ] [Metal Bits](#metal-bits): Crafted with Blacksmithing
+        - [ ] [Onyx Drake Gut](#onyx-drake-gut): Looted from [Blackwing](/npc/50323) in [Rathe Mountains](/zone/50)
+        - [ ] [Red Wurm Gut](#red-wurm-gut): Looted from [Nezekezena](/npc/87007) in [Burning Woods](/zone/87)
+        - [ ] [Chromodrac Gut](#chromodrac-gut): Looted from [Eldrig the Old](/npc/91009) in [Skyfire Mountains](/zone/91)
+        - [ ] [Alluring Horn](#alluring-horn): Looted from [Quag Maelstrom](/npc/69093) in [Ocean of Tears](/zone/69)
+        - [ ] [Kedge Backbone](#kedge-backbone): Looted from [Phinigel Autropos](/npc/64001) in [Kedge Keep](/zone/64)
+        - [ ] [Amygdalan Tendril](#amygdalan-tendril): Looted from Amygdalans in [Plane of Fear](/zone/72)
+        - [ ] [Petrified  Werewolf Skull](#petrified-werewolf-skull): Looted from drolvargs in [Karnor's Castle](/zone/102)
+        - [ ] [Undead Dragongut Strings](#undead-dragongut-strings): Looted from [Trakanon](/npc/89039) in [Ruins of Sebilis](https://www.pqdi.cc/zone/89)
+        - [ ] [White Dragon Scales](#white-dragon-scales): Looted from white dragons
+        - [ ] [Red Dragon Scales](#red-dragon-scales): Looted from red dragons
+        - [ ] [Metal Bits](#metal-bits): Crafted with Blacksmithing
     - [ ] [Maestro's Symphony Page 24 Top](#maestros-symphony-page-24-top)
         - [ ] [Step 1](#step-1): Get [Torch of Misty](/item/20532) in [West Karana](/zone/12)
         - [ ] [Step 2](#step-2): Get [Torch of Ro](/item/20533) in [Misty Thicket](/zone/33)
